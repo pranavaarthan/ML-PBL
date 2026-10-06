@@ -1,0 +1,3001 @@
+Student_ID,Delivery_Method,Weekly_Clicks,Primary_Emotion,Engagement_Score,Engagement_Level,Academic_Success_Score
+STU_0001,Online,80,Surprised,0.121,Engaged,89.8
+STU_0002,In-Person,16,Sad,0.064,Disengaged,42.8
+STU_0003,In-Person,114,Neutral,0.162,Highly Engaged,88.9
+STU_0004,Hybrid,101,Surprised,0.132,Engaged,75.5
+STU_0005,Online,210,Happy,0.175,Highly Engaged,99.2
+STU_0006,Online,73,Scared,0.05,Disengaged,65.6
+STU_0007,Online,76,Angry,0.056,Disengaged,62.8
+STU_0008,In-Person,95,Neutral,0.111,Engaged,82.1
+STU_0009,Hybrid,188,Surprised,0.1,Engaged,91.4
+STU_0010,In-Person,191,Neutral,0.205,Highly Engaged,89.5
+STU_0011,Online,207,Happy,0.174,Highly Engaged,99.5
+STU_0012,In-Person,94,Neutral,0.128,Engaged,85.9
+STU_0013,In-Person,248,Neutral,0.192,Highly Engaged,97.6
+STU_0014,Online,225,Happy,0.204,Highly Engaged,95.1
+STU_0015,Online,139,Surprised,0.135,Engaged,82.7
+STU_0016,Online,108,Neutral,0.191,Highly Engaged,89.3
+STU_0017,Online,53,Sad,0.017,Disengaged,46.5
+STU_0018,Hybrid,102,Happy,0.162,Highly Engaged,99.4
+STU_0019,Hybrid,221,Neutral,0.164,Highly Engaged,95.0
+STU_0020,Online,57,Sad,0.054,Disengaged,56.0
+STU_0021,Hybrid,230,Neutral,0.141,Highly Engaged,88.7
+STU_0022,Online,97,Happy,0.171,Highly Engaged,99.2
+STU_0023,Online,96,Surprised,0.21,Highly Engaged,98.9
+STU_0024,Online,199,Neutral,0.158,Highly Engaged,92.0
+STU_0025,Hybrid,153,Neutral,0.129,Engaged,91.1
+STU_0026,In-Person,170,Happy,0.193,Highly Engaged,90.0
+STU_0027,Online,84,Angry,0.071,Disengaged,69.8
+STU_0028,Hybrid,95,Surprised,0.166,Highly Engaged,92.3
+STU_0029,Hybrid,100,Surprised,0.216,Highly Engaged,92.5
+STU_0030,Online,96,Surprised,0.122,Engaged,83.5
+STU_0031,Hybrid,106,Neutral,0.191,Highly Engaged,90.5
+STU_0032,Online,171,Happy,0.18,Highly Engaged,90.9
+STU_0033,Online,88,Sad,0.079,Disengaged,51.5
+STU_0034,In-Person,80,Neutral,0.213,Highly Engaged,99.0
+STU_0035,In-Person,105,Neutral,0.198,Highly Engaged,96.2
+STU_0036,In-Person,125,Neutral,0.199,Highly Engaged,93.1
+STU_0037,Online,138,Happy,0.209,Highly Engaged,89.5
+STU_0038,Online,21,Disgust,0.056,Disengaged,48.0
+STU_0039,Hybrid,103,Neutral,0.213,Highly Engaged,99.7
+STU_0040,Hybrid,104,Happy,0.139,Engaged,75.6
+STU_0041,Online,189,Neutral,0.132,Engaged,86.9
+STU_0042,Hybrid,68,Disgust,0.013,Disengaged,64.8
+STU_0043,Online,165,Neutral,0.106,Engaged,76.9
+STU_0044,In-Person,178,Happy,0.146,Highly Engaged,98.0
+STU_0045,Online,53,Sad,0.08,Disengaged,57.3
+STU_0046,Hybrid,23,Sad,0.023,Disengaged,49.7
+STU_0047,Online,180,Happy,0.124,Engaged,90.0
+STU_0048,Hybrid,186,Neutral,0.109,Engaged,75.3
+STU_0049,Hybrid,94,Happy,0.177,Highly Engaged,96.4
+STU_0050,Online,245,Neutral,0.176,Highly Engaged,97.6
+STU_0051,In-Person,154,Neutral,0.157,Highly Engaged,99.8
+STU_0052,In-Person,215,Happy,0.205,Highly Engaged,97.4
+STU_0053,In-Person,129,Neutral,0.103,Engaged,81.9
+STU_0054,In-Person,216,Neutral,0.214,Highly Engaged,95.0
+STU_0055,Hybrid,146,Surprised,0.106,Engaged,76.1
+STU_0056,In-Person,32,Disgust,0.071,Disengaged,46.9
+STU_0057,Online,217,Surprised,0.187,Highly Engaged,89.6
+STU_0058,Online,165,Neutral,0.159,Highly Engaged,99.1
+STU_0059,Online,129,Neutral,0.188,Highly Engaged,98.7
+STU_0060,Online,82,Angry,0.05,Disengaged,47.0
+STU_0061,Online,242,Neutral,0.107,Engaged,77.4
+STU_0062,Online,176,Neutral,0.155,Highly Engaged,91.4
+STU_0063,In-Person,160,Happy,0.2,Highly Engaged,94.1
+STU_0064,Online,146,Surprised,0.206,Highly Engaged,94.9
+STU_0065,Online,145,Surprised,0.138,Engaged,85.1
+STU_0066,Hybrid,160,Neutral,0.16,Highly Engaged,89.3
+STU_0067,Online,221,Neutral,0.103,Engaged,88.6
+STU_0068,In-Person,74,Disgust,0.036,Disengaged,44.6
+STU_0069,Online,161,Neutral,0.111,Engaged,76.7
+STU_0070,In-Person,181,Surprised,0.194,Highly Engaged,99.2
+STU_0071,In-Person,79,Sad,0.067,Disengaged,44.8
+STU_0072,Online,97,Surprised,0.201,Highly Engaged,90.5
+STU_0073,Online,235,Neutral,0.173,Highly Engaged,88.0
+STU_0074,In-Person,241,Neutral,0.163,Highly Engaged,91.2
+STU_0075,In-Person,195,Happy,0.214,Highly Engaged,91.1
+STU_0076,In-Person,86,Scared,0.038,Disengaged,66.8
+STU_0077,In-Person,12,Angry,0.054,Disengaged,44.2
+STU_0078,Online,211,Neutral,0.142,Highly Engaged,97.3
+STU_0079,Online,128,Neutral,0.132,Engaged,83.8
+STU_0080,Online,67,Angry,0.043,Disengaged,45.1
+STU_0081,In-Person,11,Sad,0.073,Disengaged,46.5
+STU_0082,Hybrid,66,Scared,0.044,Disengaged,41.6
+STU_0083,Online,132,Neutral,0.115,Engaged,91.8
+STU_0084,Online,187,Happy,0.147,Highly Engaged,94.9
+STU_0085,Online,32,Sad,0.01,Disengaged,57.0
+STU_0086,Online,190,Surprised,0.145,Highly Engaged,98.1
+STU_0087,In-Person,203,Happy,0.178,Highly Engaged,98.4
+STU_0088,Hybrid,86,Neutral,0.18,Highly Engaged,90.6
+STU_0089,In-Person,113,Happy,0.165,Highly Engaged,96.9
+STU_0090,Hybrid,127,Neutral,0.15,Highly Engaged,90.0
+STU_0091,Online,104,Happy,0.186,Highly Engaged,89.0
+STU_0092,In-Person,23,Angry,0.089,Disengaged,49.8
+STU_0093,In-Person,106,Happy,0.102,Engaged,81.8
+STU_0094,Hybrid,23,Scared,0.065,Disengaged,62.6
+STU_0095,In-Person,240,Neutral,0.206,Highly Engaged,93.7
+STU_0096,Hybrid,101,Surprised,0.119,Engaged,91.6
+STU_0097,Hybrid,79,Disgust,0.09,Disengaged,41.7
+STU_0098,Hybrid,85,Neutral,0.112,Engaged,80.2
+STU_0099,Online,202,Neutral,0.142,Highly Engaged,99.1
+STU_0100,Online,81,Happy,0.154,Highly Engaged,98.0
+STU_0101,Online,180,Neutral,0.175,Highly Engaged,95.3
+STU_0102,Hybrid,10,Sad,0.027,Disengaged,68.1
+STU_0103,Online,23,Angry,0.055,Disengaged,42.1
+STU_0104,Hybrid,112,Happy,0.153,Highly Engaged,89.7
+STU_0105,In-Person,96,Neutral,0.152,Highly Engaged,99.6
+STU_0106,Online,177,Happy,0.136,Engaged,87.7
+STU_0107,Hybrid,75,Sad,0.074,Disengaged,73.7
+STU_0108,In-Person,104,Neutral,0.135,Engaged,86.4
+STU_0109,Online,231,Happy,0.145,Highly Engaged,88.2
+STU_0110,Online,87,Surprised,0.103,Engaged,85.7
+STU_0111,Online,125,Surprised,0.146,Highly Engaged,93.3
+STU_0112,Online,171,Neutral,0.144,Highly Engaged,94.3
+STU_0113,In-Person,21,Sad,0.089,Disengaged,56.5
+STU_0114,In-Person,197,Neutral,0.132,Engaged,79.7
+STU_0115,Hybrid,192,Neutral,0.187,Highly Engaged,94.9
+STU_0116,In-Person,89,Scared,0.018,Disengaged,63.3
+STU_0117,In-Person,17,Sad,0.059,Disengaged,52.2
+STU_0118,Online,125,Neutral,0.153,Highly Engaged,96.0
+STU_0119,In-Person,218,Neutral,0.156,Highly Engaged,88.6
+STU_0120,Hybrid,90,Neutral,0.146,Highly Engaged,91.2
+STU_0121,In-Person,132,Neutral,0.129,Engaged,87.7
+STU_0122,In-Person,183,Neutral,0.15,Highly Engaged,97.1
+STU_0123,Online,109,Neutral,0.18,Highly Engaged,89.3
+STU_0124,Online,238,Happy,0.176,Highly Engaged,97.7
+STU_0125,Online,56,Sad,0.017,Disengaged,49.3
+STU_0126,Hybrid,154,Surprised,0.184,Highly Engaged,91.2
+STU_0127,In-Person,182,Surprised,0.162,Highly Engaged,88.5
+STU_0128,In-Person,134,Neutral,0.193,Highly Engaged,93.4
+STU_0129,Online,77,Angry,0.051,Disengaged,72.1
+STU_0130,Hybrid,59,Scared,0.029,Disengaged,68.8
+STU_0131,Hybrid,48,Sad,0.031,Disengaged,56.0
+STU_0132,Online,32,Scared,0.081,Disengaged,61.5
+STU_0133,Online,83,Angry,0.015,Disengaged,71.1
+STU_0134,Online,180,Happy,0.141,Highly Engaged,99.2
+STU_0135,In-Person,191,Neutral,0.181,Highly Engaged,94.3
+STU_0136,Online,164,Surprised,0.17,Highly Engaged,99.4
+STU_0137,Hybrid,58,Sad,0.063,Disengaged,58.0
+STU_0138,In-Person,51,Sad,0.051,Disengaged,61.4
+STU_0139,Online,146,Happy,0.219,Highly Engaged,91.2
+STU_0140,In-Person,198,Neutral,0.168,Highly Engaged,89.1
+STU_0141,In-Person,131,Happy,0.19,Highly Engaged,96.3
+STU_0142,Online,46,Angry,0.049,Disengaged,59.1
+STU_0143,Hybrid,234,Happy,0.14,Engaged,82.5
+STU_0144,Online,185,Happy,0.153,Highly Engaged,94.6
+STU_0145,Online,193,Neutral,0.205,Highly Engaged,88.7
+STU_0146,Online,98,Happy,0.163,Highly Engaged,88.3
+STU_0147,Hybrid,42,Scared,0.056,Disengaged,72.0
+STU_0148,Hybrid,169,Surprised,0.125,Engaged,78.5
+STU_0149,Online,21,Sad,0.021,Disengaged,50.6
+STU_0150,Online,219,Happy,0.193,Highly Engaged,96.8
+STU_0151,In-Person,85,Surprised,0.219,Highly Engaged,93.6
+STU_0152,Online,242,Neutral,0.14,Highly Engaged,95.0
+STU_0153,Online,66,Sad,0.075,Disengaged,53.2
+STU_0154,Hybrid,168,Happy,0.132,Engaged,85.0
+STU_0155,In-Person,165,Happy,0.188,Highly Engaged,91.0
+STU_0156,Online,200,Surprised,0.162,Highly Engaged,97.3
+STU_0157,Hybrid,24,Angry,0.059,Disengaged,43.9
+STU_0158,In-Person,125,Neutral,0.186,Highly Engaged,91.0
+STU_0159,Online,24,Scared,0.013,Disengaged,60.2
+STU_0160,In-Person,241,Neutral,0.216,Highly Engaged,93.8
+STU_0161,Online,110,Happy,0.135,Engaged,85.3
+STU_0162,Hybrid,201,Neutral,0.152,Highly Engaged,91.8
+STU_0163,Hybrid,125,Neutral,0.172,Highly Engaged,88.7
+STU_0164,Hybrid,210,Happy,0.128,Engaged,86.6
+STU_0165,Online,192,Neutral,0.132,Engaged,86.7
+STU_0166,In-Person,96,Happy,0.214,Highly Engaged,93.8
+STU_0167,Online,22,Angry,0.086,Disengaged,52.1
+STU_0168,Online,141,Neutral,0.212,Highly Engaged,97.2
+STU_0169,Online,36,Sad,0.083,Disengaged,62.0
+STU_0170,Hybrid,202,Happy,0.166,Highly Engaged,95.8
+STU_0171,Hybrid,180,Surprised,0.175,Highly Engaged,94.5
+STU_0172,Online,119,Neutral,0.171,Highly Engaged,93.8
+STU_0173,Hybrid,143,Neutral,0.101,Engaged,78.3
+STU_0174,Online,225,Neutral,0.159,Highly Engaged,98.0
+STU_0175,Hybrid,192,Neutral,0.172,Highly Engaged,91.6
+STU_0176,Online,189,Neutral,0.129,Engaged,81.6
+STU_0177,Hybrid,100,Surprised,0.116,Engaged,81.3
+STU_0178,Online,29,Scared,0.023,Disengaged,57.8
+STU_0179,In-Person,75,Sad,0.017,Disengaged,56.1
+STU_0180,Online,90,Surprised,0.104,Engaged,86.2
+STU_0181,Online,220,Neutral,0.203,Highly Engaged,96.2
+STU_0182,Online,246,Neutral,0.125,Engaged,89.9
+STU_0183,In-Person,113,Neutral,0.196,Highly Engaged,94.1
+STU_0184,In-Person,207,Neutral,0.176,Highly Engaged,97.0
+STU_0185,Online,182,Happy,0.218,Highly Engaged,89.9
+STU_0186,Hybrid,182,Happy,0.175,Highly Engaged,93.7
+STU_0187,In-Person,95,Happy,0.181,Highly Engaged,98.9
+STU_0188,Hybrid,228,Happy,0.103,Engaged,89.2
+STU_0189,Hybrid,12,Scared,0.085,Disengaged,58.9
+STU_0190,Online,79,Sad,0.092,Disengaged,40.3
+STU_0191,Online,150,Neutral,0.211,Highly Engaged,98.4
+STU_0192,In-Person,33,Angry,0.015,Disengaged,64.3
+STU_0193,In-Person,72,Angry,0.027,Disengaged,67.4
+STU_0194,Hybrid,244,Neutral,0.14,Highly Engaged,94.2
+STU_0195,Online,232,Happy,0.184,Highly Engaged,96.1
+STU_0196,Online,85,Happy,0.117,Engaged,82.5
+STU_0197,In-Person,69,Angry,0.056,Disengaged,59.9
+STU_0198,In-Person,56,Scared,0.033,Disengaged,40.9
+STU_0199,In-Person,110,Neutral,0.144,Highly Engaged,88.6
+STU_0200,In-Person,172,Happy,0.134,Engaged,90.0
+STU_0201,Hybrid,224,Happy,0.139,Engaged,78.1
+STU_0202,Online,165,Happy,0.119,Engaged,81.1
+STU_0203,Online,228,Neutral,0.167,Highly Engaged,92.6
+STU_0204,In-Person,30,Scared,0.06,Disengaged,40.2
+STU_0205,Hybrid,93,Surprised,0.12,Engaged,85.8
+STU_0206,Online,50,Scared,0.073,Disengaged,71.3
+STU_0207,Online,88,Scared,0.043,Disengaged,71.5
+STU_0208,Hybrid,7,Sad,0.088,Disengaged,72.0
+STU_0209,Online,158,Happy,0.205,Highly Engaged,94.0
+STU_0210,Online,229,Surprised,0.149,Highly Engaged,93.6
+STU_0211,Hybrid,112,Neutral,0.134,Engaged,79.2
+STU_0212,Hybrid,200,Surprised,0.154,Highly Engaged,91.6
+STU_0213,Hybrid,194,Neutral,0.203,Highly Engaged,97.0
+STU_0214,Online,127,Surprised,0.209,Highly Engaged,88.3
+STU_0215,In-Person,224,Neutral,0.154,Highly Engaged,94.6
+STU_0216,Online,166,Neutral,0.144,Highly Engaged,97.7
+STU_0217,Online,200,Neutral,0.157,Highly Engaged,91.1
+STU_0218,In-Person,203,Neutral,0.164,Highly Engaged,99.2
+STU_0219,Hybrid,47,Sad,0.027,Disengaged,42.9
+STU_0220,In-Person,41,Sad,0.013,Disengaged,43.5
+STU_0221,Hybrid,101,Happy,0.18,Highly Engaged,95.1
+STU_0222,Hybrid,158,Neutral,0.16,Highly Engaged,96.7
+STU_0223,Online,181,Neutral,0.149,Highly Engaged,93.8
+STU_0224,Online,185,Neutral,0.192,Highly Engaged,99.7
+STU_0225,Online,245,Neutral,0.183,Highly Engaged,94.7
+STU_0226,Online,43,Scared,0.049,Disengaged,67.8
+STU_0227,In-Person,110,Neutral,0.18,Highly Engaged,94.3
+STU_0228,Online,137,Happy,0.108,Engaged,82.8
+STU_0229,In-Person,110,Neutral,0.17,Highly Engaged,89.0
+STU_0230,Hybrid,209,Neutral,0.191,Highly Engaged,97.5
+STU_0231,In-Person,238,Happy,0.184,Highly Engaged,89.1
+STU_0232,Hybrid,94,Surprised,0.132,Engaged,87.3
+STU_0233,Hybrid,245,Neutral,0.182,Highly Engaged,98.3
+STU_0234,Hybrid,150,Neutral,0.124,Engaged,82.4
+STU_0235,Online,184,Happy,0.121,Engaged,79.1
+STU_0236,In-Person,122,Neutral,0.13,Engaged,80.4
+STU_0237,Online,121,Neutral,0.188,Highly Engaged,94.7
+STU_0238,Online,5,Angry,0.082,Disengaged,53.2
+STU_0239,Hybrid,140,Surprised,0.207,Highly Engaged,97.1
+STU_0240,Online,206,Happy,0.212,Highly Engaged,92.7
+STU_0241,In-Person,208,Happy,0.116,Engaged,80.9
+STU_0242,In-Person,93,Happy,0.205,Highly Engaged,88.5
+STU_0243,In-Person,174,Happy,0.169,Highly Engaged,95.3
+STU_0244,Online,231,Surprised,0.205,Highly Engaged,88.5
+STU_0245,Online,42,Sad,0.068,Disengaged,47.9
+STU_0246,In-Person,242,Neutral,0.137,Engaged,86.8
+STU_0247,Hybrid,133,Happy,0.145,Highly Engaged,92.2
+STU_0248,In-Person,210,Happy,0.109,Engaged,88.4
+STU_0249,In-Person,18,Scared,0.047,Disengaged,49.6
+STU_0250,In-Person,239,Surprised,0.167,Highly Engaged,96.9
+STU_0251,Online,194,Happy,0.143,Highly Engaged,95.3
+STU_0252,Online,185,Neutral,0.135,Engaged,84.7
+STU_0253,In-Person,131,Surprised,0.127,Engaged,81.9
+STU_0254,Online,189,Neutral,0.198,Highly Engaged,99.2
+STU_0255,Online,132,Neutral,0.129,Engaged,78.9
+STU_0256,Hybrid,124,Neutral,0.112,Engaged,78.9
+STU_0257,In-Person,229,Surprised,0.126,Engaged,77.2
+STU_0258,Hybrid,246,Neutral,0.15,Highly Engaged,89.1
+STU_0259,Hybrid,205,Happy,0.129,Engaged,83.0
+STU_0260,Online,20,Scared,0.079,Disengaged,42.6
+STU_0261,Hybrid,244,Neutral,0.104,Engaged,84.8
+STU_0262,In-Person,141,Happy,0.102,Engaged,84.3
+STU_0263,Online,145,Happy,0.197,Highly Engaged,93.5
+STU_0264,Hybrid,161,Neutral,0.101,Engaged,82.1
+STU_0265,In-Person,8,Sad,0.069,Disengaged,64.1
+STU_0266,In-Person,225,Neutral,0.207,Highly Engaged,93.3
+STU_0267,Hybrid,112,Happy,0.192,Highly Engaged,97.5
+STU_0268,In-Person,114,Happy,0.203,Highly Engaged,93.7
+STU_0269,Online,144,Surprised,0.206,Highly Engaged,93.2
+STU_0270,Online,190,Surprised,0.219,Highly Engaged,92.9
+STU_0271,In-Person,184,Neutral,0.114,Engaged,83.8
+STU_0272,In-Person,150,Neutral,0.121,Engaged,91.4
+STU_0273,In-Person,10,Sad,0.061,Disengaged,74.0
+STU_0274,In-Person,139,Happy,0.108,Engaged,85.2
+STU_0275,Hybrid,64,Scared,0.025,Disengaged,49.7
+STU_0276,Hybrid,45,Scared,0.058,Disengaged,59.0
+STU_0277,In-Person,40,Scared,0.031,Disengaged,70.0
+STU_0278,Hybrid,233,Happy,0.134,Engaged,83.7
+STU_0279,In-Person,130,Neutral,0.134,Engaged,87.5
+STU_0280,In-Person,33,Sad,0.038,Disengaged,60.0
+STU_0281,In-Person,246,Happy,0.143,Highly Engaged,93.8
+STU_0282,Online,144,Neutral,0.172,Highly Engaged,91.3
+STU_0283,Online,24,Scared,0.088,Disengaged,71.9
+STU_0284,Online,52,Scared,0.06,Disengaged,53.9
+STU_0285,Hybrid,89,Happy,0.136,Engaged,81.8
+STU_0286,Online,80,Neutral,0.183,Highly Engaged,91.1
+STU_0287,Hybrid,107,Happy,0.215,Highly Engaged,91.8
+STU_0288,Hybrid,21,Sad,0.057,Disengaged,41.9
+STU_0289,Online,15,Angry,0.066,Disengaged,52.4
+STU_0290,Hybrid,140,Neutral,0.152,Highly Engaged,97.6
+STU_0291,Online,89,Neutral,0.199,Highly Engaged,94.8
+STU_0292,Online,54,Scared,0.079,Disengaged,41.8
+STU_0293,In-Person,224,Happy,0.18,Highly Engaged,97.7
+STU_0294,Online,209,Happy,0.116,Engaged,79.0
+STU_0295,Online,58,Disgust,0.093,Disengaged,60.3
+STU_0296,Hybrid,113,Neutral,0.217,Highly Engaged,99.6
+STU_0297,In-Person,149,Surprised,0.128,Engaged,76.0
+STU_0298,Online,111,Neutral,0.126,Engaged,86.5
+STU_0299,Hybrid,151,Happy,0.212,Highly Engaged,89.1
+STU_0300,Online,57,Sad,0.039,Disengaged,71.8
+STU_0301,Online,148,Happy,0.119,Engaged,81.2
+STU_0302,Hybrid,15,Disgust,0.024,Disengaged,72.9
+STU_0303,Hybrid,100,Happy,0.171,Highly Engaged,96.6
+STU_0304,Hybrid,177,Neutral,0.11,Engaged,90.5
+STU_0305,In-Person,194,Neutral,0.2,Highly Engaged,91.7
+STU_0306,In-Person,149,Happy,0.109,Engaged,78.9
+STU_0307,Hybrid,191,Happy,0.146,Highly Engaged,96.3
+STU_0308,Online,149,Neutral,0.139,Engaged,85.7
+STU_0309,In-Person,237,Happy,0.219,Highly Engaged,95.5
+STU_0310,Online,233,Happy,0.127,Engaged,89.8
+STU_0311,Hybrid,35,Sad,0.017,Disengaged,58.1
+STU_0312,Online,102,Surprised,0.186,Highly Engaged,91.8
+STU_0313,Online,70,Sad,0.061,Disengaged,72.6
+STU_0314,In-Person,242,Neutral,0.151,Highly Engaged,96.8
+STU_0315,In-Person,239,Neutral,0.141,Highly Engaged,98.3
+STU_0316,Hybrid,120,Surprised,0.157,Highly Engaged,90.2
+STU_0317,Hybrid,247,Happy,0.185,Highly Engaged,88.4
+STU_0318,Online,153,Neutral,0.139,Engaged,82.9
+STU_0319,Online,14,Sad,0.01,Disengaged,71.8
+STU_0320,Online,16,Sad,0.042,Disengaged,45.1
+STU_0321,Hybrid,154,Happy,0.155,Highly Engaged,98.8
+STU_0322,In-Person,97,Neutral,0.2,Highly Engaged,97.1
+STU_0323,Hybrid,53,Sad,0.09,Disengaged,67.4
+STU_0324,Online,249,Happy,0.196,Highly Engaged,94.4
+STU_0325,In-Person,29,Sad,0.03,Disengaged,46.8
+STU_0326,In-Person,12,Sad,0.067,Disengaged,48.9
+STU_0327,Hybrid,85,Sad,0.034,Disengaged,67.2
+STU_0328,Hybrid,88,Happy,0.158,Highly Engaged,93.0
+STU_0329,Hybrid,244,Neutral,0.107,Engaged,90.8
+STU_0330,Online,132,Surprised,0.135,Engaged,77.9
+STU_0331,Online,215,Surprised,0.181,Highly Engaged,94.4
+STU_0332,In-Person,51,Sad,0.082,Disengaged,69.4
+STU_0333,Online,170,Neutral,0.125,Engaged,84.6
+STU_0334,Online,147,Neutral,0.166,Highly Engaged,95.9
+STU_0335,Online,8,Scared,0.068,Disengaged,63.7
+STU_0336,Online,30,Sad,0.039,Disengaged,43.2
+STU_0337,In-Person,62,Angry,0.021,Disengaged,72.2
+STU_0338,In-Person,81,Sad,0.014,Disengaged,59.4
+STU_0339,Hybrid,145,Happy,0.16,Highly Engaged,91.7
+STU_0340,Online,137,Surprised,0.171,Highly Engaged,94.5
+STU_0341,Hybrid,88,Scared,0.016,Disengaged,49.9
+STU_0342,Hybrid,231,Happy,0.116,Engaged,78.9
+STU_0343,Online,126,Surprised,0.102,Engaged,87.8
+STU_0344,Hybrid,122,Neutral,0.154,Highly Engaged,88.1
+STU_0345,Online,91,Happy,0.207,Highly Engaged,95.7
+STU_0346,Hybrid,63,Sad,0.07,Disengaged,63.9
+STU_0347,Hybrid,128,Neutral,0.164,Highly Engaged,92.8
+STU_0348,Online,155,Neutral,0.177,Highly Engaged,91.6
+STU_0349,Online,102,Neutral,0.201,Highly Engaged,92.3
+STU_0350,Hybrid,141,Neutral,0.15,Highly Engaged,89.3
+STU_0351,Hybrid,125,Neutral,0.169,Highly Engaged,95.7
+STU_0352,In-Person,154,Happy,0.12,Engaged,81.4
+STU_0353,Hybrid,56,Angry,0.079,Disengaged,41.3
+STU_0354,Online,145,Happy,0.161,Highly Engaged,96.7
+STU_0355,Online,104,Neutral,0.2,Highly Engaged,98.1
+STU_0356,Hybrid,166,Neutral,0.205,Highly Engaged,88.5
+STU_0357,Online,87,Surprised,0.119,Engaged,75.5
+STU_0358,Hybrid,195,Happy,0.196,Highly Engaged,92.2
+STU_0359,In-Person,7,Scared,0.017,Disengaged,71.6
+STU_0360,Hybrid,184,Surprised,0.155,Highly Engaged,96.5
+STU_0361,Online,69,Sad,0.013,Disengaged,46.4
+STU_0362,Hybrid,192,Neutral,0.144,Highly Engaged,96.3
+STU_0363,Hybrid,199,Surprised,0.145,Highly Engaged,94.4
+STU_0364,Hybrid,180,Neutral,0.112,Engaged,86.5
+STU_0365,In-Person,41,Angry,0.032,Disengaged,67.4
+STU_0366,Online,246,Surprised,0.173,Highly Engaged,96.5
+STU_0367,In-Person,223,Neutral,0.129,Engaged,76.3
+STU_0368,In-Person,130,Neutral,0.207,Highly Engaged,90.7
+STU_0369,Online,179,Neutral,0.198,Highly Engaged,99.5
+STU_0370,Online,216,Surprised,0.184,Highly Engaged,92.8
+STU_0371,Online,123,Neutral,0.218,Highly Engaged,92.6
+STU_0372,Online,243,Happy,0.101,Engaged,88.7
+STU_0373,Online,179,Neutral,0.17,Highly Engaged,95.0
+STU_0374,Hybrid,187,Surprised,0.204,Highly Engaged,99.0
+STU_0375,Online,67,Sad,0.069,Disengaged,66.7
+STU_0376,Online,29,Sad,0.055,Disengaged,40.6
+STU_0377,In-Person,54,Sad,0.093,Disengaged,53.0
+STU_0378,Online,195,Neutral,0.194,Highly Engaged,97.5
+STU_0379,In-Person,104,Neutral,0.154,Highly Engaged,98.0
+STU_0380,Online,184,Surprised,0.212,Highly Engaged,93.8
+STU_0381,Online,197,Happy,0.156,Highly Engaged,98.7
+STU_0382,Hybrid,209,Happy,0.13,Engaged,90.3
+STU_0383,Hybrid,168,Neutral,0.213,Highly Engaged,94.2
+STU_0384,In-Person,93,Neutral,0.176,Highly Engaged,93.4
+STU_0385,In-Person,222,Neutral,0.104,Engaged,83.5
+STU_0386,In-Person,31,Scared,0.092,Disengaged,57.7
+STU_0387,Online,151,Neutral,0.152,Highly Engaged,95.5
+STU_0388,Online,196,Happy,0.16,Highly Engaged,90.2
+STU_0389,In-Person,207,Neutral,0.211,Highly Engaged,98.5
+STU_0390,In-Person,169,Surprised,0.189,Highly Engaged,92.0
+STU_0391,In-Person,239,Neutral,0.149,Highly Engaged,93.5
+STU_0392,Hybrid,70,Scared,0.068,Disengaged,40.6
+STU_0393,Online,15,Scared,0.065,Disengaged,50.5
+STU_0394,In-Person,120,Neutral,0.219,Highly Engaged,93.8
+STU_0395,Online,32,Angry,0.05,Disengaged,41.5
+STU_0396,In-Person,14,Disgust,0.063,Disengaged,68.4
+STU_0397,In-Person,86,Scared,0.068,Disengaged,49.4
+STU_0398,Hybrid,74,Scared,0.011,Disengaged,46.8
+STU_0399,In-Person,198,Neutral,0.174,Highly Engaged,91.1
+STU_0400,In-Person,110,Happy,0.158,Highly Engaged,96.0
+STU_0401,Online,89,Neutral,0.206,Highly Engaged,93.0
+STU_0402,In-Person,237,Neutral,0.125,Engaged,76.8
+STU_0403,Hybrid,47,Disgust,0.027,Disengaged,57.6
+STU_0404,In-Person,135,Neutral,0.137,Engaged,80.6
+STU_0405,Online,27,Sad,0.091,Disengaged,44.2
+STU_0406,In-Person,48,Sad,0.08,Disengaged,59.9
+STU_0407,Online,37,Scared,0.016,Disengaged,49.5
+STU_0408,Online,66,Disgust,0.025,Disengaged,65.6
+STU_0409,In-Person,169,Neutral,0.166,Highly Engaged,94.3
+STU_0410,Online,230,Neutral,0.158,Highly Engaged,96.9
+STU_0411,Online,136,Happy,0.124,Engaged,91.7
+STU_0412,In-Person,216,Neutral,0.115,Engaged,91.1
+STU_0413,In-Person,100,Neutral,0.193,Highly Engaged,91.2
+STU_0414,Hybrid,200,Happy,0.186,Highly Engaged,97.0
+STU_0415,Hybrid,10,Sad,0.055,Disengaged,42.6
+STU_0416,Hybrid,111,Happy,0.192,Highly Engaged,89.2
+STU_0417,Online,197,Neutral,0.198,Highly Engaged,95.0
+STU_0418,Online,226,Surprised,0.162,Highly Engaged,93.5
+STU_0419,Hybrid,152,Neutral,0.17,Highly Engaged,96.8
+STU_0420,In-Person,105,Neutral,0.204,Highly Engaged,94.0
+STU_0421,In-Person,55,Sad,0.073,Disengaged,41.8
+STU_0422,In-Person,157,Surprised,0.131,Engaged,79.1
+STU_0423,Online,17,Sad,0.083,Disengaged,51.8
+STU_0424,Hybrid,228,Neutral,0.19,Highly Engaged,89.2
+STU_0425,Online,30,Scared,0.096,Disengaged,62.2
+STU_0426,Hybrid,161,Surprised,0.125,Engaged,83.5
+STU_0427,Hybrid,96,Happy,0.218,Highly Engaged,89.6
+STU_0428,In-Person,202,Surprised,0.193,Highly Engaged,90.7
+STU_0429,Online,71,Scared,0.063,Disengaged,52.9
+STU_0430,Online,105,Happy,0.21,Highly Engaged,89.4
+STU_0431,Online,225,Happy,0.161,Highly Engaged,90.1
+STU_0432,In-Person,7,Disgust,0.058,Disengaged,44.5
+STU_0433,Hybrid,55,Sad,0.051,Disengaged,49.0
+STU_0434,Online,162,Happy,0.144,Highly Engaged,89.6
+STU_0435,Online,14,Sad,0.017,Disengaged,71.1
+STU_0436,In-Person,162,Happy,0.122,Engaged,79.3
+STU_0437,Online,110,Neutral,0.15,Highly Engaged,99.3
+STU_0438,In-Person,102,Happy,0.132,Engaged,83.7
+STU_0439,In-Person,42,Angry,0.08,Disengaged,43.5
+STU_0440,Online,73,Angry,0.074,Disengaged,71.9
+STU_0441,Online,126,Neutral,0.214,Highly Engaged,90.9
+STU_0442,In-Person,218,Happy,0.165,Highly Engaged,99.6
+STU_0443,Online,171,Neutral,0.217,Highly Engaged,98.3
+STU_0444,Online,8,Disgust,0.061,Disengaged,51.7
+STU_0445,In-Person,47,Disgust,0.011,Disengaged,55.0
+STU_0446,In-Person,203,Surprised,0.134,Engaged,90.1
+STU_0447,In-Person,32,Sad,0.052,Disengaged,60.8
+STU_0448,In-Person,59,Sad,0.025,Disengaged,65.6
+STU_0449,Online,81,Happy,0.198,Highly Engaged,98.9
+STU_0450,Online,179,Neutral,0.164,Highly Engaged,91.4
+STU_0451,In-Person,170,Happy,0.158,Highly Engaged,94.4
+STU_0452,Hybrid,144,Surprised,0.197,Highly Engaged,98.2
+STU_0453,Hybrid,80,Surprised,0.2,Highly Engaged,99.2
+STU_0454,In-Person,218,Happy,0.138,Engaged,84.4
+STU_0455,Online,40,Angry,0.097,Disengaged,73.4
+STU_0456,Hybrid,100,Neutral,0.153,Highly Engaged,91.1
+STU_0457,Online,149,Happy,0.198,Highly Engaged,92.9
+STU_0458,Hybrid,135,Surprised,0.189,Highly Engaged,89.0
+STU_0459,Online,170,Surprised,0.146,Highly Engaged,93.8
+STU_0460,Online,201,Surprised,0.138,Engaged,91.4
+STU_0461,Online,143,Neutral,0.103,Engaged,82.3
+STU_0462,Hybrid,160,Neutral,0.136,Engaged,76.6
+STU_0463,In-Person,80,Surprised,0.219,Highly Engaged,95.9
+STU_0464,Hybrid,104,Happy,0.106,Engaged,77.4
+STU_0465,In-Person,240,Neutral,0.163,Highly Engaged,97.9
+STU_0466,Online,61,Sad,0.058,Disengaged,49.6
+STU_0467,Online,135,Happy,0.201,Highly Engaged,96.7
+STU_0468,In-Person,213,Surprised,0.113,Engaged,83.4
+STU_0469,Online,36,Scared,0.062,Disengaged,70.5
+STU_0470,In-Person,226,Neutral,0.158,Highly Engaged,92.4
+STU_0471,Online,81,Neutral,0.196,Highly Engaged,95.6
+STU_0472,In-Person,40,Sad,0.043,Disengaged,62.8
+STU_0473,Online,227,Surprised,0.131,Engaged,87.1
+STU_0474,In-Person,129,Surprised,0.195,Highly Engaged,88.4
+STU_0475,Hybrid,50,Scared,0.049,Disengaged,66.2
+STU_0476,In-Person,15,Sad,0.042,Disengaged,42.3
+STU_0477,Online,68,Disgust,0.013,Disengaged,62.3
+STU_0478,Hybrid,144,Happy,0.138,Engaged,89.7
+STU_0479,In-Person,224,Happy,0.173,Highly Engaged,92.8
+STU_0480,Hybrid,94,Happy,0.108,Engaged,78.3
+STU_0481,Hybrid,153,Neutral,0.179,Highly Engaged,90.8
+STU_0482,Hybrid,91,Happy,0.169,Highly Engaged,90.6
+STU_0483,Hybrid,140,Neutral,0.142,Highly Engaged,90.8
+STU_0484,Hybrid,11,Angry,0.092,Disengaged,46.6
+STU_0485,Hybrid,238,Happy,0.117,Engaged,83.7
+STU_0486,In-Person,133,Happy,0.142,Highly Engaged,93.1
+STU_0487,Online,154,Happy,0.132,Engaged,82.7
+STU_0488,Online,229,Neutral,0.181,Highly Engaged,97.3
+STU_0489,In-Person,106,Neutral,0.14,Engaged,75.7
+STU_0490,In-Person,211,Happy,0.119,Engaged,91.7
+STU_0491,Hybrid,200,Neutral,0.191,Highly Engaged,99.8
+STU_0492,Hybrid,233,Surprised,0.124,Engaged,89.9
+STU_0493,Online,32,Scared,0.05,Disengaged,58.4
+STU_0494,Online,41,Scared,0.027,Disengaged,64.9
+STU_0495,Hybrid,164,Surprised,0.159,Highly Engaged,94.9
+STU_0496,Online,223,Neutral,0.183,Highly Engaged,94.2
+STU_0497,Hybrid,76,Scared,0.019,Disengaged,60.5
+STU_0498,Online,61,Scared,0.033,Disengaged,45.6
+STU_0499,In-Person,237,Neutral,0.148,Highly Engaged,95.1
+STU_0500,In-Person,13,Sad,0.071,Disengaged,57.1
+STU_0501,Hybrid,165,Neutral,0.218,Highly Engaged,94.7
+STU_0502,Hybrid,54,Sad,0.065,Disengaged,49.6
+STU_0503,Online,82,Disgust,0.097,Disengaged,49.7
+STU_0504,In-Person,207,Neutral,0.187,Highly Engaged,89.0
+STU_0505,Hybrid,52,Scared,0.082,Disengaged,58.2
+STU_0506,Online,186,Surprised,0.198,Highly Engaged,89.5
+STU_0507,In-Person,10,Disgust,0.071,Disengaged,50.2
+STU_0508,In-Person,160,Happy,0.183,Highly Engaged,94.9
+STU_0509,In-Person,73,Scared,0.062,Disengaged,57.4
+STU_0510,In-Person,82,Neutral,0.216,Highly Engaged,90.1
+STU_0511,Hybrid,224,Neutral,0.111,Engaged,82.4
+STU_0512,Hybrid,124,Neutral,0.13,Engaged,89.0
+STU_0513,In-Person,25,Disgust,0.071,Disengaged,69.4
+STU_0514,In-Person,71,Sad,0.026,Disengaged,42.9
+STU_0515,Online,14,Scared,0.065,Disengaged,55.1
+STU_0516,Online,72,Angry,0.045,Disengaged,54.1
+STU_0517,Online,130,Neutral,0.167,Highly Engaged,94.3
+STU_0518,In-Person,187,Happy,0.137,Engaged,86.3
+STU_0519,In-Person,102,Neutral,0.134,Engaged,82.8
+STU_0520,Online,138,Neutral,0.103,Engaged,90.2
+STU_0521,Hybrid,116,Neutral,0.203,Highly Engaged,88.1
+STU_0522,Online,179,Happy,0.115,Engaged,85.9
+STU_0523,In-Person,211,Neutral,0.154,Highly Engaged,97.0
+STU_0524,In-Person,240,Neutral,0.141,Highly Engaged,96.5
+STU_0525,In-Person,164,Neutral,0.191,Highly Engaged,90.0
+STU_0526,Hybrid,105,Neutral,0.152,Highly Engaged,91.2
+STU_0527,Hybrid,15,Disgust,0.088,Disengaged,74.0
+STU_0528,Online,64,Sad,0.098,Disengaged,72.7
+STU_0529,Online,23,Disgust,0.099,Disengaged,68.7
+STU_0530,In-Person,192,Happy,0.21,Highly Engaged,92.4
+STU_0531,In-Person,223,Neutral,0.167,Highly Engaged,98.4
+STU_0532,In-Person,16,Sad,0.068,Disengaged,60.9
+STU_0533,In-Person,240,Neutral,0.135,Engaged,80.7
+STU_0534,Hybrid,238,Neutral,0.204,Highly Engaged,94.2
+STU_0535,In-Person,125,Neutral,0.184,Highly Engaged,98.2
+STU_0536,In-Person,153,Neutral,0.165,Highly Engaged,88.1
+STU_0537,In-Person,193,Neutral,0.107,Engaged,87.3
+STU_0538,Online,166,Happy,0.186,Highly Engaged,91.0
+STU_0539,Hybrid,148,Surprised,0.215,Highly Engaged,98.6
+STU_0540,Online,150,Neutral,0.113,Engaged,81.8
+STU_0541,In-Person,230,Neutral,0.168,Highly Engaged,98.3
+STU_0542,Hybrid,60,Sad,0.064,Disengaged,57.1
+STU_0543,Online,192,Neutral,0.126,Engaged,86.4
+STU_0544,Hybrid,211,Neutral,0.2,Highly Engaged,89.5
+STU_0545,Hybrid,73,Scared,0.081,Disengaged,47.7
+STU_0546,Online,208,Neutral,0.15,Highly Engaged,91.9
+STU_0547,Online,240,Neutral,0.212,Highly Engaged,98.0
+STU_0548,Hybrid,228,Happy,0.159,Highly Engaged,99.5
+STU_0549,Hybrid,166,Neutral,0.159,Highly Engaged,92.1
+STU_0550,In-Person,121,Happy,0.129,Engaged,88.4
+STU_0551,Hybrid,7,Sad,0.039,Disengaged,64.5
+STU_0552,In-Person,185,Neutral,0.167,Highly Engaged,96.7
+STU_0553,Hybrid,157,Happy,0.195,Highly Engaged,96.7
+STU_0554,Hybrid,231,Happy,0.202,Highly Engaged,93.1
+STU_0555,In-Person,191,Neutral,0.11,Engaged,77.0
+STU_0556,Hybrid,126,Surprised,0.118,Engaged,82.8
+STU_0557,Online,164,Neutral,0.195,Highly Engaged,92.2
+STU_0558,Online,121,Happy,0.2,Highly Engaged,91.5
+STU_0559,In-Person,81,Neutral,0.193,Highly Engaged,93.0
+STU_0560,Hybrid,149,Happy,0.155,Highly Engaged,90.9
+STU_0561,In-Person,173,Neutral,0.172,Highly Engaged,89.3
+STU_0562,Online,86,Scared,0.046,Disengaged,62.5
+STU_0563,Online,87,Neutral,0.164,Highly Engaged,91.1
+STU_0564,Online,200,Happy,0.123,Engaged,83.6
+STU_0565,Online,165,Happy,0.169,Highly Engaged,97.9
+STU_0566,Hybrid,41,Sad,0.02,Disengaged,64.5
+STU_0567,Online,204,Happy,0.207,Highly Engaged,99.0
+STU_0568,Hybrid,111,Surprised,0.133,Engaged,87.5
+STU_0569,In-Person,23,Sad,0.095,Disengaged,61.2
+STU_0570,Online,37,Scared,0.076,Disengaged,40.3
+STU_0571,Hybrid,147,Neutral,0.17,Highly Engaged,96.6
+STU_0572,In-Person,159,Happy,0.176,Highly Engaged,96.8
+STU_0573,Online,23,Scared,0.045,Disengaged,40.0
+STU_0574,Hybrid,77,Disgust,0.073,Disengaged,56.6
+STU_0575,In-Person,49,Scared,0.047,Disengaged,64.8
+STU_0576,In-Person,202,Happy,0.173,Highly Engaged,93.3
+STU_0577,Online,120,Neutral,0.201,Highly Engaged,96.7
+STU_0578,In-Person,97,Happy,0.22,Highly Engaged,98.6
+STU_0579,Hybrid,58,Sad,0.029,Disengaged,40.4
+STU_0580,Online,104,Happy,0.188,Highly Engaged,91.7
+STU_0581,Hybrid,161,Happy,0.194,Highly Engaged,91.8
+STU_0582,In-Person,22,Scared,0.085,Disengaged,68.8
+STU_0583,Hybrid,159,Happy,0.206,Highly Engaged,97.7
+STU_0584,Online,82,Scared,0.038,Disengaged,46.1
+STU_0585,Hybrid,168,Happy,0.201,Highly Engaged,93.7
+STU_0586,Online,223,Neutral,0.154,Highly Engaged,91.8
+STU_0587,Online,224,Happy,0.211,Highly Engaged,99.5
+STU_0588,Online,17,Sad,0.087,Disengaged,59.2
+STU_0589,Online,248,Neutral,0.188,Highly Engaged,92.2
+STU_0590,Online,129,Neutral,0.145,Highly Engaged,89.7
+STU_0591,Online,86,Angry,0.09,Disengaged,65.5
+STU_0592,Hybrid,179,Neutral,0.105,Engaged,84.0
+STU_0593,Online,125,Happy,0.218,Highly Engaged,96.0
+STU_0594,Online,102,Happy,0.211,Highly Engaged,89.3
+STU_0595,In-Person,230,Happy,0.167,Highly Engaged,98.7
+STU_0596,Hybrid,156,Surprised,0.14,Engaged,82.5
+STU_0597,Hybrid,207,Neutral,0.126,Engaged,87.9
+STU_0598,Online,197,Happy,0.124,Engaged,80.4
+STU_0599,Online,81,Happy,0.193,Highly Engaged,88.2
+STU_0600,Online,202,Surprised,0.109,Engaged,88.8
+STU_0601,Online,138,Neutral,0.197,Highly Engaged,90.3
+STU_0602,Online,196,Happy,0.18,Highly Engaged,93.7
+STU_0603,Online,202,Neutral,0.202,Highly Engaged,96.7
+STU_0604,Online,148,Neutral,0.136,Engaged,80.4
+STU_0605,Online,85,Neutral,0.133,Engaged,85.9
+STU_0606,Hybrid,145,Neutral,0.2,Highly Engaged,93.0
+STU_0607,Online,81,Scared,0.079,Disengaged,59.1
+STU_0608,Online,189,Neutral,0.217,Highly Engaged,99.8
+STU_0609,Hybrid,40,Angry,0.061,Disengaged,65.5
+STU_0610,Hybrid,33,Disgust,0.036,Disengaged,49.1
+STU_0611,Online,210,Happy,0.121,Engaged,84.9
+STU_0612,In-Person,94,Neutral,0.158,Highly Engaged,89.1
+STU_0613,Hybrid,182,Happy,0.133,Engaged,77.9
+STU_0614,Online,64,Sad,0.037,Disengaged,68.5
+STU_0615,In-Person,153,Happy,0.189,Highly Engaged,89.7
+STU_0616,In-Person,82,Neutral,0.171,Highly Engaged,99.2
+STU_0617,Online,248,Happy,0.155,Highly Engaged,98.1
+STU_0618,Online,84,Scared,0.041,Disengaged,49.4
+STU_0619,In-Person,37,Sad,0.019,Disengaged,41.1
+STU_0620,In-Person,166,Neutral,0.143,Highly Engaged,88.6
+STU_0621,Online,162,Surprised,0.167,Highly Engaged,97.1
+STU_0622,Online,174,Neutral,0.201,Highly Engaged,88.4
+STU_0623,Online,139,Neutral,0.134,Engaged,84.9
+STU_0624,Hybrid,41,Scared,0.023,Disengaged,63.6
+STU_0625,Hybrid,188,Neutral,0.177,Highly Engaged,88.7
+STU_0626,Online,203,Neutral,0.212,Highly Engaged,88.1
+STU_0627,Hybrid,101,Neutral,0.168,Highly Engaged,99.1
+STU_0628,In-Person,42,Scared,0.019,Disengaged,54.4
+STU_0629,Online,59,Sad,0.051,Disengaged,67.4
+STU_0630,Online,165,Surprised,0.117,Engaged,75.0
+STU_0631,In-Person,6,Sad,0.018,Disengaged,61.6
+STU_0632,In-Person,169,Neutral,0.125,Engaged,86.3
+STU_0633,Hybrid,93,Happy,0.12,Engaged,86.5
+STU_0634,Hybrid,135,Happy,0.188,Highly Engaged,91.6
+STU_0635,Online,111,Neutral,0.145,Highly Engaged,93.3
+STU_0636,Hybrid,195,Happy,0.189,Highly Engaged,91.6
+STU_0637,Hybrid,69,Angry,0.021,Disengaged,55.2
+STU_0638,Online,243,Neutral,0.115,Engaged,82.2
+STU_0639,Online,240,Neutral,0.168,Highly Engaged,96.0
+STU_0640,Online,168,Neutral,0.206,Highly Engaged,98.7
+STU_0641,Online,195,Neutral,0.102,Engaged,76.4
+STU_0642,Online,17,Angry,0.045,Disengaged,64.3
+STU_0643,Online,136,Happy,0.218,Highly Engaged,94.3
+STU_0644,Online,229,Happy,0.145,Highly Engaged,89.2
+STU_0645,Online,51,Sad,0.04,Disengaged,56.0
+STU_0646,In-Person,101,Neutral,0.13,Engaged,80.5
+STU_0647,Hybrid,242,Happy,0.103,Engaged,80.8
+STU_0648,Hybrid,150,Happy,0.19,Highly Engaged,93.2
+STU_0649,In-Person,217,Happy,0.155,Highly Engaged,88.4
+STU_0650,Hybrid,29,Disgust,0.067,Disengaged,49.8
+STU_0651,Online,11,Sad,0.054,Disengaged,51.6
+STU_0652,Hybrid,165,Happy,0.16,Highly Engaged,96.1
+STU_0653,Hybrid,23,Scared,0.033,Disengaged,72.5
+STU_0654,In-Person,82,Neutral,0.212,Highly Engaged,90.4
+STU_0655,Hybrid,107,Neutral,0.212,Highly Engaged,90.0
+STU_0656,Online,187,Neutral,0.122,Engaged,79.6
+STU_0657,Online,103,Neutral,0.154,Highly Engaged,96.0
+STU_0658,Online,155,Happy,0.146,Highly Engaged,99.9
+STU_0659,Hybrid,171,Surprised,0.203,Highly Engaged,91.1
+STU_0660,Hybrid,30,Angry,0.03,Disengaged,41.9
+STU_0661,Online,139,Happy,0.158,Highly Engaged,93.5
+STU_0662,In-Person,110,Happy,0.162,Highly Engaged,91.0
+STU_0663,Hybrid,176,Neutral,0.178,Highly Engaged,88.8
+STU_0664,Online,97,Neutral,0.146,Highly Engaged,92.9
+STU_0665,Online,185,Happy,0.167,Highly Engaged,98.3
+STU_0666,Online,155,Happy,0.213,Highly Engaged,92.0
+STU_0667,Online,72,Scared,0.018,Disengaged,46.8
+STU_0668,Online,193,Neutral,0.198,Highly Engaged,88.4
+STU_0669,Online,80,Neutral,0.125,Engaged,90.4
+STU_0670,Online,143,Happy,0.146,Highly Engaged,98.4
+STU_0671,Online,141,Neutral,0.128,Engaged,87.4
+STU_0672,In-Person,122,Neutral,0.156,Highly Engaged,97.8
+STU_0673,Online,55,Sad,0.087,Disengaged,41.1
+STU_0674,Hybrid,124,Neutral,0.102,Engaged,80.2
+STU_0675,Hybrid,214,Surprised,0.195,Highly Engaged,91.5
+STU_0676,In-Person,244,Neutral,0.151,Highly Engaged,92.9
+STU_0677,Online,156,Neutral,0.179,Highly Engaged,98.6
+STU_0678,Online,201,Happy,0.135,Engaged,75.2
+STU_0679,In-Person,60,Sad,0.066,Disengaged,50.8
+STU_0680,In-Person,111,Happy,0.122,Engaged,82.3
+STU_0681,In-Person,72,Sad,0.042,Disengaged,40.3
+STU_0682,Online,87,Neutral,0.193,Highly Engaged,97.0
+STU_0683,Online,44,Sad,0.089,Disengaged,58.2
+STU_0684,Hybrid,189,Neutral,0.102,Engaged,82.4
+STU_0685,In-Person,229,Surprised,0.178,Highly Engaged,88.5
+STU_0686,Hybrid,245,Happy,0.19,Highly Engaged,89.1
+STU_0687,Hybrid,35,Angry,0.054,Disengaged,64.9
+STU_0688,Online,186,Happy,0.213,Highly Engaged,93.8
+STU_0689,In-Person,141,Neutral,0.118,Engaged,83.6
+STU_0690,Online,242,Neutral,0.153,Highly Engaged,93.9
+STU_0691,Online,32,Scared,0.09,Disengaged,73.4
+STU_0692,Hybrid,222,Happy,0.15,Highly Engaged,92.9
+STU_0693,Hybrid,55,Sad,0.08,Disengaged,65.8
+STU_0694,Online,206,Neutral,0.105,Engaged,91.9
+STU_0695,Online,167,Neutral,0.135,Engaged,88.8
+STU_0696,Hybrid,171,Neutral,0.159,Highly Engaged,98.6
+STU_0697,Online,42,Disgust,0.075,Disengaged,54.7
+STU_0698,Hybrid,214,Surprised,0.1,Engaged,79.2
+STU_0699,Online,33,Angry,0.05,Disengaged,56.1
+STU_0700,Hybrid,172,Neutral,0.149,Highly Engaged,95.8
+STU_0701,Hybrid,219,Surprised,0.217,Highly Engaged,88.5
+STU_0702,Online,198,Surprised,0.213,Highly Engaged,91.1
+STU_0703,Online,208,Neutral,0.113,Engaged,85.7
+STU_0704,Online,44,Scared,0.025,Disengaged,67.9
+STU_0705,Online,73,Angry,0.039,Disengaged,73.2
+STU_0706,In-Person,83,Scared,0.033,Disengaged,44.1
+STU_0707,Online,81,Sad,0.062,Disengaged,52.2
+STU_0708,In-Person,103,Neutral,0.144,Highly Engaged,95.7
+STU_0709,Online,184,Neutral,0.125,Engaged,77.5
+STU_0710,Hybrid,60,Disgust,0.023,Disengaged,61.2
+STU_0711,In-Person,134,Neutral,0.18,Highly Engaged,92.1
+STU_0712,Hybrid,23,Sad,0.016,Disengaged,60.5
+STU_0713,Hybrid,42,Sad,0.09,Disengaged,58.0
+STU_0714,Hybrid,174,Surprised,0.2,Highly Engaged,89.8
+STU_0715,Online,66,Disgust,0.088,Disengaged,50.7
+STU_0716,In-Person,246,Neutral,0.156,Highly Engaged,95.2
+STU_0717,In-Person,212,Neutral,0.103,Engaged,86.7
+STU_0718,In-Person,108,Neutral,0.15,Highly Engaged,98.7
+STU_0719,Online,194,Happy,0.131,Engaged,75.3
+STU_0720,In-Person,201,Neutral,0.162,Highly Engaged,89.8
+STU_0721,In-Person,200,Neutral,0.149,Highly Engaged,88.2
+STU_0722,Online,81,Scared,0.073,Disengaged,46.8
+STU_0723,Online,31,Angry,0.03,Disengaged,54.9
+STU_0724,In-Person,217,Neutral,0.139,Engaged,89.3
+STU_0725,Hybrid,140,Happy,0.195,Highly Engaged,98.1
+STU_0726,In-Person,45,Angry,0.071,Disengaged,71.1
+STU_0727,Online,90,Neutral,0.138,Engaged,77.0
+STU_0728,In-Person,210,Neutral,0.125,Engaged,82.7
+STU_0729,Online,232,Neutral,0.186,Highly Engaged,96.2
+STU_0730,Online,96,Happy,0.211,Highly Engaged,94.8
+STU_0731,Online,127,Neutral,0.199,Highly Engaged,89.1
+STU_0732,In-Person,35,Disgust,0.014,Disengaged,68.5
+STU_0733,Hybrid,83,Happy,0.201,Highly Engaged,92.8
+STU_0734,Hybrid,207,Happy,0.193,Highly Engaged,93.7
+STU_0735,Online,110,Neutral,0.133,Engaged,87.3
+STU_0736,In-Person,102,Happy,0.201,Highly Engaged,97.6
+STU_0737,Online,108,Surprised,0.155,Highly Engaged,96.9
+STU_0738,In-Person,38,Sad,0.084,Disengaged,47.7
+STU_0739,Hybrid,76,Sad,0.083,Disengaged,42.0
+STU_0740,Online,187,Happy,0.177,Highly Engaged,90.9
+STU_0741,Hybrid,67,Angry,0.086,Disengaged,66.4
+STU_0742,Online,14,Sad,0.057,Disengaged,41.8
+STU_0743,In-Person,69,Sad,0.034,Disengaged,41.4
+STU_0744,Hybrid,94,Neutral,0.112,Engaged,87.7
+STU_0745,Online,126,Neutral,0.133,Engaged,83.0
+STU_0746,In-Person,155,Neutral,0.117,Engaged,77.2
+STU_0747,Online,104,Surprised,0.185,Highly Engaged,98.9
+STU_0748,Hybrid,142,Happy,0.196,Highly Engaged,92.8
+STU_0749,In-Person,149,Happy,0.122,Engaged,85.9
+STU_0750,Hybrid,43,Scared,0.066,Disengaged,48.7
+STU_0751,Online,51,Scared,0.025,Disengaged,72.8
+STU_0752,In-Person,70,Angry,0.053,Disengaged,51.3
+STU_0753,Hybrid,224,Neutral,0.125,Engaged,79.1
+STU_0754,Online,154,Surprised,0.15,Highly Engaged,96.8
+STU_0755,Online,204,Neutral,0.14,Engaged,79.8
+STU_0756,In-Person,177,Neutral,0.188,Highly Engaged,94.4
+STU_0757,Hybrid,121,Neutral,0.158,Highly Engaged,91.8
+STU_0758,Hybrid,96,Neutral,0.193,Highly Engaged,96.9
+STU_0759,In-Person,115,Happy,0.179,Highly Engaged,99.4
+STU_0760,In-Person,74,Scared,0.015,Disengaged,70.1
+STU_0761,Online,229,Neutral,0.145,Highly Engaged,90.8
+STU_0762,Online,10,Sad,0.022,Disengaged,50.9
+STU_0763,Online,82,Happy,0.11,Engaged,78.2
+STU_0764,In-Person,144,Neutral,0.13,Engaged,88.7
+STU_0765,Online,155,Happy,0.147,Highly Engaged,88.6
+STU_0766,Hybrid,147,Neutral,0.209,Highly Engaged,99.5
+STU_0767,In-Person,136,Happy,0.159,Highly Engaged,96.9
+STU_0768,In-Person,129,Happy,0.16,Highly Engaged,91.7
+STU_0769,Online,121,Neutral,0.18,Highly Engaged,92.9
+STU_0770,In-Person,98,Neutral,0.189,Highly Engaged,91.8
+STU_0771,Online,226,Happy,0.121,Engaged,84.0
+STU_0772,In-Person,22,Angry,0.098,Disengaged,63.1
+STU_0773,Online,118,Neutral,0.179,Highly Engaged,91.4
+STU_0774,Online,34,Sad,0.021,Disengaged,71.7
+STU_0775,In-Person,140,Surprised,0.104,Engaged,83.8
+STU_0776,Online,80,Angry,0.064,Disengaged,73.0
+STU_0777,Online,73,Scared,0.08,Disengaged,44.5
+STU_0778,In-Person,147,Happy,0.174,Highly Engaged,96.3
+STU_0779,In-Person,234,Surprised,0.135,Engaged,77.0
+STU_0780,Hybrid,65,Scared,0.067,Disengaged,52.7
+STU_0781,Hybrid,192,Happy,0.185,Highly Engaged,89.4
+STU_0782,Hybrid,202,Neutral,0.211,Highly Engaged,91.9
+STU_0783,Online,168,Neutral,0.129,Engaged,86.4
+STU_0784,Online,8,Scared,0.019,Disengaged,72.1
+STU_0785,Online,55,Sad,0.026,Disengaged,64.2
+STU_0786,In-Person,243,Neutral,0.115,Engaged,86.5
+STU_0787,Hybrid,138,Happy,0.216,Highly Engaged,89.5
+STU_0788,Hybrid,174,Happy,0.187,Highly Engaged,99.3
+STU_0789,Hybrid,182,Neutral,0.102,Engaged,88.7
+STU_0790,In-Person,66,Disgust,0.049,Disengaged,46.6
+STU_0791,Online,147,Neutral,0.178,Highly Engaged,90.4
+STU_0792,Hybrid,226,Neutral,0.136,Engaged,85.8
+STU_0793,Hybrid,213,Happy,0.218,Highly Engaged,90.4
+STU_0794,Hybrid,89,Sad,0.015,Disengaged,69.5
+STU_0795,Online,162,Neutral,0.127,Engaged,80.8
+STU_0796,In-Person,91,Surprised,0.118,Engaged,79.1
+STU_0797,In-Person,201,Happy,0.14,Engaged,75.3
+STU_0798,Hybrid,149,Neutral,0.147,Highly Engaged,92.0
+STU_0799,Hybrid,197,Neutral,0.138,Engaged,86.5
+STU_0800,In-Person,236,Happy,0.183,Highly Engaged,94.8
+STU_0801,In-Person,213,Neutral,0.1,Engaged,90.8
+STU_0802,Online,41,Angry,0.044,Disengaged,62.6
+STU_0803,Hybrid,85,Sad,0.021,Disengaged,42.0
+STU_0804,Hybrid,38,Disgust,0.088,Disengaged,67.6
+STU_0805,Hybrid,86,Neutral,0.191,Highly Engaged,88.2
+STU_0806,In-Person,16,Disgust,0.044,Disengaged,57.2
+STU_0807,In-Person,191,Happy,0.183,Highly Engaged,99.7
+STU_0808,In-Person,228,Neutral,0.188,Highly Engaged,98.5
+STU_0809,Hybrid,113,Neutral,0.112,Engaged,90.3
+STU_0810,Online,104,Neutral,0.143,Highly Engaged,89.5
+STU_0811,In-Person,165,Surprised,0.151,Highly Engaged,88.1
+STU_0812,In-Person,167,Happy,0.154,Highly Engaged,97.6
+STU_0813,Online,172,Neutral,0.113,Engaged,82.5
+STU_0814,In-Person,132,Surprised,0.184,Highly Engaged,97.5
+STU_0815,In-Person,211,Neutral,0.106,Engaged,75.1
+STU_0816,Hybrid,193,Happy,0.179,Highly Engaged,96.8
+STU_0817,Hybrid,141,Happy,0.14,Engaged,86.4
+STU_0818,Online,41,Scared,0.069,Disengaged,41.4
+STU_0819,Online,39,Scared,0.081,Disengaged,71.3
+STU_0820,Online,97,Happy,0.125,Engaged,79.2
+STU_0821,In-Person,233,Happy,0.112,Engaged,78.1
+STU_0822,Online,214,Happy,0.174,Highly Engaged,97.5
+STU_0823,Online,60,Sad,0.054,Disengaged,56.2
+STU_0824,Online,219,Neutral,0.103,Engaged,88.9
+STU_0825,Hybrid,153,Neutral,0.179,Highly Engaged,92.4
+STU_0826,In-Person,127,Neutral,0.198,Highly Engaged,88.8
+STU_0827,Online,201,Happy,0.113,Engaged,76.2
+STU_0828,Online,172,Happy,0.162,Highly Engaged,96.9
+STU_0829,In-Person,87,Scared,0.013,Disengaged,44.8
+STU_0830,Hybrid,176,Neutral,0.122,Engaged,78.8
+STU_0831,Online,214,Happy,0.205,Highly Engaged,92.0
+STU_0832,Hybrid,15,Sad,0.021,Disengaged,70.7
+STU_0833,Online,46,Scared,0.017,Disengaged,57.4
+STU_0834,Online,99,Happy,0.183,Highly Engaged,88.9
+STU_0835,Hybrid,148,Happy,0.163,Highly Engaged,98.0
+STU_0836,Hybrid,178,Neutral,0.215,Highly Engaged,96.4
+STU_0837,In-Person,54,Angry,0.084,Disengaged,66.8
+STU_0838,Online,216,Neutral,0.162,Highly Engaged,90.9
+STU_0839,Hybrid,9,Angry,0.014,Disengaged,46.8
+STU_0840,Hybrid,117,Surprised,0.219,Highly Engaged,97.1
+STU_0841,Online,194,Happy,0.161,Highly Engaged,93.7
+STU_0842,Hybrid,161,Neutral,0.177,Highly Engaged,98.3
+STU_0843,Online,146,Happy,0.147,Highly Engaged,91.6
+STU_0844,In-Person,134,Happy,0.109,Engaged,77.9
+STU_0845,Online,142,Neutral,0.159,Highly Engaged,89.6
+STU_0846,Hybrid,205,Surprised,0.141,Highly Engaged,94.5
+STU_0847,Online,41,Disgust,0.016,Disengaged,68.1
+STU_0848,In-Person,159,Happy,0.185,Highly Engaged,94.7
+STU_0849,Hybrid,44,Sad,0.051,Disengaged,65.3
+STU_0850,Hybrid,148,Neutral,0.196,Highly Engaged,93.2
+STU_0851,Online,83,Happy,0.213,Highly Engaged,93.8
+STU_0852,In-Person,193,Neutral,0.173,Highly Engaged,94.9
+STU_0853,Online,127,Surprised,0.167,Highly Engaged,90.2
+STU_0854,In-Person,37,Angry,0.077,Disengaged,67.6
+STU_0855,Online,187,Surprised,0.205,Highly Engaged,89.2
+STU_0856,Online,132,Neutral,0.2,Highly Engaged,88.6
+STU_0857,Online,152,Happy,0.159,Highly Engaged,97.2
+STU_0858,Hybrid,207,Happy,0.138,Engaged,79.8
+STU_0859,Hybrid,236,Happy,0.106,Engaged,77.7
+STU_0860,Online,68,Scared,0.085,Disengaged,52.3
+STU_0861,In-Person,84,Sad,0.05,Disengaged,57.6
+STU_0862,Hybrid,171,Surprised,0.154,Highly Engaged,97.5
+STU_0863,Hybrid,221,Happy,0.154,Highly Engaged,88.8
+STU_0864,Hybrid,131,Neutral,0.183,Highly Engaged,95.3
+STU_0865,Hybrid,178,Neutral,0.156,Highly Engaged,91.5
+STU_0866,Hybrid,218,Happy,0.127,Engaged,84.8
+STU_0867,Online,151,Happy,0.141,Highly Engaged,91.9
+STU_0868,Online,194,Surprised,0.108,Engaged,89.1
+STU_0869,In-Person,238,Surprised,0.159,Highly Engaged,99.7
+STU_0870,In-Person,156,Neutral,0.171,Highly Engaged,89.1
+STU_0871,Online,214,Happy,0.192,Highly Engaged,99.6
+STU_0872,Online,162,Neutral,0.186,Highly Engaged,97.5
+STU_0873,Hybrid,243,Neutral,0.171,Highly Engaged,93.4
+STU_0874,Hybrid,28,Scared,0.082,Disengaged,52.5
+STU_0875,Online,249,Neutral,0.202,Highly Engaged,98.2
+STU_0876,Online,93,Happy,0.155,Highly Engaged,90.5
+STU_0877,In-Person,214,Neutral,0.151,Highly Engaged,88.8
+STU_0878,Hybrid,42,Scared,0.057,Disengaged,51.7
+STU_0879,Online,123,Happy,0.142,Highly Engaged,93.4
+STU_0880,Online,139,Neutral,0.215,Highly Engaged,98.7
+STU_0881,Online,87,Happy,0.168,Highly Engaged,97.1
+STU_0882,Hybrid,7,Sad,0.044,Disengaged,56.1
+STU_0883,Online,30,Angry,0.011,Disengaged,44.4
+STU_0884,Online,247,Neutral,0.114,Engaged,91.8
+STU_0885,In-Person,36,Scared,0.088,Disengaged,41.0
+STU_0886,Online,58,Angry,0.062,Disengaged,42.2
+STU_0887,Hybrid,44,Angry,0.054,Disengaged,54.3
+STU_0888,Online,210,Surprised,0.14,Highly Engaged,96.7
+STU_0889,Online,141,Surprised,0.19,Highly Engaged,88.6
+STU_0890,Online,171,Happy,0.15,Highly Engaged,90.2
+STU_0891,In-Person,50,Sad,0.098,Disengaged,50.5
+STU_0892,In-Person,159,Happy,0.133,Engaged,90.2
+STU_0893,In-Person,206,Surprised,0.188,Highly Engaged,99.0
+STU_0894,Online,135,Happy,0.189,Highly Engaged,90.4
+STU_0895,Hybrid,20,Sad,0.039,Disengaged,72.7
+STU_0896,Online,44,Scared,0.034,Disengaged,67.3
+STU_0897,Online,132,Neutral,0.152,Highly Engaged,94.2
+STU_0898,In-Person,84,Scared,0.096,Disengaged,43.2
+STU_0899,Online,123,Happy,0.134,Engaged,82.5
+STU_0900,Online,49,Scared,0.091,Disengaged,64.5
+STU_0901,Online,101,Happy,0.178,Highly Engaged,95.8
+STU_0902,Online,126,Happy,0.147,Highly Engaged,93.9
+STU_0903,Online,13,Angry,0.047,Disengaged,50.8
+STU_0904,Hybrid,170,Neutral,0.192,Highly Engaged,89.1
+STU_0905,Hybrid,82,Scared,0.093,Disengaged,42.9
+STU_0906,In-Person,140,Happy,0.116,Engaged,83.0
+STU_0907,In-Person,205,Happy,0.122,Engaged,91.6
+STU_0908,Online,147,Neutral,0.151,Highly Engaged,89.7
+STU_0909,Online,82,Happy,0.151,Highly Engaged,91.7
+STU_0910,Online,202,Neutral,0.188,Highly Engaged,88.0
+STU_0911,Hybrid,196,Neutral,0.143,Highly Engaged,99.6
+STU_0912,Online,160,Neutral,0.122,Engaged,86.1
+STU_0913,Hybrid,150,Neutral,0.183,Highly Engaged,91.8
+STU_0914,Hybrid,52,Disgust,0.047,Disengaged,56.4
+STU_0915,Hybrid,24,Disgust,0.042,Disengaged,45.5
+STU_0916,Hybrid,155,Happy,0.151,Highly Engaged,89.9
+STU_0917,Online,10,Sad,0.02,Disengaged,56.6
+STU_0918,In-Person,87,Neutral,0.153,Highly Engaged,97.4
+STU_0919,In-Person,238,Surprised,0.175,Highly Engaged,99.6
+STU_0920,Online,19,Sad,0.012,Disengaged,58.9
+STU_0921,In-Person,45,Angry,0.061,Disengaged,45.2
+STU_0922,Hybrid,171,Happy,0.116,Engaged,90.1
+STU_0923,In-Person,88,Sad,0.075,Disengaged,62.5
+STU_0924,In-Person,227,Neutral,0.181,Highly Engaged,97.7
+STU_0925,Hybrid,11,Disgust,0.04,Disengaged,67.7
+STU_0926,Online,222,Neutral,0.145,Highly Engaged,92.7
+STU_0927,Online,222,Surprised,0.215,Highly Engaged,92.3
+STU_0928,Hybrid,128,Surprised,0.15,Highly Engaged,92.9
+STU_0929,Hybrid,94,Surprised,0.143,Highly Engaged,91.5
+STU_0930,Online,172,Neutral,0.18,Highly Engaged,93.0
+STU_0931,Online,77,Angry,0.068,Disengaged,70.0
+STU_0932,In-Person,186,Neutral,0.135,Engaged,76.3
+STU_0933,In-Person,83,Surprised,0.208,Highly Engaged,93.4
+STU_0934,Hybrid,159,Neutral,0.153,Highly Engaged,90.1
+STU_0935,Online,81,Neutral,0.134,Engaged,92.0
+STU_0936,Online,122,Happy,0.139,Engaged,86.2
+STU_0937,Online,216,Happy,0.107,Engaged,79.6
+STU_0938,In-Person,162,Neutral,0.138,Engaged,76.8
+STU_0939,Online,128,Neutral,0.197,Highly Engaged,89.7
+STU_0940,Hybrid,113,Happy,0.192,Highly Engaged,94.2
+STU_0941,Online,51,Sad,0.038,Disengaged,44.9
+STU_0942,Hybrid,8,Scared,0.064,Disengaged,62.3
+STU_0943,Hybrid,124,Neutral,0.165,Highly Engaged,94.4
+STU_0944,In-Person,88,Happy,0.144,Highly Engaged,92.8
+STU_0945,Online,105,Neutral,0.16,Highly Engaged,97.0
+STU_0946,Online,109,Neutral,0.119,Engaged,82.7
+STU_0947,Online,143,Surprised,0.176,Highly Engaged,89.0
+STU_0948,In-Person,153,Surprised,0.205,Highly Engaged,93.0
+STU_0949,In-Person,132,Neutral,0.151,Highly Engaged,94.9
+STU_0950,Hybrid,226,Neutral,0.128,Engaged,91.2
+STU_0951,Hybrid,219,Neutral,0.191,Highly Engaged,94.1
+STU_0952,Hybrid,50,Scared,0.024,Disengaged,73.9
+STU_0953,Online,61,Disgust,0.098,Disengaged,61.6
+STU_0954,In-Person,139,Neutral,0.173,Highly Engaged,91.3
+STU_0955,Hybrid,139,Neutral,0.131,Engaged,82.3
+STU_0956,Online,26,Scared,0.09,Disengaged,58.4
+STU_0957,Hybrid,39,Angry,0.082,Disengaged,67.2
+STU_0958,Online,217,Happy,0.161,Highly Engaged,98.6
+STU_0959,Online,169,Neutral,0.199,Highly Engaged,93.1
+STU_0960,In-Person,180,Neutral,0.166,Highly Engaged,94.6
+STU_0961,Online,177,Happy,0.137,Engaged,90.8
+STU_0962,Hybrid,80,Happy,0.186,Highly Engaged,90.6
+STU_0963,Online,218,Neutral,0.192,Highly Engaged,99.5
+STU_0964,Online,123,Happy,0.17,Highly Engaged,92.5
+STU_0965,Online,211,Neutral,0.164,Highly Engaged,90.4
+STU_0966,Online,20,Sad,0.095,Disengaged,56.5
+STU_0967,In-Person,213,Neutral,0.101,Engaged,90.3
+STU_0968,Online,87,Neutral,0.215,Highly Engaged,88.2
+STU_0969,Hybrid,108,Happy,0.121,Engaged,79.3
+STU_0970,Hybrid,125,Happy,0.108,Engaged,78.8
+STU_0971,Hybrid,51,Disgust,0.054,Disengaged,47.3
+STU_0972,In-Person,214,Happy,0.12,Engaged,83.5
+STU_0973,In-Person,98,Neutral,0.185,Highly Engaged,94.4
+STU_0974,Online,24,Sad,0.099,Disengaged,73.6
+STU_0975,Online,222,Neutral,0.147,Highly Engaged,96.2
+STU_0976,Online,87,Angry,0.038,Disengaged,43.0
+STU_0977,Hybrid,180,Happy,0.173,Highly Engaged,94.3
+STU_0978,Online,249,Happy,0.179,Highly Engaged,91.2
+STU_0979,Hybrid,235,Neutral,0.162,Highly Engaged,95.3
+STU_0980,Hybrid,146,Happy,0.108,Engaged,90.5
+STU_0981,Online,80,Scared,0.061,Disengaged,71.5
+STU_0982,In-Person,14,Sad,0.066,Disengaged,66.7
+STU_0983,Online,187,Neutral,0.161,Highly Engaged,96.9
+STU_0984,Online,158,Neutral,0.181,Highly Engaged,90.6
+STU_0985,In-Person,64,Sad,0.074,Disengaged,68.3
+STU_0986,Hybrid,23,Angry,0.085,Disengaged,57.9
+STU_0987,Hybrid,244,Neutral,0.208,Highly Engaged,97.9
+STU_0988,Hybrid,167,Happy,0.19,Highly Engaged,90.6
+STU_0989,Online,109,Neutral,0.204,Highly Engaged,96.7
+STU_0990,In-Person,53,Scared,0.029,Disengaged,52.1
+STU_0991,In-Person,218,Neutral,0.121,Engaged,87.6
+STU_0992,Hybrid,99,Neutral,0.146,Highly Engaged,99.8
+STU_0993,Online,32,Sad,0.05,Disengaged,44.1
+STU_0994,Hybrid,92,Neutral,0.171,Highly Engaged,95.2
+STU_0995,Online,102,Happy,0.134,Engaged,79.0
+STU_0996,Online,140,Happy,0.162,Highly Engaged,94.1
+STU_0997,In-Person,131,Neutral,0.191,Highly Engaged,93.8
+STU_0998,Online,162,Happy,0.173,Highly Engaged,90.4
+STU_0999,In-Person,157,Happy,0.2,Highly Engaged,92.3
+STU_1000,Hybrid,146,Neutral,0.128,Engaged,80.6
+STU_1001,Online,232,Happy,0.15,Highly Engaged,96.8
+STU_1002,Hybrid,25,Sad,0.082,Disengaged,48.6
+STU_1003,In-Person,30,Sad,0.063,Disengaged,42.4
+STU_1004,In-Person,244,Neutral,0.115,Engaged,81.8
+STU_1005,In-Person,224,Neutral,0.209,Highly Engaged,98.2
+STU_1006,Hybrid,138,Neutral,0.167,Highly Engaged,92.9
+STU_1007,Hybrid,85,Happy,0.115,Engaged,91.6
+STU_1008,In-Person,152,Happy,0.133,Engaged,88.1
+STU_1009,Online,185,Surprised,0.197,Highly Engaged,91.8
+STU_1010,Hybrid,132,Neutral,0.179,Highly Engaged,94.8
+STU_1011,Online,215,Neutral,0.102,Engaged,77.0
+STU_1012,In-Person,132,Happy,0.114,Engaged,80.8
+STU_1013,In-Person,95,Surprised,0.107,Engaged,77.4
+STU_1014,Online,99,Neutral,0.148,Highly Engaged,89.6
+STU_1015,In-Person,190,Surprised,0.158,Highly Engaged,89.9
+STU_1016,In-Person,85,Neutral,0.158,Highly Engaged,99.9
+STU_1017,Online,76,Scared,0.085,Disengaged,54.1
+STU_1018,Hybrid,9,Scared,0.056,Disengaged,45.3
+STU_1019,In-Person,124,Neutral,0.173,Highly Engaged,89.0
+STU_1020,Online,157,Neutral,0.142,Highly Engaged,95.9
+STU_1021,Hybrid,123,Happy,0.11,Engaged,87.9
+STU_1022,Online,86,Neutral,0.169,Highly Engaged,92.1
+STU_1023,In-Person,103,Surprised,0.219,Highly Engaged,89.5
+STU_1024,In-Person,58,Scared,0.022,Disengaged,54.2
+STU_1025,In-Person,111,Surprised,0.139,Engaged,81.7
+STU_1026,Hybrid,57,Scared,0.041,Disengaged,54.0
+STU_1027,In-Person,106,Happy,0.101,Engaged,88.3
+STU_1028,In-Person,188,Neutral,0.105,Engaged,83.6
+STU_1029,Online,34,Sad,0.08,Disengaged,52.0
+STU_1030,In-Person,220,Happy,0.202,Highly Engaged,90.9
+STU_1031,Online,104,Surprised,0.11,Engaged,77.1
+STU_1032,Hybrid,84,Neutral,0.212,Highly Engaged,95.9
+STU_1033,Online,200,Neutral,0.178,Highly Engaged,88.7
+STU_1034,Online,53,Disgust,0.052,Disengaged,41.0
+STU_1035,Online,88,Neutral,0.21,Highly Engaged,93.3
+STU_1036,Hybrid,12,Disgust,0.029,Disengaged,42.2
+STU_1037,Online,50,Disgust,0.065,Disengaged,57.2
+STU_1038,In-Person,30,Sad,0.087,Disengaged,60.9
+STU_1039,Online,125,Surprised,0.187,Highly Engaged,98.0
+STU_1040,Online,151,Happy,0.168,Highly Engaged,95.8
+STU_1041,Hybrid,22,Scared,0.092,Disengaged,44.6
+STU_1042,In-Person,193,Neutral,0.101,Engaged,90.7
+STU_1043,Online,138,Happy,0.118,Engaged,88.5
+STU_1044,Hybrid,126,Surprised,0.145,Highly Engaged,90.6
+STU_1045,In-Person,192,Happy,0.212,Highly Engaged,99.3
+STU_1046,Hybrid,176,Happy,0.138,Engaged,88.8
+STU_1047,Online,199,Neutral,0.187,Highly Engaged,96.4
+STU_1048,Online,222,Happy,0.148,Highly Engaged,90.2
+STU_1049,In-Person,38,Scared,0.026,Disengaged,68.9
+STU_1050,Online,195,Neutral,0.117,Engaged,80.5
+STU_1051,In-Person,82,Angry,0.094,Disengaged,57.9
+STU_1052,Hybrid,155,Surprised,0.144,Highly Engaged,99.0
+STU_1053,In-Person,8,Scared,0.077,Disengaged,60.6
+STU_1054,In-Person,202,Happy,0.205,Highly Engaged,96.2
+STU_1055,In-Person,16,Sad,0.059,Disengaged,73.5
+STU_1056,Online,81,Neutral,0.123,Engaged,75.5
+STU_1057,In-Person,10,Sad,0.029,Disengaged,42.8
+STU_1058,Hybrid,174,Neutral,0.117,Engaged,91.6
+STU_1059,Hybrid,16,Scared,0.049,Disengaged,59.4
+STU_1060,Hybrid,63,Disgust,0.065,Disengaged,68.2
+STU_1061,In-Person,245,Neutral,0.187,Highly Engaged,88.1
+STU_1062,In-Person,221,Neutral,0.12,Engaged,77.1
+STU_1063,In-Person,64,Sad,0.02,Disengaged,54.3
+STU_1064,Hybrid,182,Neutral,0.121,Engaged,86.3
+STU_1065,Hybrid,54,Scared,0.067,Disengaged,43.0
+STU_1066,In-Person,87,Neutral,0.147,Highly Engaged,91.8
+STU_1067,Online,136,Neutral,0.204,Highly Engaged,99.2
+STU_1068,Online,44,Disgust,0.034,Disengaged,47.3
+STU_1069,Online,212,Surprised,0.212,Highly Engaged,90.9
+STU_1070,Online,88,Scared,0.035,Disengaged,53.6
+STU_1071,Online,166,Neutral,0.101,Engaged,84.6
+STU_1072,Online,116,Surprised,0.205,Highly Engaged,88.3
+STU_1073,Online,165,Happy,0.202,Highly Engaged,95.3
+STU_1074,Online,166,Surprised,0.194,Highly Engaged,90.3
+STU_1075,In-Person,202,Surprised,0.154,Highly Engaged,88.1
+STU_1076,Hybrid,232,Happy,0.193,Highly Engaged,97.6
+STU_1077,Online,216,Happy,0.188,Highly Engaged,94.9
+STU_1078,Hybrid,186,Neutral,0.166,Highly Engaged,96.1
+STU_1079,Online,19,Sad,0.034,Disengaged,42.7
+STU_1080,In-Person,99,Neutral,0.12,Engaged,86.8
+STU_1081,In-Person,156,Surprised,0.177,Highly Engaged,92.0
+STU_1082,Online,186,Neutral,0.191,Highly Engaged,97.3
+STU_1083,Hybrid,153,Surprised,0.166,Highly Engaged,88.1
+STU_1084,In-Person,82,Sad,0.084,Disengaged,63.4
+STU_1085,In-Person,196,Neutral,0.171,Highly Engaged,91.0
+STU_1086,Hybrid,143,Neutral,0.141,Highly Engaged,93.7
+STU_1087,Hybrid,95,Neutral,0.112,Engaged,91.2
+STU_1088,Online,188,Surprised,0.217,Highly Engaged,89.3
+STU_1089,In-Person,62,Scared,0.014,Disengaged,41.4
+STU_1090,Online,140,Neutral,0.183,Highly Engaged,98.2
+STU_1091,In-Person,74,Sad,0.04,Disengaged,50.2
+STU_1092,Hybrid,99,Neutral,0.119,Engaged,77.0
+STU_1093,Hybrid,240,Happy,0.134,Engaged,81.2
+STU_1094,Hybrid,61,Angry,0.069,Disengaged,71.1
+STU_1095,Online,234,Neutral,0.192,Highly Engaged,95.4
+STU_1096,Online,173,Happy,0.105,Engaged,86.2
+STU_1097,Online,130,Neutral,0.195,Highly Engaged,89.4
+STU_1098,Online,147,Neutral,0.137,Engaged,83.8
+STU_1099,In-Person,136,Neutral,0.161,Highly Engaged,97.7
+STU_1100,Online,141,Neutral,0.22,Highly Engaged,93.1
+STU_1101,Online,105,Surprised,0.129,Engaged,84.5
+STU_1102,In-Person,140,Happy,0.155,Highly Engaged,96.6
+STU_1103,In-Person,160,Happy,0.184,Highly Engaged,95.6
+STU_1104,In-Person,144,Neutral,0.117,Engaged,80.4
+STU_1105,In-Person,101,Neutral,0.151,Highly Engaged,93.0
+STU_1106,Online,88,Surprised,0.104,Engaged,81.8
+STU_1107,Online,30,Disgust,0.056,Disengaged,67.8
+STU_1108,In-Person,186,Neutral,0.105,Engaged,80.4
+STU_1109,Hybrid,19,Scared,0.095,Disengaged,69.2
+STU_1110,Online,181,Happy,0.185,Highly Engaged,91.5
+STU_1111,In-Person,178,Happy,0.211,Highly Engaged,98.2
+STU_1112,Online,159,Happy,0.161,Highly Engaged,93.6
+STU_1113,Online,220,Neutral,0.212,Highly Engaged,92.4
+STU_1114,Hybrid,113,Neutral,0.132,Engaged,83.7
+STU_1115,Hybrid,165,Surprised,0.179,Highly Engaged,98.0
+STU_1116,Hybrid,113,Neutral,0.194,Highly Engaged,97.2
+STU_1117,Online,17,Angry,0.04,Disengaged,56.0
+STU_1118,In-Person,193,Happy,0.19,Highly Engaged,93.3
+STU_1119,Online,212,Neutral,0.175,Highly Engaged,98.2
+STU_1120,Online,64,Sad,0.03,Disengaged,60.8
+STU_1121,In-Person,207,Neutral,0.104,Engaged,76.7
+STU_1122,In-Person,217,Happy,0.184,Highly Engaged,94.2
+STU_1123,In-Person,195,Surprised,0.135,Engaged,76.5
+STU_1124,In-Person,27,Angry,0.056,Disengaged,66.2
+STU_1125,Hybrid,74,Sad,0.08,Disengaged,51.0
+STU_1126,Hybrid,121,Surprised,0.123,Engaged,81.0
+STU_1127,Online,231,Surprised,0.117,Engaged,88.8
+STU_1128,Hybrid,73,Angry,0.054,Disengaged,49.0
+STU_1129,Online,172,Neutral,0.196,Highly Engaged,90.9
+STU_1130,Online,191,Neutral,0.139,Engaged,83.1
+STU_1131,In-Person,141,Neutral,0.148,Highly Engaged,95.7
+STU_1132,Hybrid,134,Neutral,0.203,Highly Engaged,98.7
+STU_1133,Online,192,Surprised,0.206,Highly Engaged,99.5
+STU_1134,Online,245,Surprised,0.215,Highly Engaged,93.0
+STU_1135,Hybrid,169,Happy,0.185,Highly Engaged,99.4
+STU_1136,Online,96,Neutral,0.164,Highly Engaged,96.3
+STU_1137,In-Person,50,Sad,0.034,Disengaged,66.4
+STU_1138,Hybrid,176,Neutral,0.196,Highly Engaged,93.7
+STU_1139,Hybrid,127,Surprised,0.158,Highly Engaged,95.4
+STU_1140,Hybrid,139,Happy,0.164,Highly Engaged,95.2
+STU_1141,In-Person,193,Neutral,0.12,Engaged,85.8
+STU_1142,Online,174,Neutral,0.161,Highly Engaged,88.8
+STU_1143,Hybrid,81,Neutral,0.165,Highly Engaged,94.5
+STU_1144,Hybrid,38,Scared,0.022,Disengaged,56.9
+STU_1145,Online,49,Angry,0.038,Disengaged,62.3
+STU_1146,In-Person,126,Surprised,0.173,Highly Engaged,95.9
+STU_1147,In-Person,116,Neutral,0.167,Highly Engaged,89.3
+STU_1148,Hybrid,98,Happy,0.14,Highly Engaged,90.6
+STU_1149,In-Person,46,Sad,0.086,Disengaged,45.9
+STU_1150,In-Person,69,Sad,0.022,Disengaged,49.0
+STU_1151,In-Person,212,Neutral,0.104,Engaged,88.1
+STU_1152,In-Person,96,Neutral,0.133,Engaged,78.4
+STU_1153,Hybrid,19,Sad,0.081,Disengaged,59.1
+STU_1154,Hybrid,82,Happy,0.152,Highly Engaged,92.9
+STU_1155,Hybrid,197,Neutral,0.122,Engaged,86.4
+STU_1156,In-Person,216,Neutral,0.187,Highly Engaged,96.7
+STU_1157,Online,148,Happy,0.137,Engaged,91.7
+STU_1158,In-Person,51,Scared,0.052,Disengaged,58.9
+STU_1159,In-Person,14,Angry,0.082,Disengaged,68.5
+STU_1160,Online,234,Happy,0.199,Highly Engaged,94.5
+STU_1161,In-Person,146,Happy,0.161,Highly Engaged,93.0
+STU_1162,Online,222,Neutral,0.153,Highly Engaged,95.2
+STU_1163,Online,191,Happy,0.161,Highly Engaged,92.9
+STU_1164,In-Person,189,Happy,0.16,Highly Engaged,96.2
+STU_1165,Online,98,Surprised,0.145,Highly Engaged,90.9
+STU_1166,In-Person,89,Happy,0.213,Highly Engaged,88.8
+STU_1167,In-Person,178,Neutral,0.176,Highly Engaged,95.2
+STU_1168,Hybrid,103,Neutral,0.154,Highly Engaged,91.0
+STU_1169,Online,188,Neutral,0.176,Highly Engaged,94.4
+STU_1170,Online,112,Neutral,0.135,Engaged,89.0
+STU_1171,Hybrid,226,Neutral,0.16,Highly Engaged,94.2
+STU_1172,In-Person,16,Disgust,0.033,Disengaged,44.1
+STU_1173,Hybrid,82,Happy,0.115,Engaged,90.8
+STU_1174,Online,249,Happy,0.196,Highly Engaged,89.8
+STU_1175,Hybrid,24,Scared,0.019,Disengaged,56.9
+STU_1176,Hybrid,25,Disgust,0.047,Disengaged,40.5
+STU_1177,In-Person,165,Happy,0.184,Highly Engaged,96.4
+STU_1178,Online,25,Sad,0.031,Disengaged,55.2
+STU_1179,In-Person,204,Neutral,0.154,Highly Engaged,90.4
+STU_1180,Hybrid,170,Neutral,0.105,Engaged,85.8
+STU_1181,In-Person,190,Happy,0.136,Engaged,88.1
+STU_1182,Online,194,Surprised,0.191,Highly Engaged,92.3
+STU_1183,Hybrid,106,Surprised,0.193,Highly Engaged,89.6
+STU_1184,In-Person,94,Neutral,0.152,Highly Engaged,92.0
+STU_1185,Online,199,Neutral,0.197,Highly Engaged,88.5
+STU_1186,In-Person,90,Surprised,0.168,Highly Engaged,99.5
+STU_1187,Hybrid,93,Neutral,0.126,Engaged,86.5
+STU_1188,Online,214,Happy,0.18,Highly Engaged,92.6
+STU_1189,Online,180,Surprised,0.197,Highly Engaged,99.7
+STU_1190,In-Person,52,Sad,0.058,Disengaged,40.8
+STU_1191,Online,74,Sad,0.09,Disengaged,57.5
+STU_1192,Hybrid,66,Scared,0.018,Disengaged,68.8
+STU_1193,Online,115,Happy,0.177,Highly Engaged,95.3
+STU_1194,Hybrid,60,Sad,0.046,Disengaged,47.5
+STU_1195,Online,220,Surprised,0.166,Highly Engaged,94.5
+STU_1196,In-Person,100,Neutral,0.153,Highly Engaged,96.0
+STU_1197,In-Person,148,Neutral,0.205,Highly Engaged,97.6
+STU_1198,In-Person,127,Neutral,0.111,Engaged,75.4
+STU_1199,In-Person,240,Happy,0.159,Highly Engaged,98.2
+STU_1200,Online,151,Surprised,0.108,Engaged,78.1
+STU_1201,In-Person,30,Scared,0.054,Disengaged,69.9
+STU_1202,Online,86,Neutral,0.142,Highly Engaged,91.2
+STU_1203,Online,117,Neutral,0.186,Highly Engaged,94.7
+STU_1204,Online,46,Disgust,0.059,Disengaged,43.4
+STU_1205,Hybrid,142,Neutral,0.144,Highly Engaged,95.8
+STU_1206,In-Person,106,Happy,0.13,Engaged,85.5
+STU_1207,Hybrid,95,Happy,0.174,Highly Engaged,93.1
+STU_1208,Hybrid,197,Happy,0.213,Highly Engaged,97.1
+STU_1209,Online,86,Neutral,0.121,Engaged,90.4
+STU_1210,In-Person,190,Neutral,0.145,Highly Engaged,98.9
+STU_1211,Hybrid,170,Neutral,0.186,Highly Engaged,92.6
+STU_1212,Hybrid,212,Happy,0.187,Highly Engaged,90.1
+STU_1213,Online,149,Happy,0.137,Engaged,82.8
+STU_1214,In-Person,211,Neutral,0.183,Highly Engaged,98.6
+STU_1215,Hybrid,216,Surprised,0.191,Highly Engaged,88.7
+STU_1216,Online,47,Scared,0.064,Disengaged,69.9
+STU_1217,Online,136,Neutral,0.178,Highly Engaged,98.3
+STU_1218,Hybrid,191,Happy,0.167,Highly Engaged,90.7
+STU_1219,Hybrid,134,Surprised,0.124,Engaged,76.3
+STU_1220,Online,152,Neutral,0.2,Highly Engaged,90.0
+STU_1221,In-Person,87,Neutral,0.188,Highly Engaged,90.3
+STU_1222,Online,246,Surprised,0.2,Highly Engaged,93.0
+STU_1223,Hybrid,28,Scared,0.014,Disengaged,42.4
+STU_1224,In-Person,54,Sad,0.057,Disengaged,67.4
+STU_1225,Hybrid,239,Happy,0.174,Highly Engaged,93.3
+STU_1226,Hybrid,43,Sad,0.027,Disengaged,41.7
+STU_1227,Online,156,Happy,0.193,Highly Engaged,93.9
+STU_1228,Online,219,Surprised,0.183,Highly Engaged,92.9
+STU_1229,In-Person,179,Happy,0.104,Engaged,78.0
+STU_1230,Hybrid,216,Neutral,0.169,Highly Engaged,92.5
+STU_1231,In-Person,75,Sad,0.088,Disengaged,71.0
+STU_1232,Online,146,Happy,0.18,Highly Engaged,92.1
+STU_1233,Online,180,Happy,0.186,Highly Engaged,89.1
+STU_1234,Online,31,Angry,0.058,Disengaged,44.4
+STU_1235,Hybrid,230,Neutral,0.103,Engaged,86.7
+STU_1236,Online,170,Neutral,0.201,Highly Engaged,88.1
+STU_1237,In-Person,238,Neutral,0.12,Engaged,81.9
+STU_1238,Hybrid,25,Sad,0.015,Disengaged,60.3
+STU_1239,In-Person,80,Sad,0.024,Disengaged,62.8
+STU_1240,Online,192,Neutral,0.107,Engaged,80.2
+STU_1241,In-Person,127,Surprised,0.109,Engaged,85.2
+STU_1242,In-Person,95,Happy,0.117,Engaged,89.2
+STU_1243,In-Person,75,Sad,0.092,Disengaged,58.7
+STU_1244,In-Person,206,Happy,0.145,Highly Engaged,99.8
+STU_1245,In-Person,104,Happy,0.193,Highly Engaged,91.4
+STU_1246,Hybrid,32,Angry,0.06,Disengaged,42.0
+STU_1247,Online,212,Neutral,0.199,Highly Engaged,90.3
+STU_1248,Online,136,Neutral,0.179,Highly Engaged,100.0
+STU_1249,In-Person,191,Happy,0.136,Engaged,87.3
+STU_1250,Hybrid,52,Disgust,0.025,Disengaged,45.1
+STU_1251,In-Person,191,Happy,0.121,Engaged,76.8
+STU_1252,Hybrid,157,Neutral,0.108,Engaged,91.5
+STU_1253,Online,92,Neutral,0.105,Engaged,91.5
+STU_1254,Online,233,Happy,0.116,Engaged,77.6
+STU_1255,Hybrid,200,Neutral,0.154,Highly Engaged,95.5
+STU_1256,Hybrid,229,Surprised,0.153,Highly Engaged,92.3
+STU_1257,Online,64,Disgust,0.07,Disengaged,68.1
+STU_1258,Hybrid,160,Happy,0.219,Highly Engaged,88.9
+STU_1259,Online,228,Happy,0.154,Highly Engaged,93.4
+STU_1260,Hybrid,169,Happy,0.198,Highly Engaged,99.5
+STU_1261,Online,194,Neutral,0.187,Highly Engaged,91.4
+STU_1262,In-Person,27,Scared,0.038,Disengaged,64.7
+STU_1263,Online,127,Happy,0.206,Highly Engaged,90.5
+STU_1264,Hybrid,186,Happy,0.198,Highly Engaged,99.7
+STU_1265,Online,130,Surprised,0.109,Engaged,81.4
+STU_1266,Online,201,Happy,0.113,Engaged,80.0
+STU_1267,Online,89,Surprised,0.101,Engaged,87.8
+STU_1268,Hybrid,166,Neutral,0.11,Engaged,75.0
+STU_1269,Hybrid,20,Sad,0.055,Disengaged,61.7
+STU_1270,Online,24,Angry,0.014,Disengaged,51.8
+STU_1271,Hybrid,85,Surprised,0.2,Highly Engaged,94.9
+STU_1272,In-Person,53,Angry,0.054,Disengaged,54.5
+STU_1273,In-Person,118,Neutral,0.156,Highly Engaged,95.4
+STU_1274,Online,161,Happy,0.214,Highly Engaged,99.8
+STU_1275,Hybrid,244,Surprised,0.214,Highly Engaged,90.2
+STU_1276,Online,157,Happy,0.173,Highly Engaged,91.5
+STU_1277,Online,180,Happy,0.107,Engaged,91.3
+STU_1278,In-Person,127,Neutral,0.109,Engaged,86.9
+STU_1279,Online,163,Neutral,0.156,Highly Engaged,96.6
+STU_1280,Hybrid,195,Happy,0.139,Engaged,85.4
+STU_1281,Hybrid,182,Neutral,0.2,Highly Engaged,91.4
+STU_1282,In-Person,81,Sad,0.089,Disengaged,43.2
+STU_1283,Hybrid,180,Neutral,0.143,Highly Engaged,96.8
+STU_1284,Online,137,Neutral,0.212,Highly Engaged,92.4
+STU_1285,Online,114,Happy,0.127,Engaged,75.4
+STU_1286,Hybrid,154,Happy,0.176,Highly Engaged,97.3
+STU_1287,Online,52,Scared,0.063,Disengaged,46.3
+STU_1288,Online,198,Happy,0.194,Highly Engaged,89.9
+STU_1289,Online,212,Neutral,0.117,Engaged,75.6
+STU_1290,Online,80,Sad,0.095,Disengaged,43.9
+STU_1291,Online,225,Happy,0.137,Engaged,90.9
+STU_1292,Online,84,Neutral,0.199,Highly Engaged,89.3
+STU_1293,Hybrid,173,Happy,0.161,Highly Engaged,97.4
+STU_1294,Hybrid,62,Angry,0.084,Disengaged,42.5
+STU_1295,In-Person,238,Happy,0.13,Engaged,86.2
+STU_1296,Online,170,Neutral,0.141,Highly Engaged,95.4
+STU_1297,Online,179,Neutral,0.16,Highly Engaged,97.9
+STU_1298,Online,193,Neutral,0.205,Highly Engaged,89.9
+STU_1299,Hybrid,144,Happy,0.106,Engaged,81.5
+STU_1300,In-Person,229,Happy,0.186,Highly Engaged,89.9
+STU_1301,Online,109,Neutral,0.106,Engaged,78.8
+STU_1302,In-Person,89,Angry,0.046,Disengaged,51.5
+STU_1303,Online,47,Sad,0.022,Disengaged,72.1
+STU_1304,Hybrid,139,Happy,0.122,Engaged,81.9
+STU_1305,In-Person,26,Scared,0.078,Disengaged,62.4
+STU_1306,In-Person,145,Neutral,0.115,Engaged,87.6
+STU_1307,In-Person,160,Happy,0.185,Highly Engaged,89.8
+STU_1308,In-Person,109,Surprised,0.16,Highly Engaged,92.1
+STU_1309,Online,17,Scared,0.091,Disengaged,57.7
+STU_1310,In-Person,28,Sad,0.025,Disengaged,41.5
+STU_1311,Online,140,Neutral,0.143,Highly Engaged,97.9
+STU_1312,In-Person,8,Angry,0.054,Disengaged,47.0
+STU_1313,Hybrid,87,Neutral,0.184,Highly Engaged,91.0
+STU_1314,In-Person,32,Scared,0.05,Disengaged,73.0
+STU_1315,Hybrid,38,Disgust,0.087,Disengaged,63.4
+STU_1316,Hybrid,245,Neutral,0.12,Engaged,90.7
+STU_1317,Hybrid,25,Sad,0.035,Disengaged,56.0
+STU_1318,In-Person,200,Neutral,0.189,Highly Engaged,92.6
+STU_1319,Online,242,Happy,0.196,Highly Engaged,93.1
+STU_1320,Online,160,Happy,0.106,Engaged,81.6
+STU_1321,Online,98,Happy,0.201,Highly Engaged,96.3
+STU_1322,Online,70,Angry,0.069,Disengaged,49.7
+STU_1323,In-Person,146,Surprised,0.196,Highly Engaged,99.0
+STU_1324,Online,249,Happy,0.153,Highly Engaged,88.3
+STU_1325,In-Person,28,Sad,0.027,Disengaged,62.7
+STU_1326,Online,70,Angry,0.022,Disengaged,52.8
+STU_1327,Online,228,Neutral,0.15,Highly Engaged,98.0
+STU_1328,In-Person,33,Disgust,0.062,Disengaged,46.8
+STU_1329,Hybrid,102,Neutral,0.161,Highly Engaged,99.5
+STU_1330,Hybrid,52,Sad,0.03,Disengaged,57.7
+STU_1331,Hybrid,118,Neutral,0.177,Highly Engaged,97.8
+STU_1332,In-Person,100,Neutral,0.148,Highly Engaged,98.4
+STU_1333,Online,210,Happy,0.105,Engaged,80.2
+STU_1334,In-Person,249,Surprised,0.106,Engaged,78.7
+STU_1335,In-Person,139,Happy,0.147,Highly Engaged,94.9
+STU_1336,Hybrid,162,Neutral,0.147,Highly Engaged,89.9
+STU_1337,Online,100,Happy,0.151,Highly Engaged,89.7
+STU_1338,Hybrid,34,Angry,0.062,Disengaged,56.2
+STU_1339,Online,174,Happy,0.161,Highly Engaged,88.3
+STU_1340,Online,221,Neutral,0.198,Highly Engaged,94.6
+STU_1341,Online,210,Happy,0.101,Engaged,79.7
+STU_1342,Hybrid,114,Neutral,0.153,Highly Engaged,92.7
+STU_1343,In-Person,54,Scared,0.078,Disengaged,47.0
+STU_1344,In-Person,55,Scared,0.031,Disengaged,65.3
+STU_1345,In-Person,80,Happy,0.197,Highly Engaged,97.4
+STU_1346,Hybrid,196,Happy,0.161,Highly Engaged,96.1
+STU_1347,Online,31,Sad,0.041,Disengaged,45.9
+STU_1348,Online,125,Happy,0.213,Highly Engaged,98.4
+STU_1349,In-Person,28,Scared,0.059,Disengaged,46.4
+STU_1350,Online,216,Surprised,0.178,Highly Engaged,93.1
+STU_1351,In-Person,62,Sad,0.053,Disengaged,57.0
+STU_1352,Hybrid,164,Happy,0.188,Highly Engaged,88.9
+STU_1353,Hybrid,104,Happy,0.186,Highly Engaged,97.2
+STU_1354,In-Person,33,Angry,0.056,Disengaged,66.5
+STU_1355,Hybrid,189,Happy,0.12,Engaged,80.7
+STU_1356,In-Person,136,Surprised,0.169,Highly Engaged,89.6
+STU_1357,In-Person,179,Neutral,0.117,Engaged,87.7
+STU_1358,Hybrid,213,Surprised,0.151,Highly Engaged,96.7
+STU_1359,Online,152,Happy,0.137,Engaged,85.8
+STU_1360,Hybrid,151,Neutral,0.151,Highly Engaged,93.5
+STU_1361,In-Person,159,Neutral,0.179,Highly Engaged,92.2
+STU_1362,Online,157,Surprised,0.137,Engaged,75.6
+STU_1363,Hybrid,75,Sad,0.085,Disengaged,62.0
+STU_1364,Hybrid,209,Happy,0.159,Highly Engaged,97.2
+STU_1365,In-Person,181,Neutral,0.132,Engaged,79.1
+STU_1366,Online,80,Surprised,0.108,Engaged,85.9
+STU_1367,In-Person,138,Neutral,0.118,Engaged,91.5
+STU_1368,In-Person,120,Happy,0.188,Highly Engaged,92.3
+STU_1369,Online,87,Neutral,0.176,Highly Engaged,97.1
+STU_1370,Online,227,Neutral,0.132,Engaged,83.1
+STU_1371,In-Person,192,Neutral,0.141,Highly Engaged,90.1
+STU_1372,Online,199,Happy,0.195,Highly Engaged,93.6
+STU_1373,In-Person,119,Neutral,0.131,Engaged,75.6
+STU_1374,Hybrid,202,Happy,0.113,Engaged,90.4
+STU_1375,Online,216,Happy,0.183,Highly Engaged,99.3
+STU_1376,In-Person,171,Happy,0.111,Engaged,86.2
+STU_1377,Hybrid,196,Happy,0.125,Engaged,83.5
+STU_1378,Hybrid,21,Scared,0.017,Disengaged,65.9
+STU_1379,Online,145,Neutral,0.105,Engaged,83.3
+STU_1380,Hybrid,163,Happy,0.169,Highly Engaged,99.1
+STU_1381,Online,84,Neutral,0.15,Highly Engaged,99.2
+STU_1382,Online,157,Neutral,0.193,Highly Engaged,99.7
+STU_1383,In-Person,193,Happy,0.181,Highly Engaged,94.7
+STU_1384,Online,214,Happy,0.175,Highly Engaged,99.8
+STU_1385,Hybrid,47,Scared,0.033,Disengaged,62.5
+STU_1386,Online,151,Happy,0.11,Engaged,80.0
+STU_1387,In-Person,41,Angry,0.072,Disengaged,60.3
+STU_1388,Online,146,Neutral,0.16,Highly Engaged,91.3
+STU_1389,In-Person,158,Neutral,0.176,Highly Engaged,97.0
+STU_1390,Hybrid,205,Neutral,0.157,Highly Engaged,99.9
+STU_1391,Online,236,Neutral,0.195,Highly Engaged,93.7
+STU_1392,Online,95,Happy,0.144,Highly Engaged,88.1
+STU_1393,Online,158,Surprised,0.207,Highly Engaged,90.0
+STU_1394,Hybrid,185,Neutral,0.21,Highly Engaged,88.6
+STU_1395,Online,17,Angry,0.089,Disengaged,48.3
+STU_1396,In-Person,68,Scared,0.082,Disengaged,69.2
+STU_1397,Hybrid,185,Neutral,0.185,Highly Engaged,89.4
+STU_1398,Online,144,Neutral,0.198,Highly Engaged,89.0
+STU_1399,Hybrid,150,Neutral,0.208,Highly Engaged,94.3
+STU_1400,In-Person,219,Neutral,0.169,Highly Engaged,98.4
+STU_1401,Online,245,Neutral,0.204,Highly Engaged,93.8
+STU_1402,Online,206,Happy,0.14,Engaged,77.6
+STU_1403,Online,180,Neutral,0.144,Highly Engaged,94.7
+STU_1404,In-Person,85,Happy,0.197,Highly Engaged,96.3
+STU_1405,Hybrid,41,Disgust,0.048,Disengaged,46.7
+STU_1406,Hybrid,156,Surprised,0.135,Engaged,88.1
+STU_1407,In-Person,62,Angry,0.056,Disengaged,49.0
+STU_1408,In-Person,111,Neutral,0.121,Engaged,79.4
+STU_1409,Hybrid,104,Happy,0.15,Highly Engaged,97.3
+STU_1410,In-Person,167,Happy,0.167,Highly Engaged,93.1
+STU_1411,Online,113,Neutral,0.168,Highly Engaged,99.6
+STU_1412,Online,119,Neutral,0.186,Highly Engaged,92.4
+STU_1413,Online,110,Surprised,0.196,Highly Engaged,90.2
+STU_1414,Online,166,Surprised,0.126,Engaged,78.4
+STU_1415,Hybrid,97,Happy,0.196,Highly Engaged,97.0
+STU_1416,In-Person,95,Happy,0.216,Highly Engaged,94.9
+STU_1417,Online,105,Happy,0.2,Highly Engaged,88.5
+STU_1418,Online,243,Neutral,0.15,Highly Engaged,93.7
+STU_1419,Hybrid,155,Neutral,0.167,Highly Engaged,99.0
+STU_1420,In-Person,136,Neutral,0.1,Engaged,77.9
+STU_1421,Online,163,Neutral,0.144,Highly Engaged,88.2
+STU_1422,Hybrid,84,Angry,0.019,Disengaged,60.6
+STU_1423,Online,157,Happy,0.115,Engaged,78.6
+STU_1424,Online,19,Sad,0.049,Disengaged,49.4
+STU_1425,In-Person,192,Neutral,0.173,Highly Engaged,95.4
+STU_1426,In-Person,170,Happy,0.111,Engaged,82.6
+STU_1427,Online,190,Neutral,0.182,Highly Engaged,97.3
+STU_1428,In-Person,243,Neutral,0.199,Highly Engaged,89.2
+STU_1429,Hybrid,207,Neutral,0.208,Highly Engaged,99.4
+STU_1430,In-Person,83,Sad,0.08,Disengaged,61.1
+STU_1431,Hybrid,159,Surprised,0.205,Highly Engaged,97.0
+STU_1432,Hybrid,160,Happy,0.124,Engaged,76.4
+STU_1433,Hybrid,103,Happy,0.179,Highly Engaged,91.5
+STU_1434,Hybrid,83,Angry,0.048,Disengaged,44.6
+STU_1435,Online,113,Neutral,0.161,Highly Engaged,93.3
+STU_1436,Online,190,Neutral,0.211,Highly Engaged,94.4
+STU_1437,Online,105,Neutral,0.13,Engaged,77.8
+STU_1438,In-Person,88,Sad,0.038,Disengaged,64.6
+STU_1439,Online,27,Disgust,0.069,Disengaged,48.0
+STU_1440,Hybrid,161,Neutral,0.168,Highly Engaged,93.8
+STU_1441,In-Person,70,Scared,0.01,Disengaged,52.3
+STU_1442,Online,70,Scared,0.077,Disengaged,44.6
+STU_1443,Hybrid,154,Neutral,0.168,Highly Engaged,98.0
+STU_1444,Hybrid,94,Happy,0.107,Engaged,82.5
+STU_1445,In-Person,227,Happy,0.156,Highly Engaged,92.7
+STU_1446,Online,35,Disgust,0.065,Disengaged,44.2
+STU_1447,Hybrid,103,Neutral,0.172,Highly Engaged,91.7
+STU_1448,In-Person,43,Sad,0.095,Disengaged,60.7
+STU_1449,In-Person,242,Neutral,0.139,Engaged,80.0
+STU_1450,Hybrid,68,Sad,0.083,Disengaged,55.3
+STU_1451,Hybrid,173,Happy,0.214,Highly Engaged,93.8
+STU_1452,Hybrid,203,Happy,0.2,Highly Engaged,89.8
+STU_1453,In-Person,61,Scared,0.094,Disengaged,53.5
+STU_1454,Hybrid,43,Sad,0.043,Disengaged,51.3
+STU_1455,Online,41,Scared,0.091,Disengaged,65.5
+STU_1456,In-Person,162,Neutral,0.204,Highly Engaged,88.4
+STU_1457,Hybrid,160,Surprised,0.144,Highly Engaged,88.6
+STU_1458,Hybrid,136,Neutral,0.206,Highly Engaged,96.7
+STU_1459,Online,125,Happy,0.14,Engaged,83.6
+STU_1460,Hybrid,218,Happy,0.15,Highly Engaged,94.7
+STU_1461,Online,100,Happy,0.216,Highly Engaged,95.2
+STU_1462,Hybrid,215,Happy,0.212,Highly Engaged,95.1
+STU_1463,Online,38,Disgust,0.013,Disengaged,63.9
+STU_1464,Hybrid,220,Neutral,0.207,Highly Engaged,95.8
+STU_1465,In-Person,229,Surprised,0.132,Engaged,83.6
+STU_1466,Online,234,Happy,0.205,Highly Engaged,98.7
+STU_1467,In-Person,105,Neutral,0.141,Highly Engaged,98.7
+STU_1468,Hybrid,176,Neutral,0.192,Highly Engaged,98.4
+STU_1469,In-Person,42,Angry,0.092,Disengaged,44.8
+STU_1470,In-Person,71,Scared,0.037,Disengaged,61.2
+STU_1471,Hybrid,47,Angry,0.065,Disengaged,47.9
+STU_1472,In-Person,39,Disgust,0.012,Disengaged,61.9
+STU_1473,In-Person,200,Neutral,0.197,Highly Engaged,93.5
+STU_1474,Hybrid,212,Happy,0.156,Highly Engaged,94.1
+STU_1475,Online,243,Surprised,0.157,Highly Engaged,93.4
+STU_1476,Hybrid,133,Happy,0.163,Highly Engaged,91.8
+STU_1477,In-Person,168,Happy,0.187,Highly Engaged,89.5
+STU_1478,In-Person,129,Happy,0.128,Engaged,77.5
+STU_1479,In-Person,220,Happy,0.129,Engaged,89.9
+STU_1480,Hybrid,99,Happy,0.16,Highly Engaged,98.7
+STU_1481,In-Person,226,Neutral,0.219,Highly Engaged,90.3
+STU_1482,Online,85,Happy,0.136,Engaged,91.7
+STU_1483,Hybrid,241,Happy,0.153,Highly Engaged,88.7
+STU_1484,Online,81,Happy,0.171,Highly Engaged,94.7
+STU_1485,Online,103,Neutral,0.16,Highly Engaged,88.4
+STU_1486,Online,82,Sad,0.012,Disengaged,61.0
+STU_1487,Online,99,Neutral,0.191,Highly Engaged,90.7
+STU_1488,Hybrid,119,Happy,0.137,Engaged,80.9
+STU_1489,Online,77,Sad,0.097,Disengaged,72.8
+STU_1490,Hybrid,153,Happy,0.132,Engaged,80.1
+STU_1491,Online,160,Neutral,0.164,Highly Engaged,95.3
+STU_1492,Online,151,Surprised,0.218,Highly Engaged,92.1
+STU_1493,Online,227,Happy,0.127,Engaged,79.4
+STU_1494,Online,39,Sad,0.038,Disengaged,45.7
+STU_1495,Hybrid,85,Sad,0.059,Disengaged,49.7
+STU_1496,Hybrid,94,Surprised,0.159,Highly Engaged,89.1
+STU_1497,Hybrid,118,Happy,0.18,Highly Engaged,97.0
+STU_1498,Hybrid,239,Neutral,0.215,Highly Engaged,88.1
+STU_1499,Online,81,Neutral,0.13,Engaged,90.1
+STU_1500,In-Person,135,Happy,0.102,Engaged,89.6
+STU_1501,Hybrid,205,Happy,0.159,Highly Engaged,98.2
+STU_1502,Hybrid,107,Happy,0.152,Highly Engaged,90.4
+STU_1503,Online,248,Neutral,0.153,Highly Engaged,89.5
+STU_1504,Online,83,Neutral,0.175,Highly Engaged,97.9
+STU_1505,Online,125,Happy,0.168,Highly Engaged,94.6
+STU_1506,Online,156,Neutral,0.156,Highly Engaged,99.1
+STU_1507,Hybrid,48,Sad,0.043,Disengaged,42.4
+STU_1508,Hybrid,239,Neutral,0.194,Highly Engaged,94.2
+STU_1509,Hybrid,104,Happy,0.201,Highly Engaged,93.8
+STU_1510,In-Person,43,Angry,0.031,Disengaged,49.5
+STU_1511,In-Person,131,Neutral,0.159,Highly Engaged,94.5
+STU_1512,In-Person,223,Happy,0.127,Engaged,78.9
+STU_1513,In-Person,224,Neutral,0.116,Engaged,82.7
+STU_1514,Online,219,Surprised,0.149,Highly Engaged,94.2
+STU_1515,Online,206,Happy,0.181,Highly Engaged,92.9
+STU_1516,Online,145,Happy,0.16,Highly Engaged,93.5
+STU_1517,Hybrid,173,Happy,0.122,Engaged,76.1
+STU_1518,In-Person,54,Scared,0.071,Disengaged,56.0
+STU_1519,Online,117,Neutral,0.187,Highly Engaged,96.2
+STU_1520,In-Person,118,Neutral,0.165,Highly Engaged,91.0
+STU_1521,Online,43,Scared,0.054,Disengaged,68.9
+STU_1522,In-Person,115,Happy,0.102,Engaged,82.2
+STU_1523,Online,17,Scared,0.066,Disengaged,50.2
+STU_1524,Online,87,Happy,0.11,Engaged,82.8
+STU_1525,Hybrid,57,Sad,0.098,Disengaged,62.7
+STU_1526,Online,102,Happy,0.128,Engaged,83.9
+STU_1527,Online,55,Sad,0.039,Disengaged,45.4
+STU_1528,Online,45,Angry,0.074,Disengaged,61.9
+STU_1529,In-Person,230,Happy,0.202,Highly Engaged,96.2
+STU_1530,Hybrid,86,Neutral,0.168,Highly Engaged,98.9
+STU_1531,Online,236,Neutral,0.175,Highly Engaged,91.8
+STU_1532,Hybrid,240,Neutral,0.185,Highly Engaged,91.5
+STU_1533,In-Person,185,Neutral,0.187,Highly Engaged,99.6
+STU_1534,Online,87,Neutral,0.102,Engaged,84.3
+STU_1535,Hybrid,192,Happy,0.195,Highly Engaged,90.3
+STU_1536,Online,187,Happy,0.146,Highly Engaged,92.6
+STU_1537,Online,151,Happy,0.203,Highly Engaged,93.7
+STU_1538,Hybrid,213,Surprised,0.216,Highly Engaged,89.0
+STU_1539,Online,225,Neutral,0.15,Highly Engaged,88.2
+STU_1540,Hybrid,214,Neutral,0.166,Highly Engaged,90.6
+STU_1541,In-Person,123,Neutral,0.14,Highly Engaged,96.7
+STU_1542,Online,232,Happy,0.216,Highly Engaged,89.9
+STU_1543,Hybrid,244,Neutral,0.112,Engaged,89.3
+STU_1544,Online,145,Neutral,0.184,Highly Engaged,91.0
+STU_1545,In-Person,123,Happy,0.148,Highly Engaged,99.2
+STU_1546,Hybrid,6,Sad,0.031,Disengaged,70.4
+STU_1547,In-Person,160,Neutral,0.182,Highly Engaged,96.2
+STU_1548,Hybrid,124,Surprised,0.213,Highly Engaged,97.9
+STU_1549,Online,178,Surprised,0.215,Highly Engaged,99.1
+STU_1550,Hybrid,16,Sad,0.05,Disengaged,53.1
+STU_1551,In-Person,46,Angry,0.079,Disengaged,64.4
+STU_1552,Hybrid,184,Neutral,0.211,Highly Engaged,93.8
+STU_1553,In-Person,195,Neutral,0.106,Engaged,85.3
+STU_1554,In-Person,62,Scared,0.043,Disengaged,71.5
+STU_1555,Online,232,Happy,0.113,Engaged,76.8
+STU_1556,Online,148,Happy,0.12,Engaged,91.2
+STU_1557,Hybrid,133,Surprised,0.107,Engaged,86.2
+STU_1558,Hybrid,90,Surprised,0.138,Engaged,86.5
+STU_1559,In-Person,70,Angry,0.083,Disengaged,66.6
+STU_1560,In-Person,21,Disgust,0.042,Disengaged,41.5
+STU_1561,Online,11,Sad,0.076,Disengaged,67.4
+STU_1562,Online,109,Neutral,0.22,Highly Engaged,91.1
+STU_1563,In-Person,82,Scared,0.01,Disengaged,41.6
+STU_1564,Online,174,Neutral,0.209,Highly Engaged,91.7
+STU_1565,In-Person,219,Neutral,0.136,Engaged,90.5
+STU_1566,Hybrid,52,Scared,0.015,Disengaged,64.1
+STU_1567,Hybrid,186,Neutral,0.151,Highly Engaged,94.7
+STU_1568,Online,112,Neutral,0.123,Engaged,84.4
+STU_1569,Hybrid,128,Neutral,0.13,Engaged,82.2
+STU_1570,Hybrid,64,Scared,0.032,Disengaged,54.1
+STU_1571,Hybrid,239,Happy,0.136,Engaged,84.4
+STU_1572,Online,225,Surprised,0.185,Highly Engaged,95.0
+STU_1573,In-Person,231,Neutral,0.14,Highly Engaged,88.5
+STU_1574,In-Person,29,Sad,0.032,Disengaged,54.2
+STU_1575,Online,88,Sad,0.036,Disengaged,53.7
+STU_1576,Online,137,Neutral,0.168,Highly Engaged,89.7
+STU_1577,Online,243,Happy,0.209,Highly Engaged,93.2
+STU_1578,Hybrid,167,Neutral,0.127,Engaged,75.1
+STU_1579,Hybrid,35,Disgust,0.053,Disengaged,59.7
+STU_1580,Hybrid,134,Surprised,0.134,Engaged,88.0
+STU_1581,Online,29,Angry,0.049,Disengaged,42.5
+STU_1582,Online,181,Neutral,0.178,Highly Engaged,97.2
+STU_1583,Hybrid,42,Sad,0.066,Disengaged,69.9
+STU_1584,Hybrid,23,Sad,0.095,Disengaged,69.5
+STU_1585,In-Person,240,Surprised,0.14,Engaged,82.6
+STU_1586,Online,32,Disgust,0.043,Disengaged,60.5
+STU_1587,Hybrid,203,Happy,0.115,Engaged,91.5
+STU_1588,Hybrid,85,Neutral,0.16,Highly Engaged,93.6
+STU_1589,Hybrid,210,Surprised,0.171,Highly Engaged,95.6
+STU_1590,In-Person,70,Sad,0.056,Disengaged,67.7
+STU_1591,Hybrid,219,Happy,0.106,Engaged,89.5
+STU_1592,In-Person,89,Neutral,0.131,Engaged,89.7
+STU_1593,Online,100,Happy,0.102,Engaged,89.0
+STU_1594,Online,164,Neutral,0.217,Highly Engaged,98.4
+STU_1595,In-Person,84,Happy,0.16,Highly Engaged,97.7
+STU_1596,Hybrid,228,Surprised,0.165,Highly Engaged,88.6
+STU_1597,Online,78,Sad,0.04,Disengaged,53.6
+STU_1598,Online,231,Neutral,0.175,Highly Engaged,91.4
+STU_1599,Online,117,Happy,0.133,Engaged,77.7
+STU_1600,In-Person,241,Neutral,0.147,Highly Engaged,97.8
+STU_1601,Online,203,Neutral,0.171,Highly Engaged,95.3
+STU_1602,Online,51,Sad,0.087,Disengaged,59.1
+STU_1603,Online,81,Angry,0.031,Disengaged,49.8
+STU_1604,Online,103,Happy,0.123,Engaged,84.4
+STU_1605,Online,32,Sad,0.017,Disengaged,54.2
+STU_1606,Hybrid,10,Scared,0.027,Disengaged,55.2
+STU_1607,Online,78,Scared,0.039,Disengaged,66.6
+STU_1608,In-Person,117,Neutral,0.142,Highly Engaged,97.0
+STU_1609,Online,8,Angry,0.085,Disengaged,45.2
+STU_1610,Hybrid,159,Happy,0.177,Highly Engaged,93.7
+STU_1611,In-Person,241,Neutral,0.179,Highly Engaged,96.8
+STU_1612,Hybrid,246,Neutral,0.152,Highly Engaged,89.7
+STU_1613,Hybrid,223,Happy,0.212,Highly Engaged,95.5
+STU_1614,Online,85,Neutral,0.217,Highly Engaged,91.2
+STU_1615,Online,106,Neutral,0.131,Engaged,85.4
+STU_1616,Hybrid,248,Neutral,0.106,Engaged,75.0
+STU_1617,In-Person,16,Sad,0.095,Disengaged,68.4
+STU_1618,Hybrid,14,Scared,0.082,Disengaged,55.6
+STU_1619,Hybrid,156,Neutral,0.117,Engaged,84.9
+STU_1620,In-Person,13,Scared,0.048,Disengaged,55.7
+STU_1621,Hybrid,77,Scared,0.011,Disengaged,57.7
+STU_1622,Online,7,Sad,0.043,Disengaged,54.4
+STU_1623,Hybrid,240,Neutral,0.112,Engaged,75.9
+STU_1624,In-Person,129,Surprised,0.175,Highly Engaged,98.1
+STU_1625,Online,61,Angry,0.022,Disengaged,64.3
+STU_1626,Hybrid,169,Surprised,0.135,Engaged,75.9
+STU_1627,Online,106,Neutral,0.215,Highly Engaged,96.8
+STU_1628,Hybrid,86,Happy,0.192,Highly Engaged,90.9
+STU_1629,Online,173,Surprised,0.173,Highly Engaged,89.2
+STU_1630,Hybrid,215,Happy,0.212,Highly Engaged,95.5
+STU_1631,In-Person,233,Neutral,0.117,Engaged,75.4
+STU_1632,Online,192,Neutral,0.128,Engaged,77.3
+STU_1633,Hybrid,83,Sad,0.055,Disengaged,65.4
+STU_1634,In-Person,26,Scared,0.037,Disengaged,41.2
+STU_1635,In-Person,192,Neutral,0.126,Engaged,76.1
+STU_1636,Online,27,Angry,0.016,Disengaged,66.1
+STU_1637,Online,134,Neutral,0.177,Highly Engaged,88.8
+STU_1638,Online,134,Surprised,0.197,Highly Engaged,90.0
+STU_1639,In-Person,49,Sad,0.049,Disengaged,62.0
+STU_1640,In-Person,69,Sad,0.039,Disengaged,59.0
+STU_1641,Hybrid,74,Angry,0.076,Disengaged,64.0
+STU_1642,In-Person,119,Neutral,0.172,Highly Engaged,99.9
+STU_1643,Hybrid,72,Scared,0.048,Disengaged,54.0
+STU_1644,Hybrid,178,Neutral,0.17,Highly Engaged,88.9
+STU_1645,Online,34,Sad,0.013,Disengaged,65.4
+STU_1646,In-Person,42,Sad,0.086,Disengaged,53.5
+STU_1647,Online,108,Surprised,0.172,Highly Engaged,93.1
+STU_1648,In-Person,224,Neutral,0.1,Engaged,91.3
+STU_1649,In-Person,41,Scared,0.083,Disengaged,68.1
+STU_1650,In-Person,192,Neutral,0.192,Highly Engaged,98.9
+STU_1651,Online,82,Neutral,0.179,Highly Engaged,95.5
+STU_1652,Online,13,Sad,0.036,Disengaged,45.4
+STU_1653,Online,189,Happy,0.148,Highly Engaged,94.9
+STU_1654,Online,43,Scared,0.017,Disengaged,52.9
+STU_1655,Online,113,Happy,0.102,Engaged,84.7
+STU_1656,In-Person,227,Neutral,0.101,Engaged,78.2
+STU_1657,Hybrid,35,Scared,0.031,Disengaged,41.6
+STU_1658,Online,216,Happy,0.163,Highly Engaged,94.5
+STU_1659,Online,207,Neutral,0.137,Engaged,79.3
+STU_1660,Hybrid,18,Sad,0.051,Disengaged,46.5
+STU_1661,Hybrid,100,Happy,0.133,Engaged,82.6
+STU_1662,Hybrid,125,Surprised,0.203,Highly Engaged,91.4
+STU_1663,In-Person,110,Happy,0.149,Highly Engaged,99.9
+STU_1664,Hybrid,77,Scared,0.011,Disengaged,63.0
+STU_1665,In-Person,41,Scared,0.039,Disengaged,42.6
+STU_1666,In-Person,42,Sad,0.03,Disengaged,69.8
+STU_1667,Online,85,Neutral,0.168,Highly Engaged,95.1
+STU_1668,In-Person,62,Scared,0.033,Disengaged,69.2
+STU_1669,Online,109,Surprised,0.173,Highly Engaged,89.1
+STU_1670,In-Person,115,Surprised,0.168,Highly Engaged,90.5
+STU_1671,Online,216,Happy,0.179,Highly Engaged,98.9
+STU_1672,In-Person,83,Scared,0.092,Disengaged,54.2
+STU_1673,In-Person,82,Sad,0.012,Disengaged,50.4
+STU_1674,In-Person,134,Neutral,0.164,Highly Engaged,97.0
+STU_1675,In-Person,170,Happy,0.212,Highly Engaged,95.1
+STU_1676,Online,56,Scared,0.045,Disengaged,47.2
+STU_1677,Online,195,Neutral,0.116,Engaged,77.9
+STU_1678,Hybrid,72,Disgust,0.011,Disengaged,43.7
+STU_1679,Online,94,Surprised,0.148,Highly Engaged,91.6
+STU_1680,Hybrid,165,Surprised,0.163,Highly Engaged,90.5
+STU_1681,Online,135,Neutral,0.167,Highly Engaged,96.9
+STU_1682,In-Person,180,Neutral,0.137,Engaged,86.6
+STU_1683,Hybrid,58,Angry,0.077,Disengaged,65.5
+STU_1684,In-Person,126,Neutral,0.12,Engaged,82.1
+STU_1685,Online,5,Sad,0.052,Disengaged,72.1
+STU_1686,In-Person,107,Happy,0.135,Engaged,86.7
+STU_1687,In-Person,155,Neutral,0.202,Highly Engaged,99.9
+STU_1688,Hybrid,148,Neutral,0.147,Highly Engaged,92.3
+STU_1689,Hybrid,153,Happy,0.201,Highly Engaged,94.8
+STU_1690,In-Person,56,Disgust,0.026,Disengaged,58.4
+STU_1691,Online,103,Happy,0.154,Highly Engaged,94.8
+STU_1692,Hybrid,169,Happy,0.186,Highly Engaged,96.8
+STU_1693,Online,81,Neutral,0.185,Highly Engaged,93.1
+STU_1694,Online,150,Happy,0.1,Engaged,79.2
+STU_1695,Online,88,Happy,0.15,Highly Engaged,93.5
+STU_1696,Online,77,Scared,0.029,Disengaged,47.0
+STU_1697,Online,163,Happy,0.127,Engaged,87.7
+STU_1698,Online,171,Happy,0.205,Highly Engaged,95.4
+STU_1699,In-Person,246,Neutral,0.214,Highly Engaged,95.2
+STU_1700,Hybrid,63,Disgust,0.041,Disengaged,44.9
+STU_1701,In-Person,191,Neutral,0.136,Engaged,82.8
+STU_1702,Hybrid,192,Neutral,0.202,Highly Engaged,91.7
+STU_1703,Online,139,Surprised,0.187,Highly Engaged,88.8
+STU_1704,Hybrid,170,Happy,0.123,Engaged,90.0
+STU_1705,Hybrid,135,Happy,0.216,Highly Engaged,93.7
+STU_1706,Online,235,Happy,0.116,Engaged,77.3
+STU_1707,Hybrid,40,Sad,0.049,Disengaged,45.6
+STU_1708,Online,141,Neutral,0.112,Engaged,85.0
+STU_1709,Hybrid,38,Scared,0.075,Disengaged,43.2
+STU_1710,Hybrid,170,Surprised,0.19,Highly Engaged,89.6
+STU_1711,Online,168,Happy,0.217,Highly Engaged,88.5
+STU_1712,Online,104,Happy,0.123,Engaged,75.2
+STU_1713,In-Person,111,Neutral,0.214,Highly Engaged,91.9
+STU_1714,Hybrid,65,Sad,0.099,Disengaged,49.1
+STU_1715,Online,113,Happy,0.12,Engaged,87.4
+STU_1716,In-Person,206,Neutral,0.218,Highly Engaged,94.6
+STU_1717,Online,223,Happy,0.202,Highly Engaged,97.1
+STU_1718,Hybrid,47,Disgust,0.081,Disengaged,69.1
+STU_1719,In-Person,92,Happy,0.193,Highly Engaged,93.8
+STU_1720,Online,21,Angry,0.027,Disengaged,45.6
+STU_1721,Online,163,Neutral,0.105,Engaged,87.8
+STU_1722,Online,135,Neutral,0.154,Highly Engaged,95.0
+STU_1723,Online,123,Neutral,0.2,Highly Engaged,90.1
+STU_1724,Online,228,Happy,0.102,Engaged,82.2
+STU_1725,Hybrid,236,Neutral,0.134,Engaged,87.8
+STU_1726,Online,105,Neutral,0.122,Engaged,87.8
+STU_1727,Hybrid,57,Angry,0.014,Disengaged,46.3
+STU_1728,In-Person,89,Scared,0.046,Disengaged,64.0
+STU_1729,In-Person,49,Sad,0.032,Disengaged,48.9
+STU_1730,Hybrid,160,Neutral,0.171,Highly Engaged,92.2
+STU_1731,Online,233,Neutral,0.127,Engaged,92.0
+STU_1732,Hybrid,197,Neutral,0.193,Highly Engaged,88.0
+STU_1733,Hybrid,52,Sad,0.011,Disengaged,50.2
+STU_1734,Hybrid,20,Angry,0.025,Disengaged,55.0
+STU_1735,Online,125,Happy,0.215,Highly Engaged,94.0
+STU_1736,In-Person,210,Neutral,0.138,Engaged,81.1
+STU_1737,Hybrid,121,Happy,0.176,Highly Engaged,90.8
+STU_1738,Online,138,Neutral,0.186,Highly Engaged,92.1
+STU_1739,Online,142,Happy,0.152,Highly Engaged,92.5
+STU_1740,Hybrid,247,Surprised,0.116,Engaged,77.9
+STU_1741,In-Person,69,Sad,0.07,Disengaged,48.6
+STU_1742,In-Person,139,Neutral,0.192,Highly Engaged,89.2
+STU_1743,In-Person,149,Neutral,0.163,Highly Engaged,99.4
+STU_1744,Online,43,Disgust,0.069,Disengaged,42.2
+STU_1745,Hybrid,187,Neutral,0.136,Engaged,84.2
+STU_1746,Hybrid,131,Neutral,0.177,Highly Engaged,97.1
+STU_1747,Online,114,Neutral,0.131,Engaged,79.3
+STU_1748,Online,175,Neutral,0.207,Highly Engaged,96.4
+STU_1749,In-Person,99,Happy,0.18,Highly Engaged,89.6
+STU_1750,Online,55,Sad,0.095,Disengaged,44.4
+STU_1751,Hybrid,159,Neutral,0.179,Highly Engaged,94.1
+STU_1752,Online,248,Happy,0.211,Highly Engaged,98.2
+STU_1753,Online,196,Surprised,0.216,Highly Engaged,90.4
+STU_1754,Online,222,Happy,0.144,Highly Engaged,91.1
+STU_1755,In-Person,50,Scared,0.081,Disengaged,41.5
+STU_1756,In-Person,11,Scared,0.089,Disengaged,62.1
+STU_1757,In-Person,151,Neutral,0.203,Highly Engaged,93.7
+STU_1758,Hybrid,73,Sad,0.021,Disengaged,69.1
+STU_1759,Online,86,Happy,0.181,Highly Engaged,96.1
+STU_1760,Hybrid,51,Disgust,0.015,Disengaged,57.0
+STU_1761,Hybrid,120,Happy,0.203,Highly Engaged,89.3
+STU_1762,In-Person,9,Disgust,0.035,Disengaged,58.9
+STU_1763,Online,40,Sad,0.082,Disengaged,60.6
+STU_1764,Hybrid,241,Neutral,0.155,Highly Engaged,89.4
+STU_1765,Online,96,Happy,0.152,Highly Engaged,97.8
+STU_1766,Online,86,Disgust,0.013,Disengaged,65.6
+STU_1767,In-Person,82,Scared,0.085,Disengaged,56.1
+STU_1768,Hybrid,97,Neutral,0.175,Highly Engaged,95.0
+STU_1769,Online,80,Sad,0.076,Disengaged,65.1
+STU_1770,Online,210,Neutral,0.154,Highly Engaged,94.5
+STU_1771,Hybrid,221,Neutral,0.212,Highly Engaged,92.5
+STU_1772,In-Person,172,Happy,0.167,Highly Engaged,92.9
+STU_1773,In-Person,227,Neutral,0.162,Highly Engaged,96.3
+STU_1774,In-Person,23,Sad,0.067,Disengaged,48.0
+STU_1775,In-Person,220,Neutral,0.11,Engaged,89.5
+STU_1776,Online,34,Scared,0.071,Disengaged,68.7
+STU_1777,Hybrid,167,Neutral,0.173,Highly Engaged,89.8
+STU_1778,Hybrid,153,Neutral,0.126,Engaged,77.2
+STU_1779,Online,136,Neutral,0.196,Highly Engaged,96.0
+STU_1780,In-Person,121,Neutral,0.195,Highly Engaged,95.9
+STU_1781,Online,83,Neutral,0.149,Highly Engaged,93.7
+STU_1782,In-Person,183,Neutral,0.212,Highly Engaged,89.8
+STU_1783,Hybrid,154,Happy,0.152,Highly Engaged,97.7
+STU_1784,Hybrid,104,Neutral,0.207,Highly Engaged,98.3
+STU_1785,Hybrid,161,Happy,0.107,Engaged,76.4
+STU_1786,In-Person,221,Happy,0.156,Highly Engaged,99.7
+STU_1787,Hybrid,34,Scared,0.039,Disengaged,40.9
+STU_1788,Hybrid,81,Angry,0.047,Disengaged,43.6
+STU_1789,Online,102,Happy,0.15,Highly Engaged,94.9
+STU_1790,Hybrid,194,Neutral,0.131,Engaged,75.5
+STU_1791,Online,87,Neutral,0.17,Highly Engaged,93.1
+STU_1792,In-Person,11,Angry,0.015,Disengaged,60.1
+STU_1793,Hybrid,185,Neutral,0.158,Highly Engaged,88.0
+STU_1794,Hybrid,132,Neutral,0.179,Highly Engaged,91.7
+STU_1795,Online,193,Neutral,0.209,Highly Engaged,99.4
+STU_1796,Online,90,Neutral,0.107,Engaged,90.8
+STU_1797,In-Person,222,Neutral,0.218,Highly Engaged,92.2
+STU_1798,Online,66,Sad,0.079,Disengaged,47.6
+STU_1799,Online,171,Neutral,0.104,Engaged,91.1
+STU_1800,Online,208,Surprised,0.148,Highly Engaged,96.4
+STU_1801,In-Person,189,Neutral,0.2,Highly Engaged,95.9
+STU_1802,In-Person,156,Neutral,0.163,Highly Engaged,93.8
+STU_1803,Online,79,Angry,0.089,Disengaged,45.6
+STU_1804,Online,245,Neutral,0.179,Highly Engaged,90.3
+STU_1805,Online,85,Scared,0.094,Disengaged,48.4
+STU_1806,In-Person,243,Happy,0.189,Highly Engaged,93.4
+STU_1807,Hybrid,202,Neutral,0.188,Highly Engaged,93.5
+STU_1808,Online,62,Angry,0.032,Disengaged,65.8
+STU_1809,Online,100,Neutral,0.205,Highly Engaged,92.3
+STU_1810,Online,44,Scared,0.091,Disengaged,44.4
+STU_1811,Hybrid,232,Neutral,0.181,Highly Engaged,95.9
+STU_1812,In-Person,12,Scared,0.086,Disengaged,56.3
+STU_1813,Online,184,Neutral,0.2,Highly Engaged,97.1
+STU_1814,Online,194,Happy,0.184,Highly Engaged,91.1
+STU_1815,Online,10,Sad,0.062,Disengaged,71.2
+STU_1816,In-Person,85,Angry,0.063,Disengaged,50.7
+STU_1817,Online,35,Angry,0.058,Disengaged,44.8
+STU_1818,In-Person,71,Sad,0.07,Disengaged,73.8
+STU_1819,Hybrid,24,Scared,0.031,Disengaged,69.8
+STU_1820,Online,200,Neutral,0.13,Engaged,89.9
+STU_1821,Online,108,Neutral,0.212,Highly Engaged,92.8
+STU_1822,Online,126,Neutral,0.207,Highly Engaged,88.6
+STU_1823,Hybrid,211,Happy,0.209,Highly Engaged,93.8
+STU_1824,In-Person,164,Happy,0.104,Engaged,89.3
+STU_1825,Hybrid,158,Happy,0.156,Highly Engaged,98.0
+STU_1826,Hybrid,226,Neutral,0.159,Highly Engaged,90.3
+STU_1827,Online,188,Surprised,0.15,Highly Engaged,89.0
+STU_1828,In-Person,156,Neutral,0.213,Highly Engaged,95.3
+STU_1829,In-Person,245,Neutral,0.169,Highly Engaged,96.3
+STU_1830,Online,142,Happy,0.115,Engaged,91.0
+STU_1831,In-Person,43,Sad,0.073,Disengaged,41.4
+STU_1832,Hybrid,69,Sad,0.079,Disengaged,45.7
+STU_1833,Hybrid,176,Surprised,0.103,Engaged,77.3
+STU_1834,In-Person,112,Neutral,0.204,Highly Engaged,89.6
+STU_1835,In-Person,153,Happy,0.154,Highly Engaged,93.1
+STU_1836,Hybrid,247,Neutral,0.12,Engaged,87.2
+STU_1837,Online,174,Happy,0.13,Engaged,79.6
+STU_1838,Online,204,Happy,0.198,Highly Engaged,88.4
+STU_1839,In-Person,232,Neutral,0.11,Engaged,80.1
+STU_1840,Online,192,Neutral,0.132,Engaged,90.5
+STU_1841,Online,87,Angry,0.096,Disengaged,55.1
+STU_1842,Hybrid,19,Angry,0.057,Disengaged,53.9
+STU_1843,Hybrid,88,Happy,0.189,Highly Engaged,90.6
+STU_1844,Hybrid,242,Neutral,0.14,Engaged,81.5
+STU_1845,In-Person,88,Neutral,0.146,Highly Engaged,93.3
+STU_1846,Online,196,Happy,0.209,Highly Engaged,94.7
+STU_1847,Online,32,Angry,0.078,Disengaged,63.4
+STU_1848,Online,214,Neutral,0.195,Highly Engaged,88.5
+STU_1849,In-Person,50,Sad,0.029,Disengaged,58.2
+STU_1850,Hybrid,189,Neutral,0.199,Highly Engaged,96.8
+STU_1851,Online,67,Disgust,0.098,Disengaged,42.4
+STU_1852,In-Person,231,Happy,0.192,Highly Engaged,92.3
+STU_1853,In-Person,10,Sad,0.038,Disengaged,53.9
+STU_1854,In-Person,210,Neutral,0.103,Engaged,90.3
+STU_1855,In-Person,159,Surprised,0.156,Highly Engaged,98.3
+STU_1856,Online,219,Neutral,0.168,Highly Engaged,98.5
+STU_1857,In-Person,136,Neutral,0.163,Highly Engaged,97.0
+STU_1858,Hybrid,25,Angry,0.028,Disengaged,52.6
+STU_1859,In-Person,64,Angry,0.013,Disengaged,70.2
+STU_1860,In-Person,10,Scared,0.067,Disengaged,70.7
+STU_1861,In-Person,157,Surprised,0.202,Highly Engaged,97.3
+STU_1862,Hybrid,60,Sad,0.076,Disengaged,72.3
+STU_1863,Online,85,Neutral,0.168,Highly Engaged,89.9
+STU_1864,Hybrid,81,Neutral,0.131,Engaged,86.2
+STU_1865,In-Person,175,Neutral,0.218,Highly Engaged,97.2
+STU_1866,In-Person,230,Surprised,0.114,Engaged,78.5
+STU_1867,Online,157,Happy,0.102,Engaged,86.4
+STU_1868,Online,113,Neutral,0.119,Engaged,75.2
+STU_1869,Online,110,Happy,0.203,Highly Engaged,88.3
+STU_1870,In-Person,24,Sad,0.076,Disengaged,54.7
+STU_1871,In-Person,98,Happy,0.2,Highly Engaged,91.7
+STU_1872,Online,218,Neutral,0.191,Highly Engaged,88.6
+STU_1873,Hybrid,243,Neutral,0.13,Engaged,80.5
+STU_1874,In-Person,175,Neutral,0.16,Highly Engaged,92.2
+STU_1875,In-Person,221,Neutral,0.107,Engaged,78.5
+STU_1876,Hybrid,191,Surprised,0.175,Highly Engaged,93.0
+STU_1877,Hybrid,144,Surprised,0.186,Highly Engaged,99.3
+STU_1878,Hybrid,89,Surprised,0.167,Highly Engaged,95.1
+STU_1879,Online,174,Happy,0.134,Engaged,79.7
+STU_1880,Hybrid,77,Scared,0.013,Disengaged,64.6
+STU_1881,Hybrid,169,Neutral,0.181,Highly Engaged,99.9
+STU_1882,In-Person,190,Happy,0.164,Highly Engaged,99.0
+STU_1883,Hybrid,59,Sad,0.067,Disengaged,60.7
+STU_1884,In-Person,187,Neutral,0.142,Highly Engaged,88.8
+STU_1885,Online,215,Neutral,0.115,Engaged,79.5
+STU_1886,Hybrid,79,Scared,0.08,Disengaged,50.3
+STU_1887,Online,97,Neutral,0.127,Engaged,81.6
+STU_1888,Online,109,Surprised,0.191,Highly Engaged,99.9
+STU_1889,In-Person,148,Neutral,0.21,Highly Engaged,97.3
+STU_1890,In-Person,172,Surprised,0.103,Engaged,81.5
+STU_1891,Online,219,Neutral,0.185,Highly Engaged,95.9
+STU_1892,Hybrid,230,Neutral,0.135,Engaged,76.0
+STU_1893,In-Person,228,Surprised,0.151,Highly Engaged,99.2
+STU_1894,Online,82,Neutral,0.108,Engaged,81.8
+STU_1895,Hybrid,169,Happy,0.159,Highly Engaged,96.4
+STU_1896,In-Person,134,Neutral,0.151,Highly Engaged,96.4
+STU_1897,Hybrid,226,Neutral,0.101,Engaged,85.8
+STU_1898,Online,239,Neutral,0.196,Highly Engaged,95.3
+STU_1899,Online,108,Neutral,0.175,Highly Engaged,90.2
+STU_1900,In-Person,15,Angry,0.058,Disengaged,62.8
+STU_1901,Hybrid,85,Neutral,0.128,Engaged,89.9
+STU_1902,Online,107,Happy,0.141,Highly Engaged,96.0
+STU_1903,In-Person,117,Neutral,0.157,Highly Engaged,92.2
+STU_1904,Online,125,Neutral,0.202,Highly Engaged,94.6
+STU_1905,In-Person,85,Angry,0.09,Disengaged,51.2
+STU_1906,Online,237,Neutral,0.168,Highly Engaged,92.4
+STU_1907,In-Person,12,Disgust,0.034,Disengaged,49.3
+STU_1908,Online,192,Neutral,0.166,Highly Engaged,92.1
+STU_1909,Online,34,Sad,0.075,Disengaged,70.4
+STU_1910,Online,234,Happy,0.139,Engaged,85.8
+STU_1911,Online,52,Scared,0.034,Disengaged,45.1
+STU_1912,In-Person,201,Happy,0.192,Highly Engaged,96.0
+STU_1913,In-Person,234,Happy,0.136,Engaged,79.8
+STU_1914,Online,235,Neutral,0.198,Highly Engaged,97.1
+STU_1915,Hybrid,189,Neutral,0.118,Engaged,86.8
+STU_1916,In-Person,42,Angry,0.066,Disengaged,47.6
+STU_1917,In-Person,137,Neutral,0.214,Highly Engaged,92.1
+STU_1918,Hybrid,131,Happy,0.185,Highly Engaged,95.1
+STU_1919,Online,89,Sad,0.052,Disengaged,47.6
+STU_1920,Hybrid,161,Neutral,0.105,Engaged,75.2
+STU_1921,Hybrid,13,Angry,0.022,Disengaged,62.6
+STU_1922,Online,69,Sad,0.041,Disengaged,44.0
+STU_1923,Hybrid,179,Happy,0.166,Highly Engaged,89.4
+STU_1924,Online,68,Scared,0.035,Disengaged,50.1
+STU_1925,In-Person,128,Neutral,0.117,Engaged,87.0
+STU_1926,Online,228,Neutral,0.196,Highly Engaged,96.8
+STU_1927,Hybrid,180,Happy,0.156,Highly Engaged,99.4
+STU_1928,Hybrid,183,Neutral,0.201,Highly Engaged,96.8
+STU_1929,Hybrid,56,Sad,0.05,Disengaged,52.1
+STU_1930,Online,85,Angry,0.079,Disengaged,69.3
+STU_1931,Hybrid,110,Happy,0.128,Engaged,75.8
+STU_1932,Hybrid,177,Neutral,0.138,Engaged,82.5
+STU_1933,Hybrid,7,Disgust,0.078,Disengaged,42.3
+STU_1934,Hybrid,245,Happy,0.2,Highly Engaged,89.7
+STU_1935,Hybrid,236,Happy,0.211,Highly Engaged,92.1
+STU_1936,In-Person,235,Happy,0.168,Highly Engaged,91.8
+STU_1937,Online,63,Angry,0.063,Disengaged,65.3
+STU_1938,In-Person,95,Happy,0.148,Highly Engaged,90.0
+STU_1939,Hybrid,26,Sad,0.074,Disengaged,67.2
+STU_1940,Online,55,Sad,0.095,Disengaged,72.2
+STU_1941,Online,109,Neutral,0.201,Highly Engaged,95.2
+STU_1942,Online,244,Happy,0.147,Highly Engaged,88.1
+STU_1943,In-Person,68,Scared,0.046,Disengaged,62.2
+STU_1944,In-Person,158,Happy,0.194,Highly Engaged,99.6
+STU_1945,In-Person,76,Sad,0.062,Disengaged,66.2
+STU_1946,Hybrid,86,Angry,0.012,Disengaged,46.5
+STU_1947,Hybrid,210,Surprised,0.129,Engaged,87.4
+STU_1948,Online,37,Sad,0.06,Disengaged,48.6
+STU_1949,Online,30,Sad,0.029,Disengaged,59.6
+STU_1950,Hybrid,14,Scared,0.081,Disengaged,54.7
+STU_1951,Online,219,Happy,0.133,Engaged,78.2
+STU_1952,Online,242,Neutral,0.156,Highly Engaged,90.7
+STU_1953,Hybrid,123,Happy,0.146,Highly Engaged,91.8
+STU_1954,In-Person,217,Surprised,0.173,Highly Engaged,96.3
+STU_1955,In-Person,132,Happy,0.142,Highly Engaged,91.8
+STU_1956,In-Person,35,Sad,0.097,Disengaged,52.1
+STU_1957,Hybrid,132,Happy,0.12,Engaged,86.1
+STU_1958,Hybrid,229,Surprised,0.176,Highly Engaged,89.5
+STU_1959,Hybrid,233,Neutral,0.183,Highly Engaged,91.9
+STU_1960,In-Person,44,Sad,0.023,Disengaged,55.4
+STU_1961,Online,97,Happy,0.2,Highly Engaged,88.6
+STU_1962,Hybrid,222,Neutral,0.171,Highly Engaged,90.3
+STU_1963,In-Person,152,Neutral,0.161,Highly Engaged,92.8
+STU_1964,Online,66,Sad,0.08,Disengaged,43.4
+STU_1965,Hybrid,157,Happy,0.112,Engaged,82.1
+STU_1966,Hybrid,103,Neutral,0.182,Highly Engaged,95.0
+STU_1967,Online,16,Disgust,0.057,Disengaged,63.9
+STU_1968,Online,14,Sad,0.033,Disengaged,55.2
+STU_1969,Online,10,Angry,0.084,Disengaged,52.4
+STU_1970,Online,176,Happy,0.171,Highly Engaged,96.2
+STU_1971,Online,236,Happy,0.157,Highly Engaged,90.3
+STU_1972,In-Person,88,Scared,0.082,Disengaged,44.4
+STU_1973,Online,192,Happy,0.198,Highly Engaged,94.1
+STU_1974,Hybrid,83,Sad,0.048,Disengaged,51.3
+STU_1975,Online,197,Neutral,0.194,Highly Engaged,91.6
+STU_1976,In-Person,212,Happy,0.127,Engaged,82.5
+STU_1977,Online,141,Neutral,0.167,Highly Engaged,96.5
+STU_1978,Hybrid,168,Neutral,0.191,Highly Engaged,92.7
+STU_1979,In-Person,108,Neutral,0.132,Engaged,79.7
+STU_1980,In-Person,216,Neutral,0.148,Highly Engaged,99.8
+STU_1981,Online,72,Disgust,0.042,Disengaged,47.8
+STU_1982,In-Person,156,Neutral,0.204,Highly Engaged,90.9
+STU_1983,Hybrid,107,Surprised,0.138,Engaged,81.7
+STU_1984,Hybrid,32,Scared,0.07,Disengaged,41.1
+STU_1985,Online,156,Happy,0.182,Highly Engaged,90.5
+STU_1986,Online,195,Neutral,0.126,Engaged,92.0
+STU_1987,In-Person,83,Sad,0.058,Disengaged,47.6
+STU_1988,Hybrid,188,Surprised,0.219,Highly Engaged,97.4
+STU_1989,Hybrid,17,Sad,0.084,Disengaged,60.5
+STU_1990,In-Person,19,Sad,0.06,Disengaged,59.6
+STU_1991,In-Person,8,Disgust,0.046,Disengaged,51.7
+STU_1992,Online,217,Happy,0.169,Highly Engaged,99.3
+STU_1993,Hybrid,132,Neutral,0.183,Highly Engaged,99.6
+STU_1994,Online,100,Surprised,0.194,Highly Engaged,94.6
+STU_1995,In-Person,155,Neutral,0.216,Highly Engaged,93.9
+STU_1996,Hybrid,22,Scared,0.034,Disengaged,74.0
+STU_1997,In-Person,208,Neutral,0.22,Highly Engaged,91.9
+STU_1998,Online,222,Neutral,0.141,Highly Engaged,94.5
+STU_1999,Online,36,Sad,0.02,Disengaged,72.3
+STU_2000,Online,246,Happy,0.175,Highly Engaged,88.0
+STU_2001,Online,245,Happy,0.143,Highly Engaged,92.8
+STU_2002,Online,189,Happy,0.175,Highly Engaged,92.5
+STU_2003,In-Person,40,Scared,0.081,Disengaged,71.8
+STU_2004,Online,124,Neutral,0.161,Highly Engaged,97.6
+STU_2005,Online,54,Scared,0.061,Disengaged,65.7
+STU_2006,In-Person,94,Neutral,0.216,Highly Engaged,90.4
+STU_2007,Hybrid,14,Sad,0.017,Disengaged,70.6
+STU_2008,In-Person,38,Scared,0.041,Disengaged,47.6
+STU_2009,Online,83,Neutral,0.177,Highly Engaged,94.6
+STU_2010,Hybrid,103,Happy,0.185,Highly Engaged,98.0
+STU_2011,Online,115,Neutral,0.112,Engaged,76.2
+STU_2012,Online,16,Sad,0.05,Disengaged,54.4
+STU_2013,In-Person,212,Happy,0.213,Highly Engaged,94.6
+STU_2014,Online,192,Surprised,0.168,Highly Engaged,96.5
+STU_2015,Hybrid,88,Neutral,0.197,Highly Engaged,96.1
+STU_2016,Hybrid,134,Neutral,0.163,Highly Engaged,90.7
+STU_2017,Online,206,Neutral,0.199,Highly Engaged,89.5
+STU_2018,In-Person,190,Neutral,0.14,Highly Engaged,92.0
+STU_2019,Online,137,Happy,0.11,Engaged,75.8
+STU_2020,Hybrid,47,Scared,0.033,Disengaged,40.1
+STU_2021,In-Person,94,Surprised,0.207,Highly Engaged,97.7
+STU_2022,Hybrid,118,Happy,0.104,Engaged,90.4
+STU_2023,In-Person,61,Angry,0.094,Disengaged,59.4
+STU_2024,Online,18,Sad,0.054,Disengaged,57.1
+STU_2025,Hybrid,11,Angry,0.042,Disengaged,65.2
+STU_2026,Online,206,Happy,0.15,Highly Engaged,88.5
+STU_2027,In-Person,115,Neutral,0.163,Highly Engaged,94.3
+STU_2028,In-Person,132,Neutral,0.208,Highly Engaged,92.0
+STU_2029,Online,73,Sad,0.088,Disengaged,67.1
+STU_2030,Hybrid,225,Neutral,0.118,Engaged,86.9
+STU_2031,Online,149,Neutral,0.179,Highly Engaged,92.6
+STU_2032,Hybrid,183,Happy,0.138,Engaged,75.9
+STU_2033,Hybrid,106,Happy,0.145,Highly Engaged,97.5
+STU_2034,In-Person,165,Surprised,0.115,Engaged,76.5
+STU_2035,Hybrid,178,Neutral,0.208,Highly Engaged,90.9
+STU_2036,Online,239,Happy,0.103,Engaged,88.4
+STU_2037,Online,143,Surprised,0.137,Engaged,81.8
+STU_2038,Online,35,Disgust,0.036,Disengaged,67.9
+STU_2039,Online,29,Sad,0.016,Disengaged,41.7
+STU_2040,Online,43,Angry,0.061,Disengaged,55.6
+STU_2041,In-Person,86,Sad,0.053,Disengaged,51.7
+STU_2042,Hybrid,223,Happy,0.17,Highly Engaged,91.4
+STU_2043,Hybrid,154,Neutral,0.184,Highly Engaged,88.3
+STU_2044,Online,117,Surprised,0.192,Highly Engaged,98.0
+STU_2045,In-Person,208,Surprised,0.218,Highly Engaged,97.9
+STU_2046,In-Person,153,Surprised,0.112,Engaged,81.0
+STU_2047,Online,243,Happy,0.181,Highly Engaged,91.4
+STU_2048,In-Person,136,Happy,0.143,Highly Engaged,95.0
+STU_2049,Hybrid,158,Neutral,0.214,Highly Engaged,97.1
+STU_2050,Online,129,Happy,0.107,Engaged,77.9
+STU_2051,Hybrid,234,Neutral,0.145,Highly Engaged,91.6
+STU_2052,Hybrid,35,Sad,0.099,Disengaged,61.4
+STU_2053,Online,248,Neutral,0.126,Engaged,75.7
+STU_2054,In-Person,181,Neutral,0.169,Highly Engaged,98.0
+STU_2055,In-Person,130,Happy,0.109,Engaged,75.5
+STU_2056,Hybrid,80,Surprised,0.219,Highly Engaged,92.8
+STU_2057,Hybrid,93,Happy,0.121,Engaged,77.0
+STU_2058,Hybrid,82,Neutral,0.164,Highly Engaged,90.6
+STU_2059,Hybrid,241,Happy,0.128,Engaged,83.5
+STU_2060,Hybrid,163,Neutral,0.134,Engaged,88.8
+STU_2061,Online,48,Angry,0.075,Disengaged,51.2
+STU_2062,Hybrid,30,Angry,0.035,Disengaged,59.4
+STU_2063,In-Person,155,Happy,0.204,Highly Engaged,98.6
+STU_2064,Hybrid,182,Neutral,0.12,Engaged,77.0
+STU_2065,Online,31,Sad,0.018,Disengaged,44.5
+STU_2066,In-Person,192,Neutral,0.218,Highly Engaged,94.7
+STU_2067,Online,166,Happy,0.118,Engaged,85.8
+STU_2068,Online,211,Neutral,0.22,Highly Engaged,92.5
+STU_2069,Online,38,Angry,0.086,Disengaged,44.0
+STU_2070,Online,93,Neutral,0.167,Highly Engaged,92.6
+STU_2071,In-Person,176,Happy,0.178,Highly Engaged,89.6
+STU_2072,Hybrid,41,Sad,0.038,Disengaged,44.1
+STU_2073,Online,146,Happy,0.107,Engaged,75.3
+STU_2074,In-Person,106,Neutral,0.189,Highly Engaged,89.5
+STU_2075,In-Person,10,Disgust,0.022,Disengaged,56.9
+STU_2076,In-Person,97,Happy,0.154,Highly Engaged,96.5
+STU_2077,Online,195,Surprised,0.177,Highly Engaged,96.6
+STU_2078,Hybrid,234,Neutral,0.192,Highly Engaged,95.1
+STU_2079,In-Person,245,Happy,0.218,Highly Engaged,97.8
+STU_2080,In-Person,160,Happy,0.119,Engaged,90.2
+STU_2081,Online,127,Neutral,0.206,Highly Engaged,96.6
+STU_2082,Online,187,Neutral,0.203,Highly Engaged,96.8
+STU_2083,Hybrid,69,Scared,0.062,Disengaged,71.8
+STU_2084,In-Person,159,Neutral,0.197,Highly Engaged,98.1
+STU_2085,Hybrid,213,Neutral,0.213,Highly Engaged,94.2
+STU_2086,Hybrid,102,Happy,0.113,Engaged,84.6
+STU_2087,Online,55,Sad,0.067,Disengaged,55.2
+STU_2088,Hybrid,242,Neutral,0.131,Engaged,75.9
+STU_2089,In-Person,222,Happy,0.215,Highly Engaged,94.2
+STU_2090,Online,159,Neutral,0.113,Engaged,79.1
+STU_2091,In-Person,127,Neutral,0.102,Engaged,89.8
+STU_2092,In-Person,84,Neutral,0.105,Engaged,77.7
+STU_2093,Online,27,Scared,0.036,Disengaged,59.1
+STU_2094,Hybrid,99,Neutral,0.185,Highly Engaged,96.5
+STU_2095,Online,231,Neutral,0.188,Highly Engaged,96.9
+STU_2096,In-Person,143,Happy,0.127,Engaged,82.2
+STU_2097,Hybrid,21,Scared,0.07,Disengaged,64.9
+STU_2098,Hybrid,138,Neutral,0.156,Highly Engaged,98.5
+STU_2099,In-Person,190,Happy,0.108,Engaged,86.4
+STU_2100,Online,204,Neutral,0.147,Highly Engaged,90.1
+STU_2101,In-Person,173,Happy,0.133,Engaged,86.3
+STU_2102,Hybrid,172,Happy,0.219,Highly Engaged,89.4
+STU_2103,Online,98,Happy,0.119,Engaged,87.2
+STU_2104,Hybrid,242,Neutral,0.113,Engaged,91.4
+STU_2105,In-Person,125,Neutral,0.123,Engaged,77.7
+STU_2106,Online,87,Neutral,0.198,Highly Engaged,90.7
+STU_2107,In-Person,238,Happy,0.191,Highly Engaged,91.7
+STU_2108,In-Person,191,Neutral,0.152,Highly Engaged,95.0
+STU_2109,Online,59,Sad,0.083,Disengaged,49.9
+STU_2110,In-Person,75,Disgust,0.032,Disengaged,69.8
+STU_2111,Online,62,Disgust,0.08,Disengaged,55.7
+STU_2112,Online,22,Scared,0.092,Disengaged,58.1
+STU_2113,Online,233,Surprised,0.204,Highly Engaged,95.6
+STU_2114,In-Person,50,Sad,0.018,Disengaged,45.9
+STU_2115,Hybrid,87,Neutral,0.174,Highly Engaged,93.2
+STU_2116,Online,158,Surprised,0.18,Highly Engaged,99.8
+STU_2117,Hybrid,119,Happy,0.175,Highly Engaged,88.4
+STU_2118,Hybrid,213,Happy,0.138,Engaged,91.5
+STU_2119,Online,36,Sad,0.095,Disengaged,70.7
+STU_2120,In-Person,161,Neutral,0.114,Engaged,84.0
+STU_2121,In-Person,149,Neutral,0.133,Engaged,85.6
+STU_2122,Hybrid,5,Angry,0.011,Disengaged,67.5
+STU_2123,In-Person,220,Neutral,0.17,Highly Engaged,99.9
+STU_2124,Hybrid,170,Happy,0.11,Engaged,75.4
+STU_2125,In-Person,25,Angry,0.066,Disengaged,73.6
+STU_2126,Hybrid,146,Surprised,0.157,Highly Engaged,93.6
+STU_2127,Hybrid,104,Happy,0.129,Engaged,77.6
+STU_2128,Online,176,Neutral,0.151,Highly Engaged,95.6
+STU_2129,In-Person,248,Neutral,0.126,Engaged,77.9
+STU_2130,Hybrid,11,Scared,0.021,Disengaged,68.9
+STU_2131,Online,240,Happy,0.129,Engaged,80.1
+STU_2132,Online,185,Happy,0.148,Highly Engaged,96.1
+STU_2133,Hybrid,232,Neutral,0.16,Highly Engaged,92.0
+STU_2134,Hybrid,220,Neutral,0.108,Engaged,90.2
+STU_2135,In-Person,11,Disgust,0.021,Disengaged,42.2
+STU_2136,In-Person,89,Happy,0.163,Highly Engaged,89.2
+STU_2137,Online,118,Surprised,0.215,Highly Engaged,99.9
+STU_2138,In-Person,131,Neutral,0.157,Highly Engaged,93.2
+STU_2139,Online,237,Surprised,0.15,Highly Engaged,98.3
+STU_2140,In-Person,79,Angry,0.028,Disengaged,71.3
+STU_2141,In-Person,137,Happy,0.116,Engaged,77.0
+STU_2142,Hybrid,127,Neutral,0.168,Highly Engaged,90.9
+STU_2143,In-Person,181,Happy,0.128,Engaged,76.7
+STU_2144,Online,8,Sad,0.019,Disengaged,65.1
+STU_2145,Hybrid,128,Happy,0.139,Engaged,89.6
+STU_2146,In-Person,59,Scared,0.031,Disengaged,63.5
+STU_2147,Hybrid,239,Surprised,0.109,Engaged,77.8
+STU_2148,Online,73,Scared,0.081,Disengaged,54.1
+STU_2149,Hybrid,238,Surprised,0.207,Highly Engaged,99.0
+STU_2150,In-Person,155,Neutral,0.115,Engaged,79.1
+STU_2151,Online,205,Neutral,0.211,Highly Engaged,97.9
+STU_2152,Online,247,Neutral,0.112,Engaged,80.6
+STU_2153,In-Person,86,Angry,0.071,Disengaged,40.7
+STU_2154,In-Person,39,Sad,0.085,Disengaged,68.7
+STU_2155,Online,212,Surprised,0.111,Engaged,87.0
+STU_2156,Online,110,Neutral,0.21,Highly Engaged,99.6
+STU_2157,Online,244,Neutral,0.116,Engaged,85.0
+STU_2158,Online,63,Sad,0.059,Disengaged,55.4
+STU_2159,Hybrid,174,Happy,0.151,Highly Engaged,95.4
+STU_2160,In-Person,132,Neutral,0.19,Highly Engaged,89.1
+STU_2161,Hybrid,174,Surprised,0.146,Highly Engaged,95.5
+STU_2162,Hybrid,218,Neutral,0.152,Highly Engaged,92.8
+STU_2163,Online,148,Neutral,0.183,Highly Engaged,97.7
+STU_2164,In-Person,198,Happy,0.1,Engaged,84.0
+STU_2165,Hybrid,87,Neutral,0.148,Highly Engaged,93.1
+STU_2166,In-Person,74,Disgust,0.074,Disengaged,54.0
+STU_2167,Hybrid,83,Neutral,0.104,Engaged,86.6
+STU_2168,Online,94,Neutral,0.215,Highly Engaged,88.5
+STU_2169,Hybrid,86,Neutral,0.101,Engaged,89.9
+STU_2170,Online,54,Sad,0.094,Disengaged,50.8
+STU_2171,Hybrid,197,Happy,0.207,Highly Engaged,96.2
+STU_2172,Online,222,Happy,0.11,Engaged,76.8
+STU_2173,Online,185,Neutral,0.204,Highly Engaged,93.4
+STU_2174,In-Person,156,Neutral,0.215,Highly Engaged,91.9
+STU_2175,Online,233,Happy,0.202,Highly Engaged,90.5
+STU_2176,In-Person,13,Sad,0.016,Disengaged,68.4
+STU_2177,Online,6,Scared,0.016,Disengaged,53.6
+STU_2178,Hybrid,161,Neutral,0.181,Highly Engaged,97.7
+STU_2179,Hybrid,213,Happy,0.107,Engaged,87.7
+STU_2180,Hybrid,79,Angry,0.072,Disengaged,48.6
+STU_2181,Online,240,Happy,0.141,Highly Engaged,97.1
+STU_2182,Online,19,Scared,0.029,Disengaged,41.7
+STU_2183,Online,106,Neutral,0.129,Engaged,89.5
+STU_2184,Online,70,Angry,0.028,Disengaged,61.8
+STU_2185,Hybrid,43,Sad,0.085,Disengaged,55.4
+STU_2186,In-Person,7,Angry,0.064,Disengaged,64.8
+STU_2187,In-Person,160,Surprised,0.218,Highly Engaged,97.7
+STU_2188,In-Person,196,Happy,0.113,Engaged,85.9
+STU_2189,In-Person,71,Angry,0.068,Disengaged,65.7
+STU_2190,Hybrid,125,Neutral,0.161,Highly Engaged,97.7
+STU_2191,Online,176,Neutral,0.127,Engaged,75.3
+STU_2192,In-Person,26,Sad,0.095,Disengaged,67.0
+STU_2193,Hybrid,70,Sad,0.021,Disengaged,46.4
+STU_2194,Hybrid,22,Angry,0.07,Disengaged,53.6
+STU_2195,Online,199,Neutral,0.204,Highly Engaged,91.9
+STU_2196,Hybrid,86,Sad,0.016,Disengaged,54.2
+STU_2197,Hybrid,43,Sad,0.095,Disengaged,53.7
+STU_2198,In-Person,91,Neutral,0.187,Highly Engaged,95.9
+STU_2199,Hybrid,183,Happy,0.103,Engaged,88.0
+STU_2200,Online,214,Neutral,0.166,Highly Engaged,92.2
+STU_2201,In-Person,103,Neutral,0.109,Engaged,79.9
+STU_2202,Online,87,Disgust,0.016,Disengaged,55.0
+STU_2203,Hybrid,132,Surprised,0.166,Highly Engaged,91.3
+STU_2204,Online,10,Sad,0.079,Disengaged,51.0
+STU_2205,In-Person,39,Disgust,0.065,Disengaged,46.3
+STU_2206,In-Person,104,Happy,0.141,Highly Engaged,98.8
+STU_2207,Online,25,Sad,0.021,Disengaged,41.0
+STU_2208,In-Person,221,Happy,0.196,Highly Engaged,91.6
+STU_2209,Online,64,Scared,0.036,Disengaged,68.9
+STU_2210,In-Person,164,Neutral,0.216,Highly Engaged,99.4
+STU_2211,In-Person,58,Angry,0.074,Disengaged,49.1
+STU_2212,In-Person,86,Neutral,0.207,Highly Engaged,90.8
+STU_2213,Online,153,Neutral,0.157,Highly Engaged,97.6
+STU_2214,In-Person,18,Sad,0.085,Disengaged,69.8
+STU_2215,In-Person,154,Happy,0.154,Highly Engaged,95.1
+STU_2216,Online,226,Surprised,0.14,Highly Engaged,94.2
+STU_2217,In-Person,141,Happy,0.17,Highly Engaged,94.9
+STU_2218,Online,28,Sad,0.051,Disengaged,60.9
+STU_2219,In-Person,147,Neutral,0.138,Engaged,78.9
+STU_2220,Online,202,Neutral,0.2,Highly Engaged,90.8
+STU_2221,In-Person,235,Neutral,0.173,Highly Engaged,89.2
+STU_2222,Hybrid,146,Happy,0.112,Engaged,85.0
+STU_2223,Online,219,Neutral,0.18,Highly Engaged,90.1
+STU_2224,Online,210,Happy,0.178,Highly Engaged,88.3
+STU_2225,Online,151,Happy,0.116,Engaged,79.3
+STU_2226,Hybrid,192,Neutral,0.151,Highly Engaged,99.1
+STU_2227,Online,190,Happy,0.181,Highly Engaged,95.2
+STU_2228,Hybrid,77,Scared,0.039,Disengaged,57.7
+STU_2229,Online,126,Neutral,0.147,Highly Engaged,89.8
+STU_2230,Online,193,Happy,0.175,Highly Engaged,94.6
+STU_2231,In-Person,125,Surprised,0.141,Highly Engaged,95.4
+STU_2232,Online,212,Happy,0.154,Highly Engaged,91.3
+STU_2233,In-Person,54,Sad,0.042,Disengaged,69.9
+STU_2234,In-Person,199,Happy,0.219,Highly Engaged,96.0
+STU_2235,Hybrid,156,Happy,0.151,Highly Engaged,92.7
+STU_2236,Hybrid,134,Neutral,0.158,Highly Engaged,89.3
+STU_2237,In-Person,211,Surprised,0.202,Highly Engaged,94.2
+STU_2238,Online,137,Surprised,0.152,Highly Engaged,97.9
+STU_2239,Online,208,Neutral,0.184,Highly Engaged,95.4
+STU_2240,Online,248,Happy,0.152,Highly Engaged,95.1
+STU_2241,In-Person,10,Disgust,0.094,Disengaged,60.0
+STU_2242,Online,83,Happy,0.154,Highly Engaged,97.7
+STU_2243,Hybrid,238,Happy,0.158,Highly Engaged,99.1
+STU_2244,In-Person,12,Angry,0.055,Disengaged,46.0
+STU_2245,In-Person,9,Sad,0.078,Disengaged,42.3
+STU_2246,Hybrid,166,Happy,0.208,Highly Engaged,95.0
+STU_2247,Online,55,Sad,0.031,Disengaged,61.0
+STU_2248,In-Person,34,Scared,0.065,Disengaged,57.7
+STU_2249,Hybrid,135,Happy,0.176,Highly Engaged,93.3
+STU_2250,Online,129,Happy,0.101,Engaged,86.5
+STU_2251,Online,117,Happy,0.109,Engaged,76.2
+STU_2252,In-Person,86,Disgust,0.019,Disengaged,51.4
+STU_2253,Hybrid,96,Surprised,0.158,Highly Engaged,92.0
+STU_2254,In-Person,119,Neutral,0.166,Highly Engaged,91.3
+STU_2255,In-Person,16,Scared,0.03,Disengaged,46.0
+STU_2256,Hybrid,196,Happy,0.125,Engaged,83.0
+STU_2257,Hybrid,139,Neutral,0.173,Highly Engaged,95.4
+STU_2258,Hybrid,96,Happy,0.191,Highly Engaged,88.5
+STU_2259,Online,86,Happy,0.106,Engaged,89.5
+STU_2260,Hybrid,29,Scared,0.022,Disengaged,69.9
+STU_2261,In-Person,135,Neutral,0.104,Engaged,76.8
+STU_2262,Hybrid,5,Scared,0.011,Disengaged,66.4
+STU_2263,In-Person,144,Happy,0.126,Engaged,81.4
+STU_2264,Hybrid,237,Neutral,0.196,Highly Engaged,95.1
+STU_2265,Hybrid,58,Disgust,0.06,Disengaged,58.1
+STU_2266,Hybrid,219,Happy,0.176,Highly Engaged,90.9
+STU_2267,Hybrid,198,Neutral,0.189,Highly Engaged,93.4
+STU_2268,In-Person,144,Happy,0.105,Engaged,81.2
+STU_2269,Online,70,Scared,0.068,Disengaged,59.4
+STU_2270,Hybrid,105,Neutral,0.109,Engaged,90.8
+STU_2271,Online,186,Neutral,0.109,Engaged,90.0
+STU_2272,Online,150,Neutral,0.172,Highly Engaged,96.1
+STU_2273,Hybrid,191,Neutral,0.159,Highly Engaged,99.9
+STU_2274,Hybrid,40,Sad,0.067,Disengaged,73.5
+STU_2275,In-Person,83,Happy,0.172,Highly Engaged,97.4
+STU_2276,Hybrid,237,Neutral,0.11,Engaged,75.2
+STU_2277,In-Person,201,Neutral,0.175,Highly Engaged,98.7
+STU_2278,Hybrid,146,Neutral,0.218,Highly Engaged,96.4
+STU_2279,Hybrid,22,Angry,0.048,Disengaged,72.4
+STU_2280,Online,231,Neutral,0.137,Engaged,80.2
+STU_2281,Online,51,Disgust,0.066,Disengaged,71.0
+STU_2282,Online,177,Happy,0.207,Highly Engaged,91.9
+STU_2283,Hybrid,175,Neutral,0.121,Engaged,87.2
+STU_2284,Online,12,Scared,0.083,Disengaged,69.9
+STU_2285,Online,125,Happy,0.138,Engaged,86.6
+STU_2286,Online,83,Sad,0.011,Disengaged,53.6
+STU_2287,In-Person,78,Disgust,0.011,Disengaged,73.0
+STU_2288,Online,104,Neutral,0.216,Highly Engaged,98.6
+STU_2289,Hybrid,101,Neutral,0.17,Highly Engaged,90.4
+STU_2290,Online,72,Sad,0.034,Disengaged,59.7
+STU_2291,Hybrid,166,Neutral,0.209,Highly Engaged,90.3
+STU_2292,Online,166,Neutral,0.112,Engaged,77.2
+STU_2293,Online,176,Neutral,0.141,Highly Engaged,89.3
+STU_2294,Hybrid,142,Neutral,0.149,Highly Engaged,96.3
+STU_2295,Online,23,Sad,0.023,Disengaged,62.4
+STU_2296,Online,148,Neutral,0.202,Highly Engaged,99.3
+STU_2297,Online,138,Happy,0.108,Engaged,86.1
+STU_2298,Online,180,Surprised,0.108,Engaged,78.3
+STU_2299,Online,198,Happy,0.209,Highly Engaged,90.7
+STU_2300,Online,136,Neutral,0.139,Engaged,84.1
+STU_2301,In-Person,56,Sad,0.045,Disengaged,56.4
+STU_2302,Hybrid,217,Neutral,0.117,Engaged,82.9
+STU_2303,Hybrid,79,Sad,0.04,Disengaged,61.5
+STU_2304,Online,13,Scared,0.064,Disengaged,45.2
+STU_2305,In-Person,176,Happy,0.143,Highly Engaged,91.4
+STU_2306,Online,100,Happy,0.202,Highly Engaged,99.4
+STU_2307,Online,192,Happy,0.12,Engaged,90.9
+STU_2308,Hybrid,195,Happy,0.186,Highly Engaged,94.3
+STU_2309,Online,84,Scared,0.011,Disengaged,65.4
+STU_2310,Online,19,Scared,0.054,Disengaged,55.5
+STU_2311,Hybrid,128,Neutral,0.102,Engaged,89.0
+STU_2312,In-Person,179,Surprised,0.215,Highly Engaged,91.1
+STU_2313,Hybrid,55,Angry,0.094,Disengaged,62.6
+STU_2314,In-Person,80,Disgust,0.021,Disengaged,53.0
+STU_2315,In-Person,91,Happy,0.172,Highly Engaged,89.9
+STU_2316,Online,206,Happy,0.131,Engaged,84.1
+STU_2317,Online,114,Neutral,0.177,Highly Engaged,91.6
+STU_2318,Online,40,Angry,0.027,Disengaged,46.4
+STU_2319,Hybrid,121,Neutral,0.126,Engaged,91.5
+STU_2320,Hybrid,148,Happy,0.115,Engaged,84.6
+STU_2321,In-Person,115,Neutral,0.147,Highly Engaged,92.8
+STU_2322,In-Person,130,Neutral,0.1,Engaged,89.5
+STU_2323,Hybrid,176,Happy,0.194,Highly Engaged,92.4
+STU_2324,Online,61,Disgust,0.072,Disengaged,71.8
+STU_2325,In-Person,103,Neutral,0.156,Highly Engaged,96.1
+STU_2326,In-Person,240,Happy,0.153,Highly Engaged,94.7
+STU_2327,In-Person,205,Neutral,0.178,Highly Engaged,99.8
+STU_2328,Online,193,Neutral,0.108,Engaged,82.2
+STU_2329,Hybrid,222,Happy,0.145,Highly Engaged,99.8
+STU_2330,Online,213,Happy,0.132,Engaged,77.2
+STU_2331,Online,211,Neutral,0.21,Highly Engaged,90.8
+STU_2332,Online,95,Neutral,0.119,Engaged,84.8
+STU_2333,Hybrid,190,Neutral,0.22,Highly Engaged,96.3
+STU_2334,Hybrid,99,Neutral,0.205,Highly Engaged,97.4
+STU_2335,Online,26,Disgust,0.061,Disengaged,66.9
+STU_2336,Online,63,Angry,0.023,Disengaged,47.7
+STU_2337,Hybrid,222,Neutral,0.188,Highly Engaged,98.5
+STU_2338,Online,172,Happy,0.121,Engaged,88.0
+STU_2339,Online,60,Angry,0.067,Disengaged,66.6
+STU_2340,Hybrid,105,Neutral,0.126,Engaged,77.3
+STU_2341,In-Person,40,Sad,0.077,Disengaged,55.4
+STU_2342,Online,63,Angry,0.028,Disengaged,69.2
+STU_2343,Online,120,Neutral,0.182,Highly Engaged,92.2
+STU_2344,Online,120,Neutral,0.152,Highly Engaged,88.7
+STU_2345,In-Person,76,Disgust,0.018,Disengaged,68.2
+STU_2346,Hybrid,101,Happy,0.146,Highly Engaged,88.2
+STU_2347,Hybrid,99,Neutral,0.189,Highly Engaged,90.5
+STU_2348,Online,134,Neutral,0.161,Highly Engaged,98.1
+STU_2349,Hybrid,209,Happy,0.197,Highly Engaged,90.5
+STU_2350,Online,113,Surprised,0.111,Engaged,85.6
+STU_2351,Hybrid,24,Sad,0.098,Disengaged,62.3
+STU_2352,In-Person,57,Disgust,0.083,Disengaged,57.4
+STU_2353,Hybrid,191,Neutral,0.18,Highly Engaged,96.5
+STU_2354,In-Person,95,Happy,0.218,Highly Engaged,96.0
+STU_2355,In-Person,245,Happy,0.124,Engaged,89.7
+STU_2356,Online,103,Happy,0.145,Highly Engaged,91.2
+STU_2357,In-Person,202,Neutral,0.162,Highly Engaged,97.5
+STU_2358,Online,82,Disgust,0.08,Disengaged,42.4
+STU_2359,Hybrid,89,Scared,0.048,Disengaged,60.5
+STU_2360,Online,140,Happy,0.201,Highly Engaged,95.8
+STU_2361,Online,212,Surprised,0.133,Engaged,90.6
+STU_2362,Hybrid,110,Neutral,0.218,Highly Engaged,91.9
+STU_2363,Online,109,Happy,0.123,Engaged,78.3
+STU_2364,Hybrid,120,Surprised,0.14,Engaged,84.6
+STU_2365,Hybrid,237,Happy,0.118,Engaged,84.9
+STU_2366,Online,49,Disgust,0.033,Disengaged,43.0
+STU_2367,Online,212,Surprised,0.174,Highly Engaged,95.5
+STU_2368,Hybrid,85,Happy,0.131,Engaged,76.7
+STU_2369,Online,73,Sad,0.071,Disengaged,61.9
+STU_2370,In-Person,99,Neutral,0.188,Highly Engaged,93.0
+STU_2371,Hybrid,228,Happy,0.135,Engaged,86.3
+STU_2372,In-Person,105,Neutral,0.164,Highly Engaged,96.2
+STU_2373,Hybrid,204,Happy,0.206,Highly Engaged,95.0
+STU_2374,Hybrid,38,Sad,0.044,Disengaged,54.0
+STU_2375,Hybrid,144,Happy,0.208,Highly Engaged,92.6
+STU_2376,Online,56,Sad,0.09,Disengaged,49.7
+STU_2377,Online,192,Happy,0.17,Highly Engaged,89.6
+STU_2378,In-Person,87,Neutral,0.113,Engaged,77.1
+STU_2379,Hybrid,33,Sad,0.041,Disengaged,41.2
+STU_2380,In-Person,234,Neutral,0.169,Highly Engaged,89.1
+STU_2381,In-Person,244,Neutral,0.11,Engaged,81.5
+STU_2382,In-Person,82,Happy,0.109,Engaged,85.8
+STU_2383,In-Person,93,Neutral,0.192,Highly Engaged,99.4
+STU_2384,Hybrid,236,Neutral,0.206,Highly Engaged,95.7
+STU_2385,Online,233,Surprised,0.175,Highly Engaged,93.9
+STU_2386,Hybrid,86,Happy,0.183,Highly Engaged,93.3
+STU_2387,Online,198,Happy,0.196,Highly Engaged,95.8
+STU_2388,Hybrid,7,Disgust,0.052,Disengaged,53.2
+STU_2389,In-Person,121,Happy,0.146,Highly Engaged,94.4
+STU_2390,Hybrid,21,Scared,0.09,Disengaged,69.5
+STU_2391,Online,106,Neutral,0.132,Engaged,75.6
+STU_2392,Online,87,Happy,0.189,Highly Engaged,96.5
+STU_2393,Hybrid,33,Scared,0.056,Disengaged,68.1
+STU_2394,Online,100,Happy,0.119,Engaged,85.7
+STU_2395,In-Person,30,Sad,0.06,Disengaged,64.6
+STU_2396,Online,115,Happy,0.137,Engaged,79.1
+STU_2397,Online,152,Neutral,0.157,Highly Engaged,95.2
+STU_2398,Online,116,Happy,0.189,Highly Engaged,93.9
+STU_2399,Hybrid,186,Happy,0.168,Highly Engaged,91.3
+STU_2400,Hybrid,47,Scared,0.074,Disengaged,47.3
+STU_2401,Online,104,Neutral,0.197,Highly Engaged,92.9
+STU_2402,Online,45,Disgust,0.061,Disengaged,73.2
+STU_2403,Hybrid,72,Angry,0.078,Disengaged,73.7
+STU_2404,Online,192,Neutral,0.129,Engaged,86.6
+STU_2405,Hybrid,143,Neutral,0.21,Highly Engaged,92.7
+STU_2406,Hybrid,61,Scared,0.014,Disengaged,42.1
+STU_2407,Online,56,Disgust,0.036,Disengaged,47.9
+STU_2408,Online,168,Happy,0.101,Engaged,84.2
+STU_2409,In-Person,131,Neutral,0.148,Highly Engaged,96.6
+STU_2410,Hybrid,246,Happy,0.18,Highly Engaged,95.9
+STU_2411,Hybrid,236,Surprised,0.212,Highly Engaged,89.3
+STU_2412,Online,122,Neutral,0.191,Highly Engaged,91.9
+STU_2413,Hybrid,85,Sad,0.029,Disengaged,60.5
+STU_2414,Online,117,Neutral,0.146,Highly Engaged,98.4
+STU_2415,Hybrid,209,Neutral,0.19,Highly Engaged,91.5
+STU_2416,In-Person,189,Happy,0.206,Highly Engaged,90.0
+STU_2417,Online,189,Happy,0.187,Highly Engaged,97.0
+STU_2418,Online,150,Neutral,0.207,Highly Engaged,91.0
+STU_2419,Online,147,Happy,0.202,Highly Engaged,95.4
+STU_2420,Online,234,Neutral,0.182,Highly Engaged,93.1
+STU_2421,Online,194,Neutral,0.127,Engaged,91.8
+STU_2422,Online,88,Neutral,0.187,Highly Engaged,95.4
+STU_2423,In-Person,66,Disgust,0.022,Disengaged,53.3
+STU_2424,Hybrid,194,Happy,0.188,Highly Engaged,89.3
+STU_2425,Online,185,Happy,0.191,Highly Engaged,96.7
+STU_2426,In-Person,97,Happy,0.195,Highly Engaged,96.9
+STU_2427,Online,7,Disgust,0.081,Disengaged,55.5
+STU_2428,In-Person,125,Neutral,0.149,Highly Engaged,91.8
+STU_2429,Online,214,Surprised,0.179,Highly Engaged,94.6
+STU_2430,In-Person,85,Sad,0.079,Disengaged,41.9
+STU_2431,Hybrid,222,Surprised,0.11,Engaged,89.2
+STU_2432,In-Person,120,Neutral,0.121,Engaged,75.4
+STU_2433,In-Person,184,Surprised,0.184,Highly Engaged,99.1
+STU_2434,Online,169,Neutral,0.199,Highly Engaged,94.8
+STU_2435,In-Person,145,Happy,0.126,Engaged,81.7
+STU_2436,Online,36,Sad,0.071,Disengaged,72.8
+STU_2437,Online,145,Neutral,0.156,Highly Engaged,90.8
+STU_2438,Online,89,Scared,0.092,Disengaged,65.4
+STU_2439,Hybrid,167,Neutral,0.104,Engaged,84.6
+STU_2440,Online,37,Scared,0.027,Disengaged,70.4
+STU_2441,Hybrid,121,Happy,0.162,Highly Engaged,89.1
+STU_2442,Hybrid,208,Neutral,0.113,Engaged,88.8
+STU_2443,In-Person,176,Neutral,0.121,Engaged,75.9
+STU_2444,In-Person,9,Angry,0.081,Disengaged,62.8
+STU_2445,Hybrid,221,Neutral,0.205,Highly Engaged,90.6
+STU_2446,Online,183,Neutral,0.144,Highly Engaged,96.8
+STU_2447,Online,244,Neutral,0.15,Highly Engaged,95.4
+STU_2448,Online,203,Surprised,0.133,Engaged,91.6
+STU_2449,Online,131,Happy,0.212,Highly Engaged,91.6
+STU_2450,Online,150,Neutral,0.17,Highly Engaged,95.4
+STU_2451,Online,101,Neutral,0.145,Highly Engaged,93.6
+STU_2452,In-Person,148,Neutral,0.174,Highly Engaged,90.5
+STU_2453,Hybrid,199,Neutral,0.182,Highly Engaged,98.8
+STU_2454,Online,99,Happy,0.1,Engaged,75.3
+STU_2455,Hybrid,5,Sad,0.081,Disengaged,41.2
+STU_2456,Online,93,Neutral,0.152,Highly Engaged,96.3
+STU_2457,Hybrid,113,Happy,0.135,Engaged,78.0
+STU_2458,Hybrid,196,Happy,0.172,Highly Engaged,93.9
+STU_2459,Hybrid,81,Disgust,0.095,Disengaged,68.0
+STU_2460,Hybrid,47,Angry,0.044,Disengaged,52.7
+STU_2461,In-Person,62,Sad,0.06,Disengaged,42.0
+STU_2462,In-Person,180,Neutral,0.192,Highly Engaged,89.9
+STU_2463,Hybrid,108,Neutral,0.139,Engaged,83.2
+STU_2464,Hybrid,181,Neutral,0.19,Highly Engaged,95.3
+STU_2465,Hybrid,166,Neutral,0.136,Engaged,75.9
+STU_2466,Online,116,Happy,0.22,Highly Engaged,90.1
+STU_2467,Online,50,Sad,0.096,Disengaged,54.5
+STU_2468,Online,14,Scared,0.023,Disengaged,58.7
+STU_2469,Hybrid,21,Scared,0.036,Disengaged,69.1
+STU_2470,Hybrid,222,Happy,0.123,Engaged,88.0
+STU_2471,Online,129,Surprised,0.195,Highly Engaged,95.2
+STU_2472,In-Person,230,Neutral,0.214,Highly Engaged,88.9
+STU_2473,In-Person,188,Neutral,0.15,Highly Engaged,91.6
+STU_2474,In-Person,71,Sad,0.029,Disengaged,63.4
+STU_2475,Hybrid,234,Neutral,0.123,Engaged,79.6
+STU_2476,In-Person,153,Happy,0.129,Engaged,90.2
+STU_2477,Online,222,Neutral,0.194,Highly Engaged,94.5
+STU_2478,In-Person,208,Surprised,0.118,Engaged,83.1
+STU_2479,Online,16,Sad,0.056,Disengaged,47.7
+STU_2480,In-Person,86,Neutral,0.205,Highly Engaged,94.3
+STU_2481,Online,67,Sad,0.04,Disengaged,59.2
+STU_2482,In-Person,170,Neutral,0.178,Highly Engaged,98.2
+STU_2483,In-Person,140,Happy,0.215,Highly Engaged,94.2
+STU_2484,Online,44,Sad,0.086,Disengaged,53.6
+STU_2485,Hybrid,122,Surprised,0.164,Highly Engaged,97.9
+STU_2486,In-Person,31,Disgust,0.073,Disengaged,70.0
+STU_2487,Hybrid,176,Neutral,0.121,Engaged,91.4
+STU_2488,In-Person,122,Surprised,0.152,Highly Engaged,95.5
+STU_2489,Hybrid,155,Surprised,0.175,Highly Engaged,91.6
+STU_2490,Online,84,Angry,0.077,Disengaged,67.3
+STU_2491,Online,107,Neutral,0.216,Highly Engaged,88.9
+STU_2492,Online,78,Sad,0.017,Disengaged,65.5
+STU_2493,In-Person,141,Happy,0.194,Highly Engaged,95.9
+STU_2494,Online,134,Neutral,0.186,Highly Engaged,93.8
+STU_2495,Hybrid,202,Happy,0.113,Engaged,83.4
+STU_2496,Hybrid,203,Neutral,0.147,Highly Engaged,92.0
+STU_2497,Hybrid,100,Happy,0.206,Highly Engaged,91.3
+STU_2498,In-Person,83,Scared,0.023,Disengaged,70.9
+STU_2499,In-Person,118,Happy,0.172,Highly Engaged,94.9
+STU_2500,Hybrid,200,Surprised,0.17,Highly Engaged,96.0
+STU_2501,In-Person,168,Happy,0.169,Highly Engaged,91.5
+STU_2502,In-Person,89,Neutral,0.192,Highly Engaged,90.9
+STU_2503,Hybrid,139,Neutral,0.145,Highly Engaged,94.4
+STU_2504,In-Person,213,Happy,0.161,Highly Engaged,98.5
+STU_2505,Online,212,Neutral,0.151,Highly Engaged,99.3
+STU_2506,Online,102,Neutral,0.174,Highly Engaged,92.8
+STU_2507,In-Person,163,Happy,0.115,Engaged,80.5
+STU_2508,Hybrid,224,Neutral,0.154,Highly Engaged,97.8
+STU_2509,In-Person,235,Neutral,0.141,Highly Engaged,95.9
+STU_2510,In-Person,165,Happy,0.144,Highly Engaged,95.5
+STU_2511,Online,249,Neutral,0.164,Highly Engaged,98.8
+STU_2512,In-Person,61,Angry,0.07,Disengaged,40.6
+STU_2513,Hybrid,48,Scared,0.034,Disengaged,50.5
+STU_2514,Hybrid,57,Sad,0.072,Disengaged,59.6
+STU_2515,Hybrid,215,Neutral,0.11,Engaged,82.6
+STU_2516,In-Person,25,Sad,0.038,Disengaged,55.1
+STU_2517,Online,11,Sad,0.073,Disengaged,73.1
+STU_2518,Hybrid,46,Sad,0.061,Disengaged,58.1
+STU_2519,Hybrid,158,Neutral,0.1,Engaged,75.5
+STU_2520,In-Person,175,Surprised,0.122,Engaged,86.0
+STU_2521,Hybrid,6,Scared,0.031,Disengaged,54.5
+STU_2522,Online,82,Happy,0.217,Highly Engaged,98.6
+STU_2523,Online,80,Surprised,0.114,Engaged,89.8
+STU_2524,Online,213,Happy,0.119,Engaged,85.8
+STU_2525,In-Person,83,Happy,0.12,Engaged,87.4
+STU_2526,Online,241,Neutral,0.121,Engaged,76.1
+STU_2527,Online,205,Surprised,0.141,Highly Engaged,98.9
+STU_2528,In-Person,136,Neutral,0.156,Highly Engaged,88.3
+STU_2529,Online,93,Happy,0.162,Highly Engaged,88.9
+STU_2530,In-Person,178,Neutral,0.21,Highly Engaged,99.2
+STU_2531,Hybrid,98,Happy,0.183,Highly Engaged,98.4
+STU_2532,In-Person,156,Neutral,0.158,Highly Engaged,94.9
+STU_2533,Online,146,Surprised,0.214,Highly Engaged,92.4
+STU_2534,Online,66,Sad,0.071,Disengaged,73.3
+STU_2535,In-Person,154,Neutral,0.174,Highly Engaged,99.9
+STU_2536,In-Person,222,Neutral,0.126,Engaged,89.4
+STU_2537,In-Person,109,Neutral,0.122,Engaged,91.3
+STU_2538,Online,23,Scared,0.095,Disengaged,49.4
+STU_2539,In-Person,227,Happy,0.217,Highly Engaged,95.0
+STU_2540,In-Person,153,Happy,0.19,Highly Engaged,94.7
+STU_2541,Hybrid,99,Neutral,0.166,Highly Engaged,88.0
+STU_2542,In-Person,123,Surprised,0.131,Engaged,90.0
+STU_2543,In-Person,69,Scared,0.07,Disengaged,48.8
+STU_2544,Hybrid,42,Scared,0.037,Disengaged,51.0
+STU_2545,Online,224,Surprised,0.19,Highly Engaged,92.4
+STU_2546,Hybrid,225,Neutral,0.176,Highly Engaged,97.9
+STU_2547,Online,166,Neutral,0.165,Highly Engaged,99.7
+STU_2548,Hybrid,109,Neutral,0.201,Highly Engaged,93.1
+STU_2549,Hybrid,208,Neutral,0.121,Engaged,84.5
+STU_2550,Online,249,Neutral,0.179,Highly Engaged,89.8
+STU_2551,Online,140,Neutral,0.149,Highly Engaged,100.0
+STU_2552,Online,229,Happy,0.105,Engaged,85.0
+STU_2553,In-Person,64,Angry,0.013,Disengaged,67.9
+STU_2554,In-Person,248,Surprised,0.15,Highly Engaged,90.0
+STU_2555,Online,81,Scared,0.027,Disengaged,73.1
+STU_2556,In-Person,25,Sad,0.064,Disengaged,60.7
+STU_2557,Hybrid,238,Neutral,0.21,Highly Engaged,96.1
+STU_2558,Online,85,Sad,0.057,Disengaged,70.0
+STU_2559,Online,110,Neutral,0.217,Highly Engaged,91.2
+STU_2560,Hybrid,173,Surprised,0.13,Engaged,81.1
+STU_2561,In-Person,226,Neutral,0.203,Highly Engaged,98.6
+STU_2562,In-Person,82,Disgust,0.03,Disengaged,40.1
+STU_2563,Online,210,Neutral,0.112,Engaged,87.9
+STU_2564,Online,213,Neutral,0.148,Highly Engaged,90.3
+STU_2565,Hybrid,82,Angry,0.097,Disengaged,69.3
+STU_2566,Online,178,Neutral,0.209,Highly Engaged,100.0
+STU_2567,Online,184,Surprised,0.126,Engaged,91.6
+STU_2568,Online,33,Sad,0.051,Disengaged,47.0
+STU_2569,In-Person,70,Scared,0.083,Disengaged,66.1
+STU_2570,In-Person,53,Disgust,0.073,Disengaged,61.6
+STU_2571,Hybrid,67,Disgust,0.012,Disengaged,67.3
+STU_2572,In-Person,124,Neutral,0.121,Engaged,78.8
+STU_2573,Online,7,Scared,0.018,Disengaged,56.3
+STU_2574,Hybrid,217,Surprised,0.163,Highly Engaged,92.0
+STU_2575,Online,179,Surprised,0.179,Highly Engaged,96.2
+STU_2576,Hybrid,134,Neutral,0.179,Highly Engaged,88.5
+STU_2577,In-Person,145,Surprised,0.209,Highly Engaged,94.0
+STU_2578,Hybrid,56,Disgust,0.025,Disengaged,59.2
+STU_2579,Online,27,Angry,0.092,Disengaged,68.8
+STU_2580,Hybrid,143,Happy,0.122,Engaged,85.4
+STU_2581,Online,209,Neutral,0.132,Engaged,87.1
+STU_2582,In-Person,147,Happy,0.213,Highly Engaged,88.1
+STU_2583,Hybrid,76,Scared,0.095,Disengaged,49.6
+STU_2584,Hybrid,75,Sad,0.095,Disengaged,63.7
+STU_2585,Hybrid,205,Happy,0.161,Highly Engaged,89.9
+STU_2586,Hybrid,166,Neutral,0.181,Highly Engaged,99.1
+STU_2587,Online,147,Happy,0.136,Engaged,82.4
+STU_2588,Hybrid,117,Happy,0.129,Engaged,76.1
+STU_2589,Online,10,Angry,0.021,Disengaged,71.1
+STU_2590,In-Person,147,Surprised,0.184,Highly Engaged,91.6
+STU_2591,In-Person,183,Neutral,0.165,Highly Engaged,89.2
+STU_2592,In-Person,188,Happy,0.164,Highly Engaged,98.9
+STU_2593,Hybrid,171,Neutral,0.171,Highly Engaged,94.7
+STU_2594,Hybrid,79,Disgust,0.084,Disengaged,64.7
+STU_2595,Online,136,Happy,0.126,Engaged,87.5
+STU_2596,In-Person,212,Happy,0.175,Highly Engaged,94.6
+STU_2597,Online,148,Happy,0.156,Highly Engaged,89.1
+STU_2598,Hybrid,101,Surprised,0.169,Highly Engaged,98.4
+STU_2599,Online,204,Surprised,0.14,Highly Engaged,88.8
+STU_2600,Online,53,Sad,0.093,Disengaged,72.5
+STU_2601,Hybrid,221,Neutral,0.201,Highly Engaged,92.4
+STU_2602,Online,204,Neutral,0.167,Highly Engaged,98.2
+STU_2603,In-Person,94,Neutral,0.161,Highly Engaged,92.1
+STU_2604,Online,116,Surprised,0.143,Highly Engaged,95.0
+STU_2605,Online,245,Neutral,0.137,Engaged,83.5
+STU_2606,Hybrid,182,Happy,0.165,Highly Engaged,90.6
+STU_2607,Online,59,Scared,0.09,Disengaged,42.9
+STU_2608,Online,31,Scared,0.025,Disengaged,46.5
+STU_2609,In-Person,91,Happy,0.109,Engaged,83.3
+STU_2610,Online,120,Happy,0.18,Highly Engaged,98.1
+STU_2611,In-Person,224,Neutral,0.184,Highly Engaged,90.9
+STU_2612,Online,89,Surprised,0.194,Highly Engaged,98.8
+STU_2613,Online,32,Scared,0.045,Disengaged,49.4
+STU_2614,In-Person,121,Neutral,0.113,Engaged,79.6
+STU_2615,Online,213,Happy,0.172,Highly Engaged,89.7
+STU_2616,Online,34,Scared,0.012,Disengaged,63.0
+STU_2617,Online,44,Scared,0.068,Disengaged,49.2
+STU_2618,Online,129,Neutral,0.188,Highly Engaged,99.3
+STU_2619,In-Person,125,Happy,0.118,Engaged,86.9
+STU_2620,Online,183,Neutral,0.141,Highly Engaged,93.2
+STU_2621,In-Person,204,Neutral,0.12,Engaged,84.9
+STU_2622,In-Person,11,Angry,0.075,Disengaged,55.0
+STU_2623,Hybrid,86,Scared,0.029,Disengaged,49.0
+STU_2624,In-Person,54,Sad,0.013,Disengaged,46.3
+STU_2625,Online,87,Neutral,0.15,Highly Engaged,90.3
+STU_2626,In-Person,61,Scared,0.036,Disengaged,48.4
+STU_2627,Online,178,Happy,0.103,Engaged,87.6
+STU_2628,Hybrid,219,Neutral,0.218,Highly Engaged,93.2
+STU_2629,Hybrid,111,Happy,0.121,Engaged,85.2
+STU_2630,Online,233,Neutral,0.202,Highly Engaged,99.2
+STU_2631,Hybrid,54,Sad,0.071,Disengaged,54.3
+STU_2632,In-Person,108,Happy,0.121,Engaged,81.0
+STU_2633,Online,200,Neutral,0.175,Highly Engaged,90.8
+STU_2634,Online,157,Neutral,0.196,Highly Engaged,96.6
+STU_2635,In-Person,220,Neutral,0.149,Highly Engaged,91.5
+STU_2636,Hybrid,241,Neutral,0.164,Highly Engaged,89.4
+STU_2637,In-Person,207,Happy,0.177,Highly Engaged,88.7
+STU_2638,In-Person,76,Scared,0.096,Disengaged,64.7
+STU_2639,In-Person,159,Neutral,0.138,Engaged,84.7
+STU_2640,In-Person,232,Neutral,0.126,Engaged,84.1
+STU_2641,Online,191,Happy,0.174,Highly Engaged,95.6
+STU_2642,Online,8,Sad,0.026,Disengaged,55.8
+STU_2643,In-Person,141,Neutral,0.162,Highly Engaged,91.7
+STU_2644,Hybrid,207,Neutral,0.19,Highly Engaged,89.4
+STU_2645,Online,144,Happy,0.16,Highly Engaged,89.2
+STU_2646,Online,209,Neutral,0.115,Engaged,82.4
+STU_2647,In-Person,225,Neutral,0.168,Highly Engaged,96.2
+STU_2648,Hybrid,45,Sad,0.07,Disengaged,71.5
+STU_2649,Hybrid,121,Surprised,0.106,Engaged,83.4
+STU_2650,Hybrid,120,Happy,0.178,Highly Engaged,98.0
+STU_2651,Online,76,Sad,0.026,Disengaged,50.6
+STU_2652,Online,185,Surprised,0.204,Highly Engaged,93.0
+STU_2653,Online,201,Neutral,0.213,Highly Engaged,97.4
+STU_2654,Online,120,Happy,0.147,Highly Engaged,92.3
+STU_2655,In-Person,152,Neutral,0.105,Engaged,80.2
+STU_2656,Hybrid,87,Neutral,0.218,Highly Engaged,97.9
+STU_2657,In-Person,92,Surprised,0.165,Highly Engaged,90.4
+STU_2658,In-Person,84,Scared,0.042,Disengaged,62.7
+STU_2659,Online,70,Disgust,0.033,Disengaged,69.5
+STU_2660,Hybrid,131,Surprised,0.112,Engaged,77.2
+STU_2661,Hybrid,227,Neutral,0.128,Engaged,88.4
+STU_2662,In-Person,154,Neutral,0.136,Engaged,79.4
+STU_2663,Online,49,Sad,0.042,Disengaged,52.7
+STU_2664,Hybrid,147,Happy,0.208,Highly Engaged,95.8
+STU_2665,Hybrid,191,Surprised,0.202,Highly Engaged,97.7
+STU_2666,Online,49,Sad,0.062,Disengaged,58.3
+STU_2667,Online,6,Sad,0.012,Disengaged,61.1
+STU_2668,Hybrid,12,Scared,0.031,Disengaged,67.4
+STU_2669,In-Person,102,Neutral,0.216,Highly Engaged,95.6
+STU_2670,Online,41,Sad,0.04,Disengaged,58.0
+STU_2671,Hybrid,68,Scared,0.075,Disengaged,54.7
+STU_2672,Online,96,Neutral,0.137,Engaged,85.3
+STU_2673,In-Person,249,Surprised,0.175,Highly Engaged,90.1
+STU_2674,Online,113,Neutral,0.144,Highly Engaged,92.9
+STU_2675,In-Person,68,Angry,0.089,Disengaged,41.9
+STU_2676,Online,98,Neutral,0.166,Highly Engaged,97.2
+STU_2677,Online,118,Happy,0.188,Highly Engaged,92.9
+STU_2678,Online,94,Neutral,0.173,Highly Engaged,96.2
+STU_2679,Online,69,Sad,0.034,Disengaged,51.7
+STU_2680,Hybrid,126,Neutral,0.192,Highly Engaged,98.7
+STU_2681,Online,176,Neutral,0.214,Highly Engaged,95.6
+STU_2682,In-Person,243,Happy,0.104,Engaged,77.4
+STU_2683,Online,10,Angry,0.016,Disengaged,64.7
+STU_2684,Online,202,Neutral,0.184,Highly Engaged,93.7
+STU_2685,Online,92,Neutral,0.126,Engaged,89.2
+STU_2686,Online,72,Sad,0.074,Disengaged,53.1
+STU_2687,Online,89,Happy,0.142,Highly Engaged,97.3
+STU_2688,Hybrid,19,Angry,0.071,Disengaged,59.0
+STU_2689,Hybrid,168,Neutral,0.208,Highly Engaged,91.3
+STU_2690,Hybrid,229,Surprised,0.124,Engaged,81.6
+STU_2691,Hybrid,247,Neutral,0.193,Highly Engaged,98.3
+STU_2692,Hybrid,152,Neutral,0.147,Highly Engaged,96.8
+STU_2693,Online,212,Surprised,0.21,Highly Engaged,97.1
+STU_2694,Hybrid,111,Happy,0.191,Highly Engaged,95.5
+STU_2695,In-Person,22,Sad,0.061,Disengaged,68.3
+STU_2696,Hybrid,123,Neutral,0.194,Highly Engaged,95.2
+STU_2697,Hybrid,246,Happy,0.159,Highly Engaged,95.4
+STU_2698,Online,97,Happy,0.2,Highly Engaged,88.2
+STU_2699,In-Person,36,Disgust,0.057,Disengaged,49.9
+STU_2700,In-Person,215,Neutral,0.217,Highly Engaged,90.2
+STU_2701,Hybrid,178,Neutral,0.188,Highly Engaged,91.9
+STU_2702,In-Person,231,Happy,0.17,Highly Engaged,94.4
+STU_2703,Online,223,Happy,0.106,Engaged,80.1
+STU_2704,Online,154,Neutral,0.172,Highly Engaged,91.0
+STU_2705,In-Person,78,Angry,0.052,Disengaged,40.9
+STU_2706,In-Person,232,Neutral,0.205,Highly Engaged,94.9
+STU_2707,Online,70,Scared,0.087,Disengaged,63.6
+STU_2708,Online,127,Neutral,0.218,Highly Engaged,98.4
+STU_2709,Online,146,Surprised,0.194,Highly Engaged,99.9
+STU_2710,Online,67,Angry,0.071,Disengaged,48.1
+STU_2711,In-Person,152,Neutral,0.203,Highly Engaged,90.0
+STU_2712,Hybrid,67,Disgust,0.071,Disengaged,69.6
+STU_2713,Online,83,Happy,0.145,Highly Engaged,99.1
+STU_2714,Online,86,Angry,0.083,Disengaged,71.5
+STU_2715,Online,184,Surprised,0.12,Engaged,76.0
+STU_2716,Online,189,Neutral,0.212,Highly Engaged,94.6
+STU_2717,Hybrid,106,Neutral,0.182,Highly Engaged,91.8
+STU_2718,In-Person,115,Neutral,0.213,Highly Engaged,97.0
+STU_2719,In-Person,228,Neutral,0.125,Engaged,83.7
+STU_2720,Online,234,Neutral,0.156,Highly Engaged,99.1
+STU_2721,In-Person,105,Neutral,0.217,Highly Engaged,88.5
+STU_2722,In-Person,159,Happy,0.129,Engaged,77.2
+STU_2723,In-Person,14,Sad,0.07,Disengaged,63.8
+STU_2724,Hybrid,201,Neutral,0.205,Highly Engaged,88.7
+STU_2725,Online,98,Neutral,0.11,Engaged,90.6
+STU_2726,Online,168,Surprised,0.147,Highly Engaged,91.6
+STU_2727,Online,118,Neutral,0.122,Engaged,89.7
+STU_2728,Online,186,Neutral,0.196,Highly Engaged,98.0
+STU_2729,Online,129,Neutral,0.105,Engaged,79.6
+STU_2730,Hybrid,84,Angry,0.015,Disengaged,70.2
+STU_2731,In-Person,34,Scared,0.089,Disengaged,64.4
+STU_2732,Hybrid,127,Happy,0.166,Highly Engaged,98.3
+STU_2733,Online,209,Surprised,0.142,Highly Engaged,94.5
+STU_2734,In-Person,161,Happy,0.187,Highly Engaged,98.8
+STU_2735,In-Person,106,Surprised,0.148,Highly Engaged,90.3
+STU_2736,In-Person,188,Surprised,0.174,Highly Engaged,88.4
+STU_2737,In-Person,232,Surprised,0.143,Highly Engaged,95.2
+STU_2738,Hybrid,233,Neutral,0.158,Highly Engaged,97.8
+STU_2739,In-Person,224,Neutral,0.127,Engaged,82.8
+STU_2740,Online,227,Happy,0.213,Highly Engaged,92.8
+STU_2741,Online,20,Scared,0.013,Disengaged,71.7
+STU_2742,Online,154,Happy,0.178,Highly Engaged,95.9
+STU_2743,Online,80,Scared,0.038,Disengaged,56.4
+STU_2744,Online,52,Disgust,0.067,Disengaged,70.1
+STU_2745,Hybrid,189,Neutral,0.125,Engaged,88.0
+STU_2746,In-Person,81,Surprised,0.103,Engaged,91.1
+STU_2747,Hybrid,248,Surprised,0.119,Engaged,75.5
+STU_2748,Online,42,Disgust,0.031,Disengaged,54.3
+STU_2749,In-Person,34,Disgust,0.015,Disengaged,45.3
+STU_2750,Hybrid,227,Surprised,0.149,Highly Engaged,94.7
+STU_2751,Online,211,Neutral,0.143,Highly Engaged,88.7
+STU_2752,Hybrid,42,Sad,0.061,Disengaged,43.8
+STU_2753,Online,181,Neutral,0.159,Highly Engaged,88.2
+STU_2754,Online,19,Sad,0.089,Disengaged,59.7
+STU_2755,In-Person,70,Angry,0.038,Disengaged,70.1
+STU_2756,Online,124,Happy,0.19,Highly Engaged,99.9
+STU_2757,Hybrid,91,Surprised,0.159,Highly Engaged,97.0
+STU_2758,In-Person,100,Happy,0.102,Engaged,75.6
+STU_2759,In-Person,202,Happy,0.202,Highly Engaged,95.1
+STU_2760,Online,233,Neutral,0.154,Highly Engaged,92.9
+STU_2761,Online,28,Sad,0.014,Disengaged,69.7
+STU_2762,Online,12,Angry,0.026,Disengaged,44.1
+STU_2763,Hybrid,25,Angry,0.093,Disengaged,70.7
+STU_2764,Hybrid,95,Neutral,0.154,Highly Engaged,95.4
+STU_2765,Online,9,Scared,0.07,Disengaged,43.6
+STU_2766,In-Person,74,Sad,0.067,Disengaged,59.0
+STU_2767,Hybrid,113,Neutral,0.122,Engaged,81.0
+STU_2768,Online,159,Neutral,0.16,Highly Engaged,96.1
+STU_2769,Hybrid,107,Neutral,0.117,Engaged,89.8
+STU_2770,Hybrid,53,Angry,0.06,Disengaged,60.1
+STU_2771,Online,179,Surprised,0.167,Highly Engaged,96.7
+STU_2772,Online,62,Sad,0.028,Disengaged,42.4
+STU_2773,In-Person,86,Neutral,0.13,Engaged,85.4
+STU_2774,Hybrid,82,Sad,0.029,Disengaged,57.6
+STU_2775,Hybrid,233,Neutral,0.134,Engaged,90.2
+STU_2776,Hybrid,87,Happy,0.191,Highly Engaged,100.0
+STU_2777,Online,216,Surprised,0.111,Engaged,79.9
+STU_2778,Online,165,Neutral,0.167,Highly Engaged,92.5
+STU_2779,Hybrid,18,Scared,0.05,Disengaged,50.7
+STU_2780,Online,154,Neutral,0.184,Highly Engaged,88.6
+STU_2781,Online,118,Surprised,0.161,Highly Engaged,97.5
+STU_2782,In-Person,102,Happy,0.147,Highly Engaged,88.0
+STU_2783,In-Person,191,Happy,0.135,Engaged,88.5
+STU_2784,In-Person,136,Neutral,0.154,Highly Engaged,92.4
+STU_2785,In-Person,126,Neutral,0.12,Engaged,85.7
+STU_2786,Online,63,Angry,0.054,Disengaged,67.5
+STU_2787,In-Person,84,Neutral,0.127,Engaged,77.2
+STU_2788,Online,56,Sad,0.016,Disengaged,69.4
+STU_2789,In-Person,15,Disgust,0.054,Disengaged,56.1
+STU_2790,In-Person,142,Neutral,0.132,Engaged,90.1
+STU_2791,In-Person,152,Neutral,0.159,Highly Engaged,99.2
+STU_2792,In-Person,138,Surprised,0.118,Engaged,88.4
+STU_2793,Hybrid,13,Disgust,0.027,Disengaged,47.2
+STU_2794,Online,12,Angry,0.029,Disengaged,70.8
+STU_2795,Hybrid,170,Happy,0.11,Engaged,82.9
+STU_2796,Hybrid,36,Sad,0.087,Disengaged,53.6
+STU_2797,Online,179,Neutral,0.214,Highly Engaged,99.4
+STU_2798,Hybrid,35,Disgust,0.03,Disengaged,64.5
+STU_2799,In-Person,50,Disgust,0.029,Disengaged,51.6
+STU_2800,Online,140,Neutral,0.167,Highly Engaged,91.0
+STU_2801,In-Person,160,Neutral,0.187,Highly Engaged,90.2
+STU_2802,In-Person,126,Neutral,0.15,Highly Engaged,89.8
+STU_2803,In-Person,241,Neutral,0.194,Highly Engaged,94.6
+STU_2804,In-Person,17,Sad,0.068,Disengaged,43.2
+STU_2805,Hybrid,249,Happy,0.144,Highly Engaged,93.4
+STU_2806,In-Person,220,Neutral,0.188,Highly Engaged,90.6
+STU_2807,In-Person,177,Neutral,0.133,Engaged,79.2
+STU_2808,Online,5,Disgust,0.038,Disengaged,45.0
+STU_2809,Hybrid,208,Surprised,0.111,Engaged,83.4
+STU_2810,In-Person,94,Happy,0.102,Engaged,83.2
+STU_2811,Online,224,Neutral,0.145,Highly Engaged,91.4
+STU_2812,Hybrid,35,Disgust,0.018,Disengaged,60.1
+STU_2813,Hybrid,73,Scared,0.073,Disengaged,53.2
+STU_2814,Online,83,Neutral,0.207,Highly Engaged,91.1
+STU_2815,Hybrid,144,Neutral,0.206,Highly Engaged,99.3
+STU_2816,In-Person,96,Neutral,0.113,Engaged,86.9
+STU_2817,Hybrid,96,Neutral,0.184,Highly Engaged,99.9
+STU_2818,Online,231,Happy,0.143,Highly Engaged,91.4
+STU_2819,Online,52,Angry,0.048,Disengaged,67.9
+STU_2820,Online,168,Happy,0.11,Engaged,87.6
+STU_2821,In-Person,63,Scared,0.015,Disengaged,68.5
+STU_2822,Online,232,Happy,0.175,Highly Engaged,97.1
+STU_2823,Hybrid,19,Sad,0.086,Disengaged,72.8
+STU_2824,Online,18,Sad,0.097,Disengaged,60.2
+STU_2825,Online,180,Neutral,0.101,Engaged,91.4
+STU_2826,In-Person,91,Happy,0.196,Highly Engaged,89.5
+STU_2827,In-Person,157,Surprised,0.136,Engaged,82.3
+STU_2828,Online,245,Neutral,0.115,Engaged,88.7
+STU_2829,Hybrid,146,Happy,0.156,Highly Engaged,93.1
+STU_2830,Online,184,Happy,0.171,Highly Engaged,91.1
+STU_2831,Hybrid,32,Disgust,0.021,Disengaged,46.2
+STU_2832,Hybrid,97,Happy,0.115,Engaged,78.0
+STU_2833,Online,13,Sad,0.067,Disengaged,72.1
+STU_2834,Online,228,Happy,0.172,Highly Engaged,90.9
+STU_2835,Online,63,Sad,0.017,Disengaged,41.2
+STU_2836,In-Person,179,Happy,0.148,Highly Engaged,89.6
+STU_2837,In-Person,64,Scared,0.06,Disengaged,62.8
+STU_2838,Online,121,Happy,0.114,Engaged,76.7
+STU_2839,In-Person,239,Surprised,0.156,Highly Engaged,96.8
+STU_2840,Online,139,Surprised,0.218,Highly Engaged,99.8
+STU_2841,Online,111,Happy,0.103,Engaged,87.4
+STU_2842,In-Person,137,Neutral,0.115,Engaged,77.3
+STU_2843,In-Person,190,Neutral,0.117,Engaged,84.9
+STU_2844,In-Person,153,Neutral,0.149,Highly Engaged,95.2
+STU_2845,Hybrid,45,Scared,0.087,Disengaged,42.5
+STU_2846,Online,113,Neutral,0.163,Highly Engaged,92.9
+STU_2847,In-Person,89,Neutral,0.206,Highly Engaged,96.7
+STU_2848,Online,17,Sad,0.055,Disengaged,40.5
+STU_2849,Hybrid,138,Neutral,0.174,Highly Engaged,93.5
+STU_2850,Online,165,Happy,0.168,Highly Engaged,94.2
+STU_2851,Hybrid,117,Neutral,0.163,Highly Engaged,90.7
+STU_2852,Online,56,Angry,0.056,Disengaged,51.8
+STU_2853,Online,44,Scared,0.095,Disengaged,56.5
+STU_2854,In-Person,48,Scared,0.055,Disengaged,62.6
+STU_2855,Online,87,Happy,0.13,Engaged,90.6
+STU_2856,Hybrid,21,Sad,0.011,Disengaged,47.0
+STU_2857,Online,157,Neutral,0.153,Highly Engaged,91.0
+STU_2858,Online,170,Neutral,0.187,Highly Engaged,98.7
+STU_2859,Online,240,Neutral,0.106,Engaged,81.3
+STU_2860,Online,225,Happy,0.115,Engaged,79.3
+STU_2861,In-Person,129,Happy,0.174,Highly Engaged,98.1
+STU_2862,Online,203,Happy,0.154,Highly Engaged,94.3
+STU_2863,In-Person,232,Neutral,0.104,Engaged,89.6
+STU_2864,Hybrid,144,Happy,0.202,Highly Engaged,89.7
+STU_2865,Hybrid,53,Sad,0.052,Disengaged,65.4
+STU_2866,Hybrid,211,Happy,0.14,Highly Engaged,92.5
+STU_2867,Hybrid,57,Sad,0.05,Disengaged,45.9
+STU_2868,In-Person,218,Neutral,0.141,Highly Engaged,97.0
+STU_2869,Online,14,Sad,0.047,Disengaged,72.8
+STU_2870,Online,110,Happy,0.104,Engaged,89.1
+STU_2871,In-Person,149,Neutral,0.103,Engaged,86.1
+STU_2872,In-Person,104,Neutral,0.108,Engaged,91.7
+STU_2873,In-Person,182,Surprised,0.205,Highly Engaged,92.0
+STU_2874,Hybrid,68,Scared,0.078,Disengaged,54.6
+STU_2875,In-Person,161,Happy,0.194,Highly Engaged,90.9
+STU_2876,Hybrid,177,Neutral,0.111,Engaged,78.6
+STU_2877,Hybrid,73,Scared,0.076,Disengaged,40.8
+STU_2878,Online,150,Surprised,0.151,Highly Engaged,94.4
+STU_2879,Hybrid,192,Happy,0.202,Highly Engaged,96.4
+STU_2880,Online,234,Happy,0.216,Highly Engaged,97.4
+STU_2881,Online,240,Neutral,0.21,Highly Engaged,96.9
+STU_2882,In-Person,120,Surprised,0.178,Highly Engaged,92.2
+STU_2883,Online,102,Happy,0.143,Highly Engaged,97.4
+STU_2884,Online,56,Disgust,0.078,Disengaged,64.6
+STU_2885,Online,222,Happy,0.212,Highly Engaged,97.1
+STU_2886,In-Person,148,Happy,0.103,Engaged,90.3
+STU_2887,Hybrid,241,Happy,0.189,Highly Engaged,97.1
+STU_2888,Hybrid,30,Angry,0.045,Disengaged,60.7
+STU_2889,In-Person,65,Sad,0.011,Disengaged,46.8
+STU_2890,In-Person,153,Happy,0.148,Highly Engaged,89.2
+STU_2891,Online,76,Sad,0.035,Disengaged,72.6
+STU_2892,Hybrid,214,Happy,0.101,Engaged,79.8
+STU_2893,In-Person,208,Happy,0.112,Engaged,76.3
+STU_2894,Hybrid,171,Neutral,0.124,Engaged,79.5
+STU_2895,Online,206,Happy,0.143,Highly Engaged,88.3
+STU_2896,In-Person,169,Neutral,0.125,Engaged,79.9
+STU_2897,Hybrid,68,Angry,0.017,Disengaged,43.0
+STU_2898,Online,129,Neutral,0.158,Highly Engaged,97.5
+STU_2899,Hybrid,82,Angry,0.012,Disengaged,72.4
+STU_2900,Online,156,Happy,0.16,Highly Engaged,99.8
+STU_2901,Online,228,Surprised,0.212,Highly Engaged,96.8
+STU_2902,In-Person,245,Happy,0.14,Highly Engaged,89.2
+STU_2903,Online,102,Neutral,0.213,Highly Engaged,88.2
+STU_2904,Hybrid,105,Happy,0.118,Engaged,88.9
+STU_2905,Hybrid,148,Neutral,0.121,Engaged,85.1
+STU_2906,Online,245,Surprised,0.17,Highly Engaged,92.2
+STU_2907,In-Person,102,Happy,0.12,Engaged,82.9
+STU_2908,Online,37,Sad,0.054,Disengaged,56.6
+STU_2909,Online,162,Neutral,0.207,Highly Engaged,90.9
+STU_2910,Online,80,Neutral,0.192,Highly Engaged,91.5
+STU_2911,Online,138,Happy,0.119,Engaged,75.3
+STU_2912,Online,29,Angry,0.048,Disengaged,58.8
+STU_2913,In-Person,58,Sad,0.017,Disengaged,46.4
+STU_2914,In-Person,222,Happy,0.212,Highly Engaged,89.3
+STU_2915,Online,192,Happy,0.209,Highly Engaged,88.2
+STU_2916,Hybrid,215,Neutral,0.132,Engaged,80.6
+STU_2917,In-Person,37,Disgust,0.028,Disengaged,40.7
+STU_2918,In-Person,94,Surprised,0.156,Highly Engaged,95.9
+STU_2919,Hybrid,135,Neutral,0.218,Highly Engaged,97.2
+STU_2920,Online,129,Happy,0.207,Highly Engaged,93.4
+STU_2921,Online,214,Neutral,0.191,Highly Engaged,98.6
+STU_2922,In-Person,79,Disgust,0.039,Disengaged,67.2
+STU_2923,In-Person,175,Neutral,0.165,Highly Engaged,90.2
+STU_2924,Online,209,Surprised,0.173,Highly Engaged,88.0
+STU_2925,Online,190,Neutral,0.14,Engaged,80.4
+STU_2926,In-Person,24,Sad,0.039,Disengaged,59.1
+STU_2927,In-Person,69,Sad,0.081,Disengaged,73.1
+STU_2928,In-Person,169,Surprised,0.122,Engaged,82.7
+STU_2929,In-Person,236,Surprised,0.169,Highly Engaged,89.3
+STU_2930,Online,9,Scared,0.095,Disengaged,53.3
+STU_2931,Hybrid,129,Neutral,0.138,Engaged,77.1
+STU_2932,Hybrid,125,Neutral,0.186,Highly Engaged,94.8
+STU_2933,Online,143,Neutral,0.216,Highly Engaged,93.2
+STU_2934,Hybrid,6,Disgust,0.072,Disengaged,65.0
+STU_2935,In-Person,153,Happy,0.194,Highly Engaged,91.6
+STU_2936,Online,9,Sad,0.036,Disengaged,61.8
+STU_2937,In-Person,226,Surprised,0.113,Engaged,89.1
+STU_2938,Hybrid,107,Neutral,0.151,Highly Engaged,89.3
+STU_2939,In-Person,245,Neutral,0.134,Engaged,80.5
+STU_2940,Online,153,Neutral,0.108,Engaged,91.8
+STU_2941,Online,145,Happy,0.117,Engaged,77.1
+STU_2942,Hybrid,114,Neutral,0.178,Highly Engaged,92.3
+STU_2943,Online,102,Neutral,0.218,Highly Engaged,91.1
+STU_2944,In-Person,85,Scared,0.029,Disengaged,56.8
+STU_2945,In-Person,26,Disgust,0.013,Disengaged,54.1
+STU_2946,Online,157,Neutral,0.13,Engaged,87.9
+STU_2947,Hybrid,188,Neutral,0.137,Engaged,80.4
+STU_2948,Hybrid,159,Neutral,0.131,Engaged,77.6
+STU_2949,Online,213,Surprised,0.188,Highly Engaged,94.7
+STU_2950,In-Person,45,Scared,0.056,Disengaged,61.6
+STU_2951,In-Person,162,Neutral,0.107,Engaged,91.5
+STU_2952,Hybrid,135,Neutral,0.119,Engaged,85.9
+STU_2953,In-Person,61,Sad,0.032,Disengaged,43.5
+STU_2954,Hybrid,211,Surprised,0.138,Engaged,89.3
+STU_2955,In-Person,94,Neutral,0.173,Highly Engaged,98.3
+STU_2956,Hybrid,98,Surprised,0.184,Highly Engaged,96.1
+STU_2957,In-Person,100,Neutral,0.186,Highly Engaged,88.8
+STU_2958,In-Person,160,Happy,0.14,Engaged,91.1
+STU_2959,Online,61,Sad,0.087,Disengaged,45.8
+STU_2960,In-Person,73,Sad,0.021,Disengaged,67.7
+STU_2961,Online,238,Happy,0.181,Highly Engaged,97.8
+STU_2962,Online,19,Angry,0.023,Disengaged,57.7
+STU_2963,Online,132,Happy,0.109,Engaged,79.4
+STU_2964,In-Person,56,Sad,0.064,Disengaged,73.3
+STU_2965,In-Person,200,Happy,0.142,Highly Engaged,94.7
+STU_2966,In-Person,11,Scared,0.081,Disengaged,47.9
+STU_2967,In-Person,40,Angry,0.036,Disengaged,61.3
+STU_2968,Hybrid,138,Neutral,0.115,Engaged,83.4
+STU_2969,In-Person,40,Angry,0.082,Disengaged,43.4
+STU_2970,Hybrid,80,Scared,0.024,Disengaged,66.0
+STU_2971,Online,49,Sad,0.06,Disengaged,55.9
+STU_2972,Online,96,Neutral,0.169,Highly Engaged,99.7
+STU_2973,In-Person,82,Sad,0.067,Disengaged,55.6
+STU_2974,In-Person,55,Scared,0.092,Disengaged,40.8
+STU_2975,Online,134,Neutral,0.215,Highly Engaged,88.6
+STU_2976,Online,48,Angry,0.09,Disengaged,57.8
+STU_2977,In-Person,181,Neutral,0.11,Engaged,77.7
+STU_2978,Online,104,Neutral,0.203,Highly Engaged,94.6
+STU_2979,In-Person,140,Happy,0.218,Highly Engaged,93.3
+STU_2980,In-Person,242,Happy,0.177,Highly Engaged,98.5
+STU_2981,Hybrid,162,Surprised,0.162,Highly Engaged,88.1
+STU_2982,Online,248,Neutral,0.185,Highly Engaged,91.9
+STU_2983,In-Person,25,Disgust,0.073,Disengaged,47.0
+STU_2984,In-Person,216,Neutral,0.217,Highly Engaged,99.3
+STU_2985,Hybrid,89,Neutral,0.201,Highly Engaged,98.6
+STU_2986,In-Person,246,Neutral,0.197,Highly Engaged,98.7
+STU_2987,Online,85,Happy,0.152,Highly Engaged,97.1
+STU_2988,Hybrid,75,Angry,0.049,Disengaged,63.0
+STU_2989,In-Person,141,Surprised,0.151,Highly Engaged,99.9
+STU_2990,In-Person,62,Scared,0.053,Disengaged,68.1
+STU_2991,Online,190,Neutral,0.21,Highly Engaged,91.6
+STU_2992,In-Person,217,Happy,0.118,Engaged,76.4
+STU_2993,Hybrid,166,Happy,0.208,Highly Engaged,94.5
+STU_2994,Online,128,Happy,0.188,Highly Engaged,90.5
+STU_2995,Online,86,Neutral,0.107,Engaged,90.3
+STU_2996,In-Person,239,Surprised,0.103,Engaged,81.6
+STU_2997,Online,220,Happy,0.121,Engaged,81.1
+STU_2998,Online,37,Sad,0.072,Disengaged,57.2
+STU_2999,Online,190,Happy,0.159,Highly Engaged,97.6
+STU_3000,In-Person,120,Neutral,0.128,Engaged,91.1
